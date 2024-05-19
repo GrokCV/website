@@ -1,6 +1,6 @@
 ---
 # Display name
-title: pxq
+title: Xiuqing Pan
 
 # Full Name (for SEO)
 first_name: Xiuqing
@@ -10,7 +10,7 @@ last_name: Pan
 superuser: true
 
 # Role/position
-role: Administrator of GrokCV
+role: IT Administrator
 
 # Organizations/Affiliations
 organizations:

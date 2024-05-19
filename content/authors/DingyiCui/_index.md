@@ -10,7 +10,7 @@ last_name: Cui
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:

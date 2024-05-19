@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        GrokCV
-        Research Group
+        GrokCV Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **GrokCV Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **GrokCV Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:

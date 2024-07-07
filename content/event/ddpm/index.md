@@ -1,5 +1,5 @@
 ---
-title: 【文献梳理】稀疏表示优化求解：从凸优化到深度展开
+title: 【文献分享】扩散模型（1）：DDPM 数学推导与代码解析
 
 event: GrokCV Seminar
 event_url: https://www.bilibili.com/video/BV1mZ421H7c6/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e

@@ -2,7 +2,7 @@
 title: 【文献分享】扩散模型（1）：DDPM 数学推导与代码解析
 
 event: GrokCV Seminar
-event_url: https://www.bilibili.com/video/BV1mZ421H7c6/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e
+event_url: https://space.bilibili.com/833564
 
 location: Tencent Meeting
 # address:
@@ -38,7 +38,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Follow
-    url: https://www.bilibili.com/video/BV1mZ421H7c6/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e
+    url: https://space.bilibili.com/833564
 url_code: 'https://github.com/jianzhangcs/ISTA-Net-PyTorch'
 url_pdf: 'https://arxiv.org/pdf/2006.11239'
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2024-01-15-Deep-Unfolding.pdf'

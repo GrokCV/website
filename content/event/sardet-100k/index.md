@@ -2,7 +2,7 @@
 title: 【工作分享】SARDet-100K:大规模 SAR 目标检测
 
 event: GrokCV Seminar
-event_url: https://www.bilibili.com/video/BV1fw4m1v7aa/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e
+event_url: https://space.bilibili.com/833564
 
 location: Tencent Meeting
 # address:
@@ -38,7 +38,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Follow
-    url: https://www.bilibili.com/video/BV1fw4m1v7aa/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e
+    url: https://space.bilibili.com/833564
 url_code: 'https://github.com/jianzhangcs/ISTA-Net-PyTorch'
 url_pdf: 'https://arxiv.org/pdf/2403.06534'
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2024-01-15-Deep-Unfolding.pdf'

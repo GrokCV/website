@@ -1,5 +1,5 @@
 ---
-title: 【工作分享】Blind2Sound: 真实场景下的贝叶斯去噪方法
+title: 【工作分享】Blind2Sound：真实场景下的贝叶斯去噪方法
 
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
@@ -18,7 +18,7 @@ abstract: 关于稀疏表示优化求解的文献梳理，从传统的迭代求�
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-01-12T22:00:00Z'
-date_end: '2024-01-12T22:00:00Z'
+date_end: '2024-01-12T23:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

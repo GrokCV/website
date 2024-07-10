@@ -1,5 +1,5 @@
 ---
-title: 【文献梳理】稀疏表示优化求解：从凸优化到深度展开
+title: 【文献梳理】CLIP：基本方法、下游应用与模型微调
 
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564

@@ -18,7 +18,7 @@ abstract: 关于稀疏表示优化求解的文献梳理，从传统的迭代求�
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-12-22T23:00:00Z'
-date_end: '2023-12-22T24:00:00Z'
+date_end: '2023-12-22T23:59:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

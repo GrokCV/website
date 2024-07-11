@@ -26,14 +26,8 @@ interests:
 education:
   courses:
     - course: BEng in Software Engineering
-            institution: Yancheng Teachers University
+      institution: Yancheng Teachers University
       year: 2024
-    # - course: 
-    #   institution: 
-    #   year: 
-    - course:
-      institution: 
-      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -54,7 +48,8 @@ social:
     link: 
   - icon: weixin
     icon_pack: fab
-    link: https://api.erweicaihong.cn/temp/1720669573515.jpg  - icon: youtube
+    link: https://api.erweicaihong.cn/temp/1720669573515.jpg
+  - icon: youtube
     icon_pack: fab
     link:
   - icon: zhihu

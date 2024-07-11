@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dingyi Cui
+title: Yinrui Li
 
 # Full Name (for SEO)
-first_name: Dingyi
-last_name: Cui
+first_name: Yinrui
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dingy.cui@gmail.com'
+    link: 'mailto:LIYinrui66@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GrokCV
@@ -49,7 +49,7 @@ social:
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/DingyiCui
+    link: https://github.com/LYRgood
   - icon: weixin
     icon_pack: fab
     link: https://github.com/DingyiCui/imgbed/blob/96581f1b9abc869dbc6cdb387025db99c7b8cca2/wechat%20picture/wechat.jpg
@@ -77,7 +77,7 @@ user_groups:
   - Undergraduates
 ---
 
-Dingyi Cui（崔丁一） is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. His research interests include image denoising, image enhancement, and object detection.For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://dingyi.grokcv.ai/>.
+Yinrui Li（李崯瑞） is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. Her research interests include image denoising, image enhancement, and object detection.For more detailed information about her research, publications, and projects, please visit her personal academic website at <https://yinrui.grokcv.ai/>.
 {style="text-align: justify;"}
 
 

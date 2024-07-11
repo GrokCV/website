@@ -51,12 +51,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GrokCV
+  - icon: google-scholar
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/LYRgood
   - icon: weixin
     icon_pack: fab
-    link: https://github.com/LYRgood/imgbed/blob/main/Li%20Yingrui's%20WeChat%20QR%20Code/Li%20Yingrui's%20WeChat%20QR%20Code.jpg
+    link: 'https://github.com/LYRgood/imgbed/blob/main/Li%20Yingrui's%20WeChat%20QR%20Code/Li%20Yingrui's%20WeChat%20QR%20Code.jpg'
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/833564

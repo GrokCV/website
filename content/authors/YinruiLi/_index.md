@@ -52,7 +52,7 @@ social:
     link: https://github.com/LYRgood
   - icon: weixin
     icon_pack: fab
-    link: https://github.com/DingyiCui/imgbed/blob/96581f1b9abc869dbc6cdb387025db99c7b8cca2/wechat%20picture/wechat.jpg
+    link: https://github.com/LYRgood/imgbed/blob/main/Li%20Yingrui's%20WeChat%20QR%20Code/Li%20Yingrui's%20WeChat%20QR%20Code.jpg
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/833564

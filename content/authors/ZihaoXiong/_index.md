@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yinrui Li
+title: Zihao Xiong
 
 # Full Name (for SEO)
-first_name: Yinrui
-last_name: Li
+first_name: Zihao
+last_name: Xiong
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,11 +18,11 @@ organizations:
     url: https://www.haut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image restoration, object detection
+bio: My research interests include infrared small target detection, tracking, and super-resolution.
 
 interests:
-  - Image Restoration
-  - Object Detection
+  - Infrared Small Target Detection
+  - Super-Resolution
 
 education:
   courses:
@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:LIYinrui66@gmail.com'
+    link: 'mailto:zihhao.syong@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GrokCV
@@ -49,10 +49,10 @@ social:
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/LYRgood
+    link: https://github.com/GrokCV
   - icon: weixin
     icon_pack: fab
-    link: https://github.com/LYRgood/imgbed/blob/main/WeChat/QR%20Code.jpg?raw=true
+    link: 
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/833564
@@ -77,7 +77,7 @@ user_groups:
   - Undergraduates
 ---
 
-Yinrui Li（李崯瑞） is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. Her research interests include image denoising, image enhancement, and object detection.For more detailed information about her research, publications, and projects, please visit her personal academic website at <https://yinrui.grokcv.ai/>.
+Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at the School of Information Science and Engineering, Henan University of Technology. He is also a research intern at the PCA Lab, Nanjing University of Science and Technology. His research interests include infrared small target detection, tracking, and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://zihao.grokcv.ai/>.
 {style="text-align: justify;"}
 
 

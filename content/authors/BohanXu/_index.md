@@ -77,7 +77,7 @@ user_groups:
   - Undergraduates
 ---
 
-Bohan Xu (徐博涵) is currently pursuing Bachelor degree of Electronic Information Engineering at the School of Information Science and Engineering of Henan University of Technology. His main research direction is infrared small target detection and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://bohan.grokcv.ai/>.
+Bohan Xu (徐博涵) is currently pursuing Bachelor's degree of Electronic Information Engineering at the School of Information Science and Engineering of Henan University of Technology. His main research direction is infrared small target detection and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://bohan.grokcv.ai/>.
 {style="text-align: justify;"}
 
 

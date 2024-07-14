@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
+    - course: MEng in Computer Science and Technology
+      institution: Nanjing University of Posts and Telecommunications
+      year: 2025
     - course: BEng in Safety Engineering
       institution: Civil Aviation University of China
       year: 2022

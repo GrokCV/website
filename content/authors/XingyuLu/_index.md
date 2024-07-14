@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:13222689926@163.com'
+    link: 'mailto:xingyu.lu17@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GrokCV

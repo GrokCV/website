@@ -80,5 +80,3 @@ user_groups:
 
 Mengxuan Xiao (肖梦暄) is currently a master student at Nanjing University of Science and Technology, supervised by Associate Professor Huan Wang (王欢) and Dr. [Yimian Dai (戴一冕)](https://scholar.google.com/citations?user=y5Ov6VAAAAAJ) at Nanjing University of Science and Technology. Her current research direction is infrared small target detection and object recognition. For more details about her research, publications, and projects, please visit her personal academic website <https://mengxuan.grokcv.ai/>.
 {style="text-align: justify;"}
-
-

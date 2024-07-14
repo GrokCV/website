@@ -7,7 +7,7 @@ first_name: Nan
 last_name: Wei
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Research Assistant

@@ -14,10 +14,11 @@ sections:
           # - Principal Investigators
           # - Researchers
           - Staff
-          - PhD Students
-          - Master Students
+          - PhD Student
+          - Master Student
           # - Grad Students
-          - Undergraduates
+          - Undergraduate
+          - Engineer
           - Administration
           # - Visitors
           - Alumni

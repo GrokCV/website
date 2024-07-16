@@ -73,7 +73,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Master Student
 ---
 
 Yuntong Zhang (张云彤) is currently a Master student at the Department of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT). She is a member of the [GrokCV Group](https://grokcv.ai/), which specializes in the development of algorithms for remote sensing object detection, data assimilation, and computational imaging, aiming to address real-world challenges in these fields. 

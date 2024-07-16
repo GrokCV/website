@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Master Student
 ---
 
 Mengxu Zhang (张萌旭) is currently a Master candidate at the School of Electronic and Optical Engineering, Nanjing University of Science and Technology (NJUST), China. He graduated from NJUST in 2024 with a Bachelor's degree in the same field. His research interest is image super-resolution.

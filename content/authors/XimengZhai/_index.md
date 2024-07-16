@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Master Student
 ---
 
 Ximeng Zhai (翟曦盟) received the B.S. degree in measurement and control technology and instrumentation from Tianjin University in 2021. He is currently pursuing his master's degree in Electronic Information at Xi'an Institute of Optics and Precision Mechanics (XIOPM), University of Chinese Academy of Sciences, China, under the guidance of [Yaohong Chen](https://scholar.google.com/citations?user=9YcR_ksAAAAJ&hl) from Xi’an Institute of Optics and Precision Mechanics (XIOPM), University of Chinese Academy of Sciences, China and [Yimian Dai](https://scholar.google.com/citations?user=y5Ov6VAAAAAJ) from Nanjing University of Science and Technology. Meanwhile, he is a member of [GrokCV Group](https://grokcv.ai/), which specializes in the development of algorithms for remote sensing object detection, data assimilation, and computational imaging, aiming to address real-world challenges in these fields, led by [Yimian Dai](https://yimian.grokcv.ai/).

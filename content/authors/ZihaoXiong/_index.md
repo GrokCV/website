@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Undergraduate
 ---
 
 Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at the School of Information Science and Engineering, Henan University of Technology. He is also a research intern at the PCA Lab, Nanjing University of Science and Technology. His research interests include infrared small target detection, tracking, and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://zihao.grokcv.ai/>.

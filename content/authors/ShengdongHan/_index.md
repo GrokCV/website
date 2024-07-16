@@ -75,7 +75,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Master Student
 ---
 
 Shengdong Han (韩圣东) received the B.S. degree in software engineering from Wuhan University of Science and Technology in 2022. He is currently pursuing his master's degree in Software Engineering at Nanjing University of Posts and Telecommunications, under the guidance of [Dr. Shangdong Yang](https://scholar.google.com/citations?user=9YcR_ksAAAAJ&hl) from Nanjing University of Posts and Telecommunications and [Dr. Yimian Dai](https://scholar.google.com/citations?user=y5Ov6VAAAAAJ) from Nanjing University of Science and Technology. Meanwhile, he is a member of [GrokCV Group](https://grokcv.ai/), which specializes in the development of algorithms for remote sensing object detection, data assimilation, and computational imaging, aiming to address real-world challenges in these fields, led by [Dr. Yimian Dai](https://yimian.grokcv.ai/).

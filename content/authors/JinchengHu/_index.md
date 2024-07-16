@@ -72,7 +72,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Undergraduate
 ---
 
 Jincheng Hu (胡锦程) is currently pursuing Bachelor's degree of Electronic Information Engineering at the School of Information Science and Engineering of Henan University of Technology. His main research direction is the Segment Anything Model, Contrastive Language-Image Pre-Training, and large models. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://jincheng.grokcv.ai/>.

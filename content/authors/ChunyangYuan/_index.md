@@ -78,7 +78,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Master Student
 ---
 
 Chunyang Yuan (袁春阳) received the B.S degree in Energy and Power Engineering from Henan Polytechnic University, Henan, China, in 2021. He is currently pursuing a master's degree in Computer Science and Technology at Nanjing University of Posts and Telecommunications, Nanjing, China. His research interests include image super-resolution, SAR image processing, and computer vision.

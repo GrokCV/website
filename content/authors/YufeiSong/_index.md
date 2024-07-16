@@ -75,7 +75,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Undergraduate
 ---
 
 Yufei Song (宋雨菲) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. Her main research direction is the Neural Networks, Image Enhancement, and Object Detection. For more detailed information about her research, publications, and projects, please visit her personal academic website at <https://yufei.grokcv.ai/>.

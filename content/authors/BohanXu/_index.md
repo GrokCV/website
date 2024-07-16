@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Undergraduate
 ---
 
 Bohan Xu (徐博涵) is currently pursuing Bachelor's degree of Electronic Information Engineering at the School of Information Science and Engineering of Henan University of Technology. His main research direction is infrared small target detection and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://bohan.grokcv.ai/>.

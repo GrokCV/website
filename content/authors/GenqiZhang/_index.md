@@ -78,7 +78,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Undergraduate
 ---
 
 Genqi Zhang (张根麒) is currently an undergraduate student at Henan University of Technology. He is part of the [GrokCV Group](https://grokcv.ai/), led by [Dr. Yimian Dai (戴一冕)](https://scholar.google.com/citations?user=y5Ov6VAAAAAJ), which specializes in the development of remote sensing target detection, data assimilation, and computational imaging algorithms that address real-world challenges in these areas. For more information about him, please visit his personal academic website at <https://genqi.grokcv.ai/>

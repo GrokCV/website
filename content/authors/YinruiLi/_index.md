@@ -74,10 +74,10 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Undergraduate
 ---
 
-Yinrui Li（李崯瑞） is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. Her research interests include image denoising, image enhancement, and object detection.For more detailed information about her research, publications, and projects, please visit her personal academic website at <https://yinrui.grokcv.ai/>.
+Yinrui Li (李崯瑞) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. Her research interests include image denoising, image enhancement, and object detection.For more detailed information about her research, publications, and projects, please visit her personal academic website at <https://yinrui.grokcv.ai/>.
 {style="text-align: justify;"}
 
 

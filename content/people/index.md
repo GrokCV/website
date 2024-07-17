@@ -15,10 +15,10 @@ sections:
           # - Researchers
           - Staff
           - PhD Student
+          - Engineer
           - Master Student
           # - Grad Students
           - Undergraduate
-          - Engineer
           - Administration
           # - Visitors
           - Alumni

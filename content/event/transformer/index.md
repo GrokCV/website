@@ -41,7 +41,7 @@ links:
     url: https://space.bilibili.com/833564
 url_code: 'https://github.com/jianzhangcs/ISTA-Net-PyTorch'
 url_pdf: 'https://arxiv.org/pdf/1706.07929.pdf'
-url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2024-01-15-Deep-Unfolding.pdf'
+url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2023-12-15-transformer.pdf'
 url_video: 'https://www.bilibili.com/video/BV1Fg4y1175k/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e'
 
 # Markdown Slides (optional).

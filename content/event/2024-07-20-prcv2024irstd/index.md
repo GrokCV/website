@@ -1,10 +1,10 @@
 ---
-title: 【工作分享】MambaLLIE:暗光图像增强 SOTA
+title: 【比赛分享】PRCV 2024 广域红外小目标检测挑战赛优胜方案
 
 event: GrokCV Seminar
-event_url:  https://space.bilibili.com/833564
+event_url: https://space.bilibili.com/833564
 
-location: Tencent Meeting
+location: Virtual
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,17 +12,17 @@ location: Tencent Meeting
 #   postcode: '94305'
 #   country: United States
 
-summary: 关于稀疏表示优化求解的文献梳理，从传统的迭代求解到基于神经网络的深度展开.
-abstract: 关于稀疏表示优化求解的文献梳理，从传统的迭代求解到基于神经网络的深度展开. 具体方法包括：ISTA、FISTA、LISTA、ISTA-Net。
+summary: PRCV 2024、ICPR 2024 Track 1、ICPR 2024 Track 2 三项红外弱小目标检测比赛优胜方案
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-19T8:00:00Z'
-date_end: '2024-06-19T9:00:00Z'
+date: '2024-07-19T20:00:00Z'
+date_end: '2024-07-19T21:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-06-19T8:00:00Z'
+publishDate: '2024-07-19T20:00:00Z'
 
 authors: []
 tags: []
@@ -38,11 +38,11 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Follow
-    url: https://space.bilibili.com/833564
-url_code: 'https://github.com/jianzhangcs/ISTA-Net-PyTorch'
-url_pdf: 'https://arxiv.org/html/2405.16105v1'
-url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2024-01-15-Deep-Unfolding.pdf'
-url_video: 'https://www.bilibili.com/video/BV13x4y1b7cX/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e'
+    url: https://www.bilibili.com/video/BV1QM4m127ZD/
+url_code: 'https://github.com/xdFai'
+url_pdf: 'https://arxiv.org/pdf/2401.15583'
+url_slides: 'https://github.com/GrokCV/Slides/blob/master/Chenxu/PRCV2024.pdf'
+url_video: 'https://www.bilibili.com/video/BV1QM4m127ZD/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,3 +59,4 @@ url_video: 'https://www.bilibili.com/video/BV13x4y1b7cX/?share_source=copy_web&v
 #   projects:
 #   - example
 ---
+

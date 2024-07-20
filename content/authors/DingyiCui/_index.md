@@ -7,7 +7,7 @@ first_name: Dingyi
 last_name: Cui
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Research Assistant

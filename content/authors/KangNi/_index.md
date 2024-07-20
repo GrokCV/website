@@ -7,7 +7,7 @@ first_name: Kang
 last_name: Ni
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Lecturer

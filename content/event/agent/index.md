@@ -1,5 +1,5 @@
 ---
-title: 【工作分享】SCTransNet：面向红外弱小目标检测的空间 - 通道交叉 Transformer
+title: 【新芽（大一）结业汇报】变化检测：从特征融合到 Agent 智能体
 
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
@@ -17,12 +17,12 @@ abstract: Infrared small target detection (IRSTD) has recently benefitted greatl
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-19T19:00:00Z'
-date_end: '2024-07-19T20:00:00Z'
+date: '2024-07-13T18:32:00Z'
+date_end: '2024-07-13T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-07-19T19:00:00Z'
+publishDate: '2024-07-13T18:32:00Z'
 
 authors: []
 tags: []
@@ -42,7 +42,7 @@ links:
 url_code: 'https://github.com/xdFai'
 url_pdf: 'https://arxiv.org/pdf/2401.15583'
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/ShuaiYuan/SCTransNet-Slides.pdf'
-url_video: 'https://www.bilibili.com/video/BV1kr421M7wx/'
+url_video: 'https://www.bilibili.com/video/BV1Gf421z7Ed/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

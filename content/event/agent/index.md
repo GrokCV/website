@@ -41,7 +41,7 @@ links:
     url: https://www.bilibili.com/video/BV1kr421M7wx/
 url_code: 'https://github.com/xdFai'
 url_pdf: 'https://arxiv.org/pdf/2401.15583'
-url_slides: 'https://github.com/GrokCV/Slides/blob/master/ShuaiYuan/SCTransNet-Slides.pdf'
+url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yufei/agent.pdf'
 url_video: 'https://www.bilibili.com/video/BV1Gf421z7Ed/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e'
 
 # Markdown Slides (optional).

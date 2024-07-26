@@ -1,6 +1,7 @@
 ---
 title: "LSKNet: A Foundation Lightweight Backbone for Remote Sensing"
 authors:
+- admin
 - Yuxuan Li
 - Xiang Li
 - Yimain Dai

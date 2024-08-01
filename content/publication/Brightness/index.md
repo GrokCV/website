@@ -17,7 +17,7 @@ author_notes:
 - 
 - 
 - "Corresponding Author"
-date: "2023-11-1T00:00:00Z"
+date: "2023-11-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 

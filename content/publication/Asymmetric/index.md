@@ -1,43 +1,54 @@
 ---
-title: "Brightness segmentation-based plateau histogram equalization algorithm for displaying high dynamic range infrared images"
+title: 'Asymmetric contextual modulation for infrared small target detection'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Feifei Zhang
 - Yimian Dai
-- Xuedian Peng
-- Chun Wu
-- Xiongyong Zhu
-- Ruqi Zhou
-- Yilin Wu
-  
+- Yiquan Wu
+- Fei Zhou
+- Kobus Barnard
+
+# Author notes (optional)
 author_notes:
-- 
-- "Corresponding Author"
-- 
-- 
-- 
-- "Corresponding Author"
-date: "2023-11-01T00:00:00Z"
+  - 
+  - 
+
+date: '2021-00-00T00:00:00Z'
+
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2021-00-00T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-abstract: Third-generation thermal cameras produce images with high dynamic range (HDR), low contrast, and blurry edges, which makes them difficult to visualize on traditional display devices. Thus, tone mapping methods are required to adapt the recorded signal to the display in order to maintain, and possibly improve, object’s visibility and contrast. Since the traditional global tone mapping methods cannot take account of the trade-off between clearly displaying the details of dark regions and bright regions of the infrared image, this paper proposes a global tone mapping algorithm based on brightness segmentation for the enhancement and display of HDR infrared images. Firstly, the HDR infrared image is divided into different brightness regions in accordance with the characteristics of the human visual system’s ability to perceive brightness. Secondly, the determination of the boundary value of each brightness region is optimized by combining the gray statistics of the HDR infrared image, to achieve the adaptive brightness region segmentation of the infrared image from various scenes. Thirdly, the plateau histogram equalization method is designed to enhance different brightness regions separately, according to their brightness levels. Finally, the enhanced brightness regions are recombined to produce a more visually pleasing output image. The effectiveness of the proposed method is analyzed of HDR infrared images taken from different scenes. A comparison of the proposed method with well-established global tone mapping techniques is provided, along with subjective and objective evaluation methods that demonstrate the potential benefits of this method in enhancing brightness, compressing dynamic range, and improving global contrast.
+publication: In *Proceedings of the IEEE/CVF winter conference on applications of computer vision*
+publication_short: In *IEEE/CVF*
 
+abstract: Single-frame infrared small target detection remains a challenge not only due to the scarcity of intrinsic target characteristics but also because of lacking a public dataset. In this paper, we first contribute an open dataset with high-quality annotations to advance the research in this field. We also propose an asymmetric contextual modulation module specially designed for detecting infrared small targets. To better highlight small targets, besides a top-down global contextual feedback, we supplement a bottom-up modulation pathway based on point-wise channel attention for exchanging high-level semantics and subtle low-level details. We report ablation studies and comparisons to state-of-the-art methods, where we find that our approach performs significantly better. Our dataset and code are available online.
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- 
-featured: false
+tags: []
 
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
 # links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1350449523003523
-url_code: ''
-url_dataset: ''
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf'
+url_code: 'https://github.com/YimianDai/open-acm'
+url_dataset: '[https://github.com/wowchemy/wowchemy-hugo-themes](https://github.com/YimianDai/open-acm)'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -45,10 +56,10 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  # focal_point: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -56,12 +67,23 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

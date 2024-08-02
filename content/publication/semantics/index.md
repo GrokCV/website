@@ -1,12 +1,13 @@
 ---
-title: "Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection"
+title: "Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset"
 authors:
 - admin
-- Fei Zhou
-- Maixia Fu
-- Yulei Qian
-- Jian Yang
 - Yimian Dai
+- Mengxuan Xiao
+- Yiming Zhu
+- Huan Wang
+- Kehua Guo
+- Jian Yang
 
 author_notes:
 - 
@@ -15,12 +16,12 @@ author_notes:
 - 
 - 
 - "Corresponding Author"
-date: "2024-07-22T00:00:00Z"
+date: "2024-07-29T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-abstract: Infrared small target detection is crucial for the efficacy of infrared search and tracking systems. Current tensor decomposition methods emphasize representing small targets with sparsity but struggle to separate targets from complex backgrounds due to insufficient use of intrinsic directional information and reduced target visibility during decomposition. To address these challenges, this study introduces a Sparse Differential Directionality prior (SDD) framework. SDD leverages the distinct directional characteristics of targets to differentiate them from the background, applying mixed sparse constraints on the differential directional images and continuity difference matrix of the temporal component, both derived from Tucker decomposition. We further enhance target detectability with a saliency coherence strategy that intensifies target contrast against the background during hierarchical decomposition. A Proximal Alternating Minimization-based (PAM) algorithm efficiently solves our proposed model. Experimental results on several real-world datasets validate our method's effectiveness, outperforming ten state-of-the-art methods in target detection and clutter suppression. Our code is available at https://github.com/GrokCV/SDD.
+abstract: Infrared small target detection poses unique challenges due to the scarcity of intrinsic target features and the abundance of similar background distractors. We argue that background semantics play a pivotal role in distinguishing visually similar objects for this task. To address this, we introduce a new task -- clustered infrared small target detection, and present DenseSIRST, a novel benchmark dataset that provides per-pixel semantic annotations for background regions, enabling the transition from sparse to dense target detection. Leveraging this dataset, we propose the Background-Aware Feature Exchange Network (BAFE-Net), which transforms the detection paradigm from a single task focused on the foreground to a multi-task architecture that jointly performs target detection and background semantic segmentation. BAFE-Net introduces a cross-task feature hard-exchange mechanism to embed target and background semantics between the two tasks. Furthermore, we propose the Background-Aware Gaussian Copy-Paste (BAG-CP) method, which selectively pastes small targets into sky regions during training, avoiding the creation of false alarm targets in complex non-sky backgrounds. Extensive experiments validate the effectiveness of BAG-CP and BAFE-Net in improving target detection accuracy while reducing false alarms. The DenseSIRST dataset, code, and trained models are available at https://github.com/GrokCV/BAFE-Net.
 
 
 # Summary. An optional shortened abstract.
@@ -33,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2407.15369
-url_code: 'https://github.com/GrokCV/SDD'
+url_pdf: https://arxiv.org/pdf/2407.20078
+url_code: 'https://github.com/GrokCV/BAFE-Net'
 url_dataset: ''
 url_poster: ''
 url_project: ''

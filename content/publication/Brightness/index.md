@@ -1,7 +1,6 @@
 ---
 title: "Brightness segmentation-based plateau histogram equalization algorithm for displaying high dynamic range infrared images"
 authors:
-- admin
 - Feifei Zhang
 - Yimian Dai
 - Xuedian Peng

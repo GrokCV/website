@@ -1,14 +1,14 @@
 ---
-title: "Brightness segmentation-based plateau histogram equalization algorithm for displaying high dynamic range infrared images"
+title: "One-stage cascade refinement networks for infrared small target detection"
 authors:
 - admin
 - Feifei Zhang
 - Yimian Dai
-- Xuedian Peng
-- Chun Wu
-- Xiongyong Zhu
-- Ruqi Zhou
-- Yilin Wu
+- Xiang Li
+- Fei Zhou
+- Yulei Qian
+- Yaohong Chen
+- Jian Yang
   
 author_notes:
 - 

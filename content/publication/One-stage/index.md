@@ -17,12 +17,12 @@ author_notes:
 - 
 - 
 - "Corresponding Author"
-date: "2023-11-01T00:00:00Z"
+date: "2023-02-06T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-abstract: Third-generation thermal cameras produce images with high dynamic range (HDR), low contrast, and blurry edges, which makes them difficult to visualize on traditional display devices. Thus, tone mapping methods are required to adapt the recorded signal to the display in order to maintain, and possibly improve, object’s visibility and contrast. Since the traditional global tone mapping methods cannot take account of the trade-off between clearly displaying the details of dark regions and bright regions of the infrared image, this paper proposes a global tone mapping algorithm based on brightness segmentation for the enhancement and display of HDR infrared images. Firstly, the HDR infrared image is divided into different brightness regions in accordance with the characteristics of the human visual system’s ability to perceive brightness. Secondly, the determination of the boundary value of each brightness region is optimized by combining the gray statistics of the HDR infrared image, to achieve the adaptive brightness region segmentation of the infrared image from various scenes. Thirdly, the plateau histogram equalization method is designed to enhance different brightness regions separately, according to their brightness levels. Finally, the enhanced brightness regions are recombined to produce a more visually pleasing output image. The effectiveness of the proposed method is analyzed of HDR infrared images taken from different scenes. A comparison of the proposed method with well-established global tone mapping techniques is provided, along with subjective and objective evaluation methods that demonstrate the potential benefits of this method in enhancing brightness, compressing dynamic range, and improving global contrast.
+abstract: Single-frame InfraRed Small Target (SIRST) detection has been a challenging task due to a lack of inherent characteristics, imprecise bounding box regression, a scarcity of realworld datasets, and sensitive localization evaluation. In this paper,we propose a comprehensive solution to these challenges. First,we find that the existing anchor-free label assignment method is prone to mislabeling small targets as background, leading to their omission by detectors. To overcome this issue, we propose an all scale pseudo-box-based label assignment scheme that relaxes the constraints on scale and decouples the spatial assignment from the size of the ground-truth target. Second, motivated by the structured prior of feature pyramids, we introduce the one-stage cascade refinement network (OSCAR), which uses the high-level head as soft proposals for the low-level refinement head. This allows OSCAR to process the same target in a cascade coarse to-fine manner. Finally, we present a new research benchmark for infrared small target detection, consisting of the SIRST-V2 dataset of real-world, high-resolution single-frame targets, the normalized contrast evaluation metric, and the DeepInfrared toolkit for detection. We conduct extensive ablation studies to evaluate the components of OSCAR and compare its performance to state-of-the-art model-driven and data-driven methods on the SIRST-V2 benchmark. Our results demonstrate that a top-down cascade refinement framework can improve the accuracy of infrared small target detection without sacrificing efficiency. The DeepInfrared toolkit, dataset, and trained models are available at https://github.com/YimianDai/open-deepinfrared.
 
 
 # Summary. An optional shortened abstract.
@@ -35,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1350449523003523
-url_code: ''
+url_pdf: https://arxiv.org/pdf/2212.08472
+url_code: 'https://github.com/YimianDai/open-deepinfrared'
 url_dataset: ''
 url_poster: ''
 url_project: ''

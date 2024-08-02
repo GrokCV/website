@@ -20,7 +20,7 @@ date: "2022-09-26T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-abstract: Infrared small target detection has been extensively investigated by incorporating the low-rank and sparse prior into tensor decomposition frameworks. Despite its success, the said paradigm remains several limitations in complex scenes, such as: the inadequate spatial-temporal information exploitation among sequential patches; the incomplete suppression of the complex background interference. To mitigate the defects, this article provides a tensor decomposition method integrating spatial-temporal sparse gradient regularization and spectral support constraint. First, we present a skillfully connected multiframe patch group model to explore local spatial information and adjacent interframe correlation among multiframes patches. Then, for CMPG model, a scalable tensor spectral support constraint is employed to distinctively regularize its redundant and rare components. 
+abstract: 
 # Summary. An optional shortened abstract.
 summary: 
 

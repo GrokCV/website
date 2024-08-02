@@ -1,5 +1,6 @@
 ---
-title: "LSKNet: A Foundation Lightweight Backbone for Remote Sensing"
+title: "
+Display method for high dynamic range infrared image based on gradient domain guided image filter"
 authors:
 - admin
 - Feifei Zhang

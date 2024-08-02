@@ -22,7 +22,7 @@ date: "2023-02-06T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-abstract: 
+abstract: Single-frame infrared small target (SIRST) detection has been a challenging task due to a lack of inherent characteristics, imprecise bounding box regression, a scarcity of real-world datasets, and sensitive localization evaluation. In this article, we propose a comprehensive solution to these challenges. First, we find that the existing anchor-free label assignment method is prone to mislabeling small targets as background, leading to their omission by detectors. To overcome this issue, we propose an all-scale pseudobox-based label assignment scheme that relaxes the constraints on the scale and decouples the spatial assignment from the size of the ground-truth target. Second, motivated by the structured prior of feature pyramids, we introduce the one-stage cascade refinement network (OSCAR), which uses the high-level head as soft proposal for the low-level refinement head. This allows OSCAR to process the
 
 
 # Summary. An optional shortened abstract.

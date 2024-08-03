@@ -48,12 +48,7 @@ featured: true
 
 url_pdf: 'https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf'
 url_code: 'https://github.com/YimianDai/open-acm'
-url_dataset: '[https://github.com/wowchemy/wowchemy-hugo-themes](https://github.com/YimianDai/open-acm)'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_dataset: 'https://github.com/YimianDai/open-acm'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

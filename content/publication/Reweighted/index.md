@@ -25,7 +25,7 @@ abstract: Many state-of-the-art methods have been proposed for infrared small ta
 
 
 # Summary. An optional shortened abstract.
-summary:
+summary:  Many state-of-the-art methods have been proposed for infrared small target detection. Inspired by this, we propose a novel method to exploit both local and non-local priors simultaneously. 
 
 tags:
 - Infrared Small Target Detection

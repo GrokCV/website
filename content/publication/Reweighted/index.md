@@ -7,7 +7,6 @@ authors:
 author_notes:
 - 
 date: "2017-05-23T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-05-23T00:00:00Z"
@@ -21,7 +20,7 @@ publication_types: ["article-journal"]
 publication: "IEEE journal of selected topics in applied earth observations and remote sensing"
 
 
-abstract: Many 
+abstract: Many state of the art methods have been proposed for infrared small target detection. They work well on the images with homogeneous backgrounds and high contrast targets. However, when facing highly heterogeneous backgrounds, they would not perform very well, mainly due to: 1) the existence of strong edges and other interfering components, 2) not utilizing the priors fully. Inspired by this, we propose a novel method to exploit both local and nonlocal priors simultaneously. First, we employ a new infrared patch tensor (IPT) model to represent the image and preserve its spatial correlations. Exploiting the target sparse prior and background nonlocal self correlation prior, the target background separation is modeled as a robust low rank tensor recovery problem. Moreover, with the help of the structure tensor and reweighted idea, we design an entrywise local structure-adaptive and sparsity enhancing weight to
 
 
 # Summary. An optional shortened abstract.

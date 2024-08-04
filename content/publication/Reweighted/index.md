@@ -20,7 +20,8 @@ publication_types: ["article-journal"]
 publication: "IEEE journal of selected topics in applied earth observations and remote sensing"
 
 
-abstract: Many state of the art methods have been proposed for infrared small target detection.They work well on the images with homogeneous backgrounds and high-contrast targets.However, when facing highly heterogeneous backgrounds, they would not perform very well,
+abstract: Many state of the art methods have been proposed for infrared small target detection.They work well on the images with homogeneous backgrounds and high-contrast targets.However, when facing highly heterogeneous backgrounds, they would not perform very well, mainly due to: 1) the existence of strong edges and other interfering components,
+
 
 
 # Summary. An optional shortened abstract.

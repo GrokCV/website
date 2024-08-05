@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: 
 url_pdf: https://arxiv.org/pdf/2007.07729
 
 

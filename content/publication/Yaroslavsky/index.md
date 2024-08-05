@@ -7,11 +7,11 @@ authors:
 - Jiansheng Wu
 author_notes:
 - 
-date: "2016-00-00T00:00:00Z"
+date: "2016-01-01T00:00:00Z"
 doi: "10.15918/j.jbit1004-0579.201625.0120"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-00-00T00:00:00Z"
+publishDate: "2016-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

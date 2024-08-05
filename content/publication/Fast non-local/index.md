@@ -1,4 +1,3 @@
-
 ---
 title: "Fast non-local means algorithm based on Krawtchouk moments"
 authors:

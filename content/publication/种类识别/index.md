@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-https://scholar.google.com/scholar?cluster=427653277958925073&hl=en&oi=scholarr
+url_pdf: https://scholar.google.com/scholar?cluster=427653277958925073&hl=en&oi=scholarr
 
 
 # Featured image

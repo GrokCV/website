@@ -27,7 +27,7 @@ abstract: Activation functions and attention mechanisms are typically treated as
 summary: 
 
 tags:
-- Source Themes
+- 
 featured: false
 
 links:

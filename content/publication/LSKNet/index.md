@@ -19,7 +19,7 @@ author_notes:
 - 
 date: "2024-03-18T00:00:00Z"
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["article"]
 
 
 # Publication name and optional abbreviated publication name.

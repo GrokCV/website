@@ -1,12 +1,12 @@
 ---
-title: "Attentional local contrast networks for infrared small target detection"
+title: "Attentional Local Contrast Networks for Infrared Small Target Detection"
+
 authors:
 - admin
-- Yimian Dai
 - Yiquan Wu
-- Fei Zhou
+- FeiZhou
 - Kobus Barnard
-  
+
 author_notes:
 - 
 - 

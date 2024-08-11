@@ -1,23 +1,27 @@
 ---
 title: "Infrared Small Target Detection via L0 Sparse Gradient Regularized Tensor Spectral Support Low-Rank Decomposition"
+
 authors:
-- admin
-- Fei Zhou
+- FeiZhou
 - Maixia Fu
 - Yule Duan
-- Yimian Dai
+- admin
 - Yiquan Wu
-  
+
 author_notes:
 - 
 - 
 - 
 - 
 - 
-- 
+
 date: "2022-09-26T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
+
+# Publication name and optional abbreviated publication name.
+publication: "IEEE Transactions on Aerospace and Electronic Systems"
+publication_short: "TAES"
 
 # Publication name and optional abbreviated publication name.
 abstract: 

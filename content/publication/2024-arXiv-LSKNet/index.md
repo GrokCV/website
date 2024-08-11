@@ -1,5 +1,6 @@
 ---
 title: "LSKNet: A Foundation Lightweight Backbone for Remote Sensing"
+
 authors:
 - Yuxuan Li
 - Xiang Li
@@ -19,7 +20,7 @@ author_notes:
 - 
 date: "2024-03-18T00:00:00Z"
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "arXiv"

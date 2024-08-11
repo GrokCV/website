@@ -1,5 +1,6 @@
 ---
 title: "Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection"
+
 authors:
 - FeiZhou
 - Maixia Fu
@@ -16,7 +17,7 @@ author_notes:
 
 date: "2024-07-22T00:00:00Z"
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "arXiv"

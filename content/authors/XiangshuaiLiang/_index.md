@@ -32,9 +32,9 @@ education:
     # - course: Electrical Automation Technology
     #   institution: Anyang Institute of Technology
     #   year: 2019
-    - course: 
-      institution:
-      year: 
+    # - course: 
+    #   institution:
+    #   year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -26,15 +26,15 @@ interests:
 
 education:
   courses:
+    - course: Communication Engineering
+      institution: Henan University of Technology
+      year: 2027
     - course: Electronic Information Engineering
       institution: North China University of Water Resources and Electric Power
-      year: 2027
+      year: 2024
     # - course: Electrical Automation Technology
     #   institution: Anyang Institute of Technology
     #   year: 2019
-    # - course: 
-    #   institution:
-    #   year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

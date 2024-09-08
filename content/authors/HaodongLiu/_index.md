@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:haodongliu789@163.com'
+    link: 'mailto:haodongliu.leo@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GrokCV

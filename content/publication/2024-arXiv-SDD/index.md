@@ -13,7 +13,7 @@ author_notes:
 - 
 - 
 - 
-- Corresponding author
+- Corresponding Author
 
 date: "2024-07-22T00:00:00Z"
 # Enter a publication type from the CSL standard.
@@ -28,10 +28,11 @@ abstract: Infrared small target detection is crucial for the efficacy of infrare
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: A Sparse Differential Directionality prior (SDD) framework is proposed for infrared small target detection. SDD leverages directional characteristics to differentiate targets from background, applying mixed sparse constraints on differential directional images and continuity difference matrix derived from Tucker decomposition. Saliency coherence strategy further enhances target detectability during hierarchical decomposition.
 
 tags:
-- 
+- Infrared Small Target Detection
+
 featured: false
 
 # links:
@@ -58,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

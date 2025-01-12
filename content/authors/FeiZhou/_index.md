@@ -10,7 +10,7 @@ last_name: Zhou
 superuser: false
 
 # Role/position
-role: Lecturer
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:

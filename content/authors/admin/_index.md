@@ -10,32 +10,32 @@ last_name: Dai
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanjing University of Science and Technology (NJUST)
-    url: https://english.njust.edu.cn/
+  - name: Nankai University
+    url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image restoration, object detection, and vision-language models.
+bio: For more information, please visit my personal website at <https://yimian.grokcv.ai/>.
 
-interests:
-  - Image Restoration
-  - Object Detection
-  - Vision-Language Models
+# interests:
+#   - Image Restoration
+#   - Object Detection
+#   - Vision-Language Models
 
-education:
-  courses:
-    - course: PhD in Signal Processing
-      institution: Nanjing University of Aeronautics and Astronautics
-      year: 2021
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    - course: BSc in Electrical Engineering
-      institution: Nanjing University of Aeronautics and Astronautics
-      year: 2013
+# education:
+#   courses:
+#     - course: PhD in Signal Processing
+#       institution: Nanjing University of Aeronautics and Astronautics
+#       year: 2021
+#     # - course: MEng in Artificial Intelligence
+#     #   institution: Massachusetts Institute of Technology
+#     #   year: 2009
+#     - course: BSc in Electrical Engineering
+#       institution: Nanjing University of Aeronautics and Astronautics
+#       year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,9 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yimian.dai@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GrokCV
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GrokCV
   - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
@@ -60,9 +60,9 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/833564
-  - icon: zhihu
-    icon_pack: fab
-    link: https://www.zhihu.com/people/grokcv
+  # - icon: zhihu
+  #   icon_pack: fab
+  #   link: https://www.zhihu.com/people/grokcv
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -81,5 +81,6 @@ user_groups:
   - Staff
 ---
 
-Yimian Dai (戴一冕) is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li (李翔)](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He also collaborates closely with [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. He heads the [GrokCV Group](https://grokcv.ai/), which specializes in the development of algorithms for remote sensing object detection, data assimilation, and computational imaging, aiming to address real-world challenges in these fields. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://yimian.grokcv.ai/>.
+<!-- Yimian Dai (戴一冕) is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li (李翔)](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He also collaborates closely with [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. He heads the [GrokCV Group](https://grokcv.ai/), which specializes in the development of algorithms for remote sensing object detection, data assimilation, and computational imaging, aiming to address real-world challenges in these fields. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://yimian.grokcv.ai/>. -->
+For more information, please visit my personal website at <https://yimian.grokcv.ai/>.
 {style="text-align: justify;"}

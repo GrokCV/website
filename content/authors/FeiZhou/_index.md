@@ -78,8 +78,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff
+  - Faculty
 ---
 
-Fei Zhou (周飞) is a lecturer with College of Information Science and Engineering, Henan University of Technology, Zhengzhou, China. He is a member of the [GrokCV Group] (https://grokcv.ai/) and his main research areas include infrared small target detection, image super-resolution, and food information detection.
+Fei Zhou (周飞) is an Associate Professor with College of Information Science and Engineering, Henan University of Technology, Zhengzhou, China. He is a member of the [GrokCV Group] (https://grokcv.ai/) and his main research areas include infrared small target detection, image super-resolution, and food information detection.
 {style="text-align: justify;"}

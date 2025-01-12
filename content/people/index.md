@@ -13,6 +13,7 @@ sections:
       user_groups:
           # - Principal Investigators
           # - Researchers
+          - Faculty
           - Staff
           - Close Collaborator
           - PhD Student

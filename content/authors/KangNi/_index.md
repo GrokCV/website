@@ -75,7 +75,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff
+  - Close Collaborator
 ---
 
 Kang Ni (倪康) works at the School of Computer Science  as an assistant professor and [master’s supervisor](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=32C25D4D68CE834EB4FF94079834CE0E) now, doing some fundamental research on  machine learning, computer vision, SAR image processing, and remote sensing image processing. He is also recruiting graduate students, if interested, feel free to email me at [tznikang@163.com](mailto:tznikang@163.com). He graduated from the School of Electronic information engineering, Nanjing University of Aeronautics and Astronautics (南京航空航天大学电子信息工程学院) with a Ph.D’s degree in 2020, advised by prof. [Yiquan Wu (吴一全),](http://faculty.nuaa.edu.cn/wyq2/zh_CN/index.htm) and from Nanjing University of Posts and Telecommunications with a post doctor in 2021, supervised by prof. [Yun Li(李云)](https://lidata-ai.github.io) . His research interest includes machine learning, computer vision, SAR image processing, and optical remote sensing image processing. He has published more than 20 papers  at the signal processing conferences/journals such as IEEE TGRS, TAES, IEEE JSTARS，IEEE GRSL，IGRASS. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://tzkangni.github.io/>.

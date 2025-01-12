@@ -45,23 +45,23 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:f.zhou@haut.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GrokCV
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GrokCV
   - icon: google-scholar
     icon_pack: fas
     link: https:https://scholar.google.com/citations?user=FAi5TosAAAAJ&hl=zh-CN
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/GrokCV
-  - icon: weixin
-    icon_pack: fab
-  #  link: https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG
-  - icon: youtube
-    icon_pack: fab
-    link: https://space.bilibili.com/833564
-  - icon: zhihu
-    icon_pack: fab
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/GrokCV
+  # - icon: weixin
+  #   icon_pack: fab
+  # #  link: https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG
+  # - icon: youtube
+  #   icon_pack: fab
+  #   link: https://space.bilibili.com/833564
+  # - icon: zhihu
+  #   icon_pack: fab
   # link: https://www.zhihu.com/people/grokcv
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -4,21 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 首页
+  - name: Home
     url: tour
     weight: 10
   # - name: News
   #   url: post
   #   weight: 20
-  - name: 成员
+  - name: People
     url: people
     weight: 30
-  - name: 报告
+  - name: Talk
     url: event
     weight: 40
-  - name: 论文
+  - name: Publication
     url: publication
     weight: 50
+  - name: GrokCV
+    url: grokcv
+    weight: 60
+  - name: Blog
+    url: blog
+    weight: 70
   # - name: Contact
   #   url: contact
   #   weight: 60

@@ -14,6 +14,7 @@ sections:
           # - Principal Investigators
           # - Researchers
           - Staff
+          - Close Collaborator
           - PhD Student
           - Engineer
           - Master Student

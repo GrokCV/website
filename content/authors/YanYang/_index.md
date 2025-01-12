@@ -78,7 +78,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Staff
+  - Close Collaborator
 ---
 
 Yan Yang (杨燕) is currently an Assistant Professor in Xi'an Jiaotong University, under the guidance of [Prof. Zongben Xu (徐宗本)](https://gr.xjtu.edu.cn/en/web/zbxucn) from XJTU and the vice-advisement of [Prof. Hairong Zheng (郑海荣)](https://lauterbur.siat.ac.cn/kydw/zyjy/info/2023/483.html) from XJTU. She also collaborates closely with [Dr. Yimian Dai (戴一冕)](https://scholar.google.com/citations?user=y5Ov6VAAAAAJ) from Nanjing University of Science and Technology (NJUST).

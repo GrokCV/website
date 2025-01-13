@@ -10,7 +10,7 @@ last_name: Cui
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Image Enhancement
 
 # Organizations/Affiliations
 organizations:

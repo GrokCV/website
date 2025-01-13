@@ -10,7 +10,8 @@ last_name: Xiao
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Object Detection
+
 
 # Organizations/Affiliations
 organizations:

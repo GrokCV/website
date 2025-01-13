@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Depth Estimation
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: Zou
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Model Deployment
 
 # Organizations/Affiliations
 organizations:

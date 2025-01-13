@@ -10,7 +10,8 @@ last_name: Han
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Super-Resolution
+
 
 # Organizations/Affiliations
 organizations:

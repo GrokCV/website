@@ -47,12 +47,12 @@ social:
   # - icon: google-scholar
   #   icon_pack: fas
   #   link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/GrokCV
-  # - icon: weixin
-  #   icon_pack: fab
-  #   link: 
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/BEARSXXX
+  - icon: weixin
+    icon_pack: fab
+    link: https://github.com/BEARSXXX/Wechat/blob/main/xiongzihao.jpg
   # - icon: youtube
   #   icon_pack: fab
   #   link: https://space.bilibili.com/833564
@@ -66,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zihhao.syong@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -77,7 +77,6 @@ user_groups:
   - Undergraduate
 ---
 
-Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at the School of Information Science and Engineering, Henan University of Technology. He is also a research intern at the VCIP, Nankai University. His research interests include infrared small target detection, tracking, and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://zihao.grokcv.ai/>.
+Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at the School of Information Science and Engineering, Henan University of Technology. He is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://yimian.grokcv.ai/). His research interests include infrared small target detection, tracking, and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://zihao.grokcv.ai/>.
 {style="text-align: justify;"}
-
 

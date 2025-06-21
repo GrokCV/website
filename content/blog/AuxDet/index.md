@@ -2,8 +2,8 @@
 title: 🎯 AuxDet：辅助元数据驱动的广域红外小目标检测方法
 date: 2025-06-20
 math: true
-author: 
-  - YangtingShi
+authors: 
+- YangtingShi
 # image:
 #   placement: 2
 #   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'

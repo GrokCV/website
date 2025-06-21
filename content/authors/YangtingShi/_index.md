@@ -10,7 +10,7 @@ last_name: Shi
 superuser: false
 
 # Role/position
-role: Master Student
+role: Object Detection
 
 # Organizations/Affiliations
 organizations:

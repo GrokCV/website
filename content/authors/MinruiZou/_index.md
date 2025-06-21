@@ -10,7 +10,7 @@ last_name: Zou
 superuser: false
 
 # Role/position
-role: Model Deployment
+role: Object Detection
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ organizations:
     url: https://www.njupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image denoising and object detection.
+bio: My research interests include object detection and model deployment.
 
 interests:
-  - Image Denoising
   - Object Detection
+  - Model Deployment
 
 education:
   courses:
@@ -79,5 +79,4 @@ user_groups:
 
 Minrui Zou (邹旻瑞) received the B.E. degree from the Civil Aviation University of China in 2022. Now he is pursuing the M.S. degree in the School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT). His research interests include image denoising and object detection under the guidance of [Kang Ni (倪康)](https://scholar.google.com/citations?user=8e0VkggAAAAJ) from NJUPT.
 {style="text-align: justify;"}
-
 

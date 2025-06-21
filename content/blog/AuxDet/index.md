@@ -2,6 +2,8 @@
 title: 🎯 AuxDet：辅助元数据驱动的广域红外小目标检测方法
 date: 2025-06-20
 math: true
+author: 
+  - YangtingShi
 # image:
 #   placement: 2
 #   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
@@ -14,8 +16,8 @@ math: true
 
 本文介绍了一种引入图像元数据（成像平台、成像波段、图像分辨率）的多模态红外小目标检测新范式 AuxDet，利用元数据隐含的物理先验实现图像特征的样本级动态调制，增强模型在广域检测中的泛化能力。
 
-- **arXiv 地址**：<https://arxiv.org/abs/2505.15184>
-- **开源地址**：<https://github.com/GrokCV/AuxDet>
+- **论文地址**：<https://arxiv.org/abs/2505.15184>
+- **代码地址**：<https://github.com/GrokCV/AuxDet>
 
 ------
 

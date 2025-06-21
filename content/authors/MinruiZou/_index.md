@@ -14,18 +14,21 @@ role: Object Detection
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanjing University of Posts and Telecommunications (NJUPT)
-    url: https://www.njupt.edu.cn/
+  - name: Nankai University (NKU)
+    url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include object detection and model deployment.
+bio: My research interests include infrared small target detection and model deployment.
 
 interests:
-  - Object Detection
+  - Infrared Small Target Detection
   - Model Deployment
 
 education:
   courses:
+    - course: PhD in Computer Science and Technology
+      institution: Nankai University
+      year: Present
     - course: MEng in Computer Science and Technology
       institution: Nanjing University of Posts and Telecommunications
       year: 2025
@@ -77,6 +80,6 @@ user_groups:
   - PhD Student
 ---
 
-Minrui Zou (邹旻瑞) received the B.E. degree from the Civil Aviation University of China in 2022. Now he is pursuing the M.S. degree in the School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT). His research interests include image denoising and object detection under the guidance of [Kang Ni (倪康)](https://scholar.google.com/citations?user=8e0VkggAAAAJ) from NJUPT.
+Minrui Zou (邹旻瑞) received the B.Eng. degree from the Civil Aviation University of China, Tianjin, China, in 2022, and the M.Eng. degree in the School of Computer Science, Nanjing University of Posts and Telecommunications, Nanjing, China, in 2025. He is currently pursuing a Ph.D. degree in Computer Science and Technology at VCIP, Nankai University, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm/) and  [Prof. Yimian Dai](https://yimian.grokcv.ai/). His research interests include infrared small target detection and model deployment.
 {style="text-align: justify;"}
 

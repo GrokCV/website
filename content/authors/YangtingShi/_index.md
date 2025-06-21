@@ -42,8 +42,8 @@ social:
     icon_pack: fas
     link: 'mailto:yangting.shih@gmail.com'
   - icon: google-scholar
-    icon_pack: fas
-    link: 
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=bZDzNjEAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: 

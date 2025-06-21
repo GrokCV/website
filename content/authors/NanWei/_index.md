@@ -10,7 +10,7 @@ last_name: Wei
 superuser: false
 
 # Role/position
-role: Object Detection
+role: Engineer @ CETC 14
 
 
 # Organizations/Affiliations
@@ -59,5 +59,5 @@ highlight_name:
 user_groups:
   - Alumni
 ---
-Nan Wei (魏楠) received the B.E. degree from Shandong University in 2022, and the Master degree from Southeast University in 2025. His research interests included underwater object detection, and he was the main contributor to the largest underwater object detection benchmark, [Poseidon-300K]() (under review). Now he is an algorithm enigneer at China Electronics Technology Group Corporation 14th Research Institute (CETC 14).
+Nan Wei (魏楠) received the B.E. degree from Shandong University in 2022, and the Master degree from Southeast University in 2025. He was also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://yimian.grokcv.ai/). His research interests included underwater object detection, and he was the main contributor to the largest underwater object detection benchmark, [Poseidon-300K]() (under review). Now he is an algorithm enigneer at China Electronics Technology Group Corporation 14th Research Institute (CETC 14).
 {style="text-align: justify;"}

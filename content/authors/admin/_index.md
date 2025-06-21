@@ -49,7 +49,7 @@ social:
   #   icon_pack: fab
   #   link: https://twitter.com/GrokCV
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
     icon_pack: fab

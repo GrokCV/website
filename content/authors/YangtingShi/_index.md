@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Bohan Xu
+title: Yangting Shi
 
 # Full Name (for SEO)
-first_name: Bohan
-last_name: Xu
+first_name: Yangting 
+last_name: Shi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Super-Resolution
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-  - name:  Henan University of Technology
-    url: https://www.haut.edu.cn/
+  - name: Northwestern Polytechnical University (NWPU)
+    url: https://www.nwpu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include small target detection and super-resolution.
+bio: My research interests include infrared small target detection and computer vision.
 
 interests:
   - Infrared Small Target Detection
-  - Super-Resolution
+  - Computer Vision
 
 education:
   courses:
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
     - course: BSc in Electronic Information Engineering
-      institution: Henan University of Technology
+      institution: Northwestern Polytechnical University
+      year: 2023
+    - course: MEng in Information and Communication Engineering
+      institution: Northwestern Polytechnical University
       year: 2026
 
 # Social/Academic Networking
@@ -40,25 +40,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bohan.xu19@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GrokCV
+    link: 'mailto:yangting.shih@gmail.com'
   - icon: google-scholar
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/GrokCV
+    link: 
   - icon: weixin
     icon_pack: fab
-    link: 
-  - icon: youtube
-    icon_pack: fab
-    link: https://space.bilibili.com/833564
-  - icon: zhihu
-    icon_pack: fab
-    link: https://www.zhihu.com/people/grokcv
+    link: https://i.postimg.cc/7ZXpV6MG/6677c08dc0f4a6a866a589b29f4ad6c.jpg
+#  - icon: youtube
+#    icon_pack: fab
+#    link: Bilibili 地址，可不填
+#  - icon: zhihu
+#    icon_pack: fab
+#    link: https://www.zhihu.com/people/whxian-sheng-99
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,10 +71,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - Master Student
 ---
 
-Bohan Xu (徐博涵) is currently pursuing Bachelor's degree of Electronic Information Engineering at the School of Information Science and Engineering of Henan University of Technology. His main research direction is infrared small target detection and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://bohan.grokcv.ai/>.
+Yangting Shi (史杨婷) is currently pursuing a Master’s degree in the School of Electronics and Information at Northwestern Polytechnical University, where she also completed her undergraduate studies. She is also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://yimian.grokcv.ai/). Her research interests primarily focus on infrared small target detection.
+
 {style="text-align: justify;"}
-
-

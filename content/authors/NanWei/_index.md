@@ -30,7 +30,7 @@ education:
   courses:
     - course: MEng in Software Engineering
       institution: Southeast University
-      year: now
+      year: 2025
     - course: BSc in Automation
       institution: Shandong University
       year: 2022
@@ -57,5 +57,7 @@ highlight_name:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Student
+  - Alumni
 ---
+Nan Wei (魏楠) received the B.E. degree from Shandong University in 2022, and the Master degree from Southeast University in 2025. His research interests included underwater object detection, and he was the main contributor to the largest underwater object detection benchmark, [Poseidon-300K]() (under review). Now he is an algorithm enigneer at China Electronics Technology Group Corporation 14th Research Institute (CETC 14).
+{style="text-align: justify;"}

@@ -23,7 +23,6 @@ bio: My research interests include infrared small target detection, tracking, an
 
 interests:
   - Infrared Small Target Detection
-  - Super-Resolution
 
 education:
   courses:
@@ -42,24 +41,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zihhao.syong@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GrokCV
-  - icon: google-scholar
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/GrokCV
-  - icon: weixin
-    icon_pack: fab
-    link: 
-  - icon: youtube
-    icon_pack: fab
-    link: https://space.bilibili.com/833564
-  - icon: zhihu
-    icon_pack: fab
-    link: https://www.zhihu.com/people/grokcv
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GrokCV
+  # - icon: google-scholar
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/GrokCV
+  # - icon: weixin
+  #   icon_pack: fab
+  #   link: 
+  # - icon: youtube
+  #   icon_pack: fab
+  #   link: https://space.bilibili.com/833564
+  # - icon: zhihu
+  #   icon_pack: fab
+  #   link: https://www.zhihu.com/people/grokcv
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,7 +77,7 @@ user_groups:
   - Undergraduate
 ---
 
-Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at the School of Information Science and Engineering, Henan University of Technology. He is also a research intern at the PCA Lab, Nanjing University of Science and Technology. His research interests include infrared small target detection, tracking, and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://zihao.grokcv.ai/>.
+Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at the School of Information Science and Engineering, Henan University of Technology. He is also a research intern at the VCIP, Nankai University. His research interests include infrared small target detection, tracking, and super-resolution. For more detailed information about his research, publications, and projects, please visit his personal academic website at <https://zihao.grokcv.ai/>.
 {style="text-align: justify;"}
 
 

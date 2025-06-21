@@ -74,7 +74,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Student
+  - PhD Student
 ---
 
 Minrui Zou (邹旻瑞) received the B.E. degree from the Civil Aviation University of China in 2022. Now he is pursuing the M.S. degree in the School of Computer Science, Nanjing University of Posts and Telecommunications (NJUPT). His research interests include image denoising and object detection under the guidance of [Kang Ni (倪康)](https://scholar.google.com/citations?user=8e0VkggAAAAJ) from NJUPT.

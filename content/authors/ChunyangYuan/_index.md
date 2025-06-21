@@ -10,26 +10,27 @@ last_name: Yuan
 superuser: false
 
 # Role/position
-role: Object Detection
+role: Object Detection, Semantic Segmentation
 
 # Organizations/Affiliations
 organizations:
-  - name:  Nanjing University of Posts and Telecommunications (NJUPT)
-    url: https://www.njupt.edu.cn/en/
+  - name:  Nanjing University of Science and Technology (NJUST)
+    url: https://www.njust.edu.cn/main.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image super-resolution, SAR image processing, and computer vision.
+bio: My research interests include infrared small target detection, SAR image classification, image super-resolution.
 
 interests:
+  - Infrared Small Target Detection
+  - SAR Image Classification
   - Image Super-Resolution
-  - SAR Image Processing
-  - Computer Vision
+
 
 education:
   courses:
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
+    - course: PhD in Computer Science and Technology
+      institution: Nanjing University of Science and Technology
+      year: Present
     - course: MEng in Computer Science and Technology
       institution: Nanjing University of Posts and Telecommunications
       year: 2025
@@ -44,10 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ycy_0817@gmail.com'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GrokCV
+    link: 'mailto:chunyang.yuan.cs@gmail.com'
   - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=F5yxAlIAAAAJ
@@ -63,6 +61,7 @@ social:
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/whxian-sheng-99
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,10 +77,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Student
+  - PhD Student
 ---
 
-Chunyang Yuan (袁春阳) received the B.S degree in Energy and Power Engineering from Henan Polytechnic University, Henan, China, in 2021. He is currently pursuing a master's degree in Computer Science and Technology at Nanjing University of Posts and Telecommunications, Nanjing, China. His research interests include image super-resolution, SAR image processing, and computer vision.
+Chunyang Yuan (袁春阳) received the B.S. degree in Energy and Power Engineering from Henan Polytechnic University, Henan, China, in 2021, and the M.Eng. degree in Computer Science and Technology from Nanjing University of Posts and Telecommunications, Nanjing, China, in 2025. He is currently pursuing a Ph.D. degree in Computer Science and Technology at Nanjing University of Science and Technology, Nanjing, China. His research interests include infrared small target detection, SAR image classification, and image super-resolution.
 {style="text-align: justify;"}
-
 

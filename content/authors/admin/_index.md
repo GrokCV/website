@@ -15,27 +15,23 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: Nankai University
-    url: https://www.nankai.edu.cn/
+    url: https://cc.nankai.edu.cn/2021/0323/c13620a574113/page.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: For more information, please visit my personal website at <https://yimian.grokcv.ai/>.
 
-# interests:
-#   - Image Restoration
-#   - Object Detection
-#   - Vision-Language Models
+interests:
+  - Object Detection
+  - Image Segmentation
 
-# education:
-#   courses:
-#     - course: PhD in Signal Processing
-#       institution: Nanjing University of Aeronautics and Astronautics
-#       year: 2021
-#     # - course: MEng in Artificial Intelligence
-#     #   institution: Massachusetts Institute of Technology
-#     #   year: 2009
-#     - course: BSc in Electrical Engineering
-#       institution: Nanjing University of Aeronautics and Astronautics
-#       year: 2013
+education:
+  courses:
+    - course: PhD in Signal and Information Processing
+      institution: Nanjing University of Aeronautics and Astronautics
+      year: 2020
+    - course: BSc in Information Engineering
+      institution: Nanjing University of Aeronautics and Astronautics
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

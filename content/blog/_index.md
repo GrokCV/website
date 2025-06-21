@@ -1,5 +1,5 @@
 ---
-title: Sprouts
+title: Blog
 cms_exclude: true
 
 # View.

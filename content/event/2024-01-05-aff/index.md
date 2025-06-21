@@ -1,6 +1,6 @@
 ---
 title: 【WACV 2021 Oral】Attentional Feature Fusion
-
+draft: false
 event: WACV 2021
 event_url: https://www.youtube.com/watch?v=zkM2QGKLDuc
 

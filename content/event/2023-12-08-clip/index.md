@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】CLIP：基本方法、下游应用与模型微调
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

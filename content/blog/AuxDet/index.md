@@ -1,6 +1,7 @@
 ---
 title: 🎯 AuxDet：辅助元数据驱动的广域红外小目标检测方法
 date: 2025-06-20
+draft: false
 math: true
 authors: 
 - YangtingShi

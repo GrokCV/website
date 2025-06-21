@@ -1,6 +1,6 @@
 ---
 title: 【文献分享 | Nature 封面文章】Heat-Assisted Detection And Ranging - Part I
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

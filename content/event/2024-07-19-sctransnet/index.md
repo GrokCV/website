@@ -1,6 +1,6 @@
 ---
 title: 【工作分享】SCTransNet：面向红外弱小目标检测的空间 - 通道交叉 Transformer
-
+draft: true
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

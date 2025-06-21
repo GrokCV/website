@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】看见不可见之物：非视域计算成像
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】从手工设计到 HyperNet：差分卷积的技术演进
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

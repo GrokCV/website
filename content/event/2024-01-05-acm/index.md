@@ -1,6 +1,6 @@
 ---
 title: 【WACV 2021 Oral】Asymmetric Contextual Modulation for Infrared Small Target Detection
-
+draft: false
 event: WACV 2021
 event_url: https://www.youtube.com/watch?v=UVi6aXNeXL8
 

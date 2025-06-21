@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】Vision Transformer：从 Transformer 到 Vit、PVT 和 Swin Transformer
-
+draft: true
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

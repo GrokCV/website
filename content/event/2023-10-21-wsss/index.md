@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】（特邀）弱监督语义分割研究现状
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】从光流到可变性卷积：视频超分辨率的技术演进
-
+draft: true
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

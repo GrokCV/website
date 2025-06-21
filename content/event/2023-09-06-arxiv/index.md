@@ -1,6 +1,6 @@
 ---
 title: 【技术分享】告别截图，直接从 arXiv 提取论文原文
-
+draft: true
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

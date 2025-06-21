@@ -1,6 +1,6 @@
 ---
 title: 【工作分享】：用于遥感任务的基础轻量级骨干网络
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

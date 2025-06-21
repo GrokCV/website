@@ -1,6 +1,6 @@
 ---
 title: 【求职经验】双非本科拿下腾讯算法岗位的攻略与心得
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

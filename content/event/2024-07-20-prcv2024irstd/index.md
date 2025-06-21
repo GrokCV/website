@@ -1,6 +1,6 @@
 ---
 title: 【比赛分享】PRCV 2024 广域红外小目标检测挑战赛优胜方案
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

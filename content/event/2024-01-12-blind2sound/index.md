@@ -1,6 +1,6 @@
 ---
 title: 【工作分享】Blind2Sound：真实场景下的贝叶斯去噪方法
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

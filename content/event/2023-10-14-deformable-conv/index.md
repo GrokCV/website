@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】可变形卷积：原理、演进及其在目标检测中的应用
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

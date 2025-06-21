@@ -1,6 +1,6 @@
 ---
 title: 【新芽（大一）结业汇报】图像超分辨率：从单帧到引导式方法
-
+draft: true
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

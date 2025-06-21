@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】Strategies and Techniques Towards High-Efficiency Object Detection
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

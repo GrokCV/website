@@ -1,6 +1,6 @@
 ---
 title: 【文献分享】扩散模型（1）：DDPM 数学推导与代码解析
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

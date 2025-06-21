@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】重参数化宇宙：深度网络结构的等价转换
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

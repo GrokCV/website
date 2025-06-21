@@ -1,6 +1,6 @@
 ---
 title: 【文献分享】软阈值迭代算法 ISTA 简介
-
+draft: true
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

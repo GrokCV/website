@@ -1,6 +1,6 @@
 ---
 title: 【文献分享】Gaussian Wasserstein Distance Loss 和 Normalized Wasserstein Distance Metric
-
+draft: true
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

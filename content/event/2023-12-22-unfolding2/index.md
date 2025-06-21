@@ -1,6 +1,6 @@
 ---
 title: 【文献梳理】稀疏表示求解：从凸优化到深度展开
-
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

@@ -7,3 +7,26 @@
 .cta-group {
   justify-content: center;
 }
+
+
+// 主页背景
+.hero, .wg-hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh; /* 或 100vh，根据你想要的高度调整 */
+}
+
+.hero, .wg-hero {
+  color: #fff !important;
+  text-align: center;
+}
+
+   /* 让 hero 区块内容容器居中 */
+.hero .container, .wg-hero .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  }

@@ -1,5 +1,5 @@
 ---
-title: DISTA-Net：首个远距离空间邻近红外小目标开源生态系统与动态解混框架
+title: 🎯 DISTA-Net：首个远距离空间邻近红外小目标开源生态系统与动态解混框架
 date: 2025-08-01
 draft: false
 math: true

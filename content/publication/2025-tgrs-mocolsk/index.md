@@ -13,15 +13,15 @@ authors:
 - Jian Yang
 
 author_notes:
-- 
-- 
-- 
-- 
-- 
-- 
+- Equal Contribution
+- Equal Contribution
+- Corresponding Author
 - 
 - 
 - Corresponding Author
+- Corresponding Author
+- 
+- 
 
 date: "2025-03-04"
 

@@ -1,6 +1,6 @@
 ---
 title: "Infrared Small Target Detection via Nonconvex Weighted Tensor Rank Minimization and Adaptive Spatial–Temporal Modeling"
-
+draft: true
 authors:
 - Yang Sun
 - Zaiping Lin

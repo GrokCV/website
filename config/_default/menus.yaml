@@ -16,7 +16,7 @@ main:
   - name: 论文
     url: publication
     weight: 30
-  - name: 报告
+  - name: 视频
     url: event
     weight: 40
   - name: 本组

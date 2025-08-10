@@ -13,9 +13,9 @@ type: landing
 
 sections:
   - block: about.biography
-    id: content/authors/admin
-    content:
-      title: Biography
+    # id: content/authors/admin
+    # content:
+    #   title: Biography
   # - block: hero
   #   content:
   #     title: |

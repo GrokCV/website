@@ -17,7 +17,7 @@ author_notes:
 - 
 - 
 - 
-- Corresponding Author
+- 
 
 # 日期格式：2025-04-23
 # 期刊类型、卷号、页码、DOI等

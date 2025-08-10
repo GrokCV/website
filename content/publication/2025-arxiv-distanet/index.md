@@ -12,8 +12,8 @@ authors:
 - admin
 
 author_notes:
-- 
-- 
+- Equal Contribution
+- Equal Contribution
 - 
 - 
 - 

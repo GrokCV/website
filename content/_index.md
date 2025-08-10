@@ -12,8 +12,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: authors.admin.biography
-    id: about
+  - block: about.biography
+    id: content/authors/admin
     content:
       title: Biography
   # - block: hero

@@ -94,9 +94,9 @@ authors:
     - 新芽训练营 (II)・**培育期**・合集：<https://space.bilibili.com/833564/lists/6020104>
 - Jittor 复现清单：<https://github.com/GrokCV/Jittor-Sprouts>
 
-## 5 科学研究
+## 4 科学研究
 
-### 5.1 研究方向
+### 4.1 研究方向
 
 本小组隶属于程明明教授领导的媒体计算实验室，秉承「面向国家实际需求，做好落地应用研究」的科研理念，专注于**遥感目标检测方法**研究，尤其侧重**弱小目标检测算法设计**，长期坚持开源代码与发布数据集。
 
@@ -107,7 +107,7 @@ authors:
 3. 多源异构异步分布式协同一体化探测：如何用一个检测模型适配所有成像模态，具体可参考文献 [13]；
 4. 面向国产 AI 生态的模型轻量化与高效部署：相应成果在近期内会开源，届时再具体介绍。
 
-### 5.2 科研项目
+### 4.2 科研项目
 
 本小组只承接遥感目标检测方向的算法研究类课题。事实上，南开这类学校很难作为总体直接承接，而我这种小青椒更不可能。所以，对本小组而言，无论是横向项目还是纵向项目，本质是完全相同的，只需要专注核心算法即可。
 
@@ -121,9 +121,9 @@ authors:
 6. 中国船舶某院某所（关键词：弱小目标检测），2022.07 至 2024.12，17 万元，主持，结题；
 7. 中国博士后科学基金会（关键词：弱小目标检测），面上资助，2022.01 至 2023.12，8 万，主持，结题。
 
-## 6 获奖信息
+## 5 获奖信息
 
-### 6.1 比赛获奖
+### 5.1 比赛获奖
 
 - 中国国际大学生创新大赛（2025）陕西赛区省级复赛，青年红色筑梦之旅赛道，金奖，指导老师；
 - 南开大学第七届校长杯创新创业大赛创业赛高教主赛道，优秀奖，指导老师；
@@ -132,20 +132,20 @@ authors:
 - ICPR 2024 资源受限的红外小目标检测挑战赛，赛道二, 三等奖，指导老师；
 - 2022 年首届粤港澳大湾区国际算法算例大赛——遥感图像目标检测赛道，亚军，核心成员。100,000 RMB 奖金 (2nd/127 队伍)
 
-### 6.2 荣誉奖励
+### 5.2 荣誉奖励
 
 - 斯坦福全球前 2% 顶尖科学家（2023、2024）；
 - 2024 年度河南省教育厅科技成果奖二等奖——复杂场景下基于非凸建模的红外暗弱小目标检测关键技术研发与应用，排名第二，奖励编号：豫教〔2024〕07488；
 - 2017 年度中国科协优秀中外青年交流计划。
 
-## 7 学术成果
+## 6 学术成果
 
 本小组期望发表的工作能够实现以下两点要求中的至少一点：
 
 1. 在深入理解实际需求的基础上发掘出新问题/新任务，构建一整个开源生态，包括数据集、代码工具箱和评测指标，从而吸引更多人来关注该任务，例如文献 [2], [3], [4], [6], [7], [11], [13], [15].
 2. 对现有 well-defined 的问题，提出新的观点和范式，使得方法性能得到提升，例如文献 [1], [2], [6], [7], [10], [11], [12], [14].
 
-### 7.1 通讯作者
+### 6.1 通讯作者
 
 - [1] Yangting Shi, Renjie He, Le Hui, Xiang Li, Jian Yang, Ming-Ming Cheng, **Yimian Dai#**. AuxDet: Auxiliary Metadata Matters for Omni-Domain Infrared Small Target Detection[C]. arXiv preprint arXiv:2505.15184.
 - [2] Changfeng Feng, Zhenyuan Chen, Xiang Li, Chunping Wang, Jian Yang, Ming-Ming Cheng, **Yimian Dai#**, Qiang Fu#. HazyDet: Open-Source Benchmark for Drone-View Object Detection with Depth-Cues in Hazy Scenes[C]. arXiv preprint arXiv:2409.19833.
@@ -155,14 +155,14 @@ authors:
 - [6] Qun Dai*, Chunyang Yuan*, **Yimian Dai#**, Yuxuan Li, Xiang Li, Kang Ni#, Jianhui Xu#, Xiangbo Shu, Jian Yang. MoCoLSK: Modality Conditioned High-Resolution Downscaling for Land Surface Temperature[J]. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025, 63: 1-17.
 - [7] Fei Zhou, Maixia Fu, Yulei Qian, Jian Yang, **Yimian Dai#**. Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection[J]. *IEEE Transactions on Instrumentation and Measurement (TIM)*, 2024, 73: 1-18.
 
-### 7.2 第一作者
+### 6.2 第一作者
 
 - [8] **Yimian Dai***, Minrui Zou*, Yuxuan Li, Xiang Li, Qiliang Luo, Jian Yang#, Kang Ni#. DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images[J]. *IEEE Transactions on Aerospace and Electronic Systems (TAES)*, 2025, 61 (2): 4729-4743.
 - [9] **Yimian Dai***, Peiwen Pan*, Yulei Qian, Yuxuan Li, Xiang Li, Jian Yang, Huan Wang. Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention[J]. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024: 62: 1-15.
 - [10] **Yimian Dai**, Xiang Li#, Fei Zhou, Yulei Qian, Yaohong Chen, Jian Yang#. One-Stage Cascade Refinement Networks for Infrared Small Target Detection[J]. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2023, 61: 1-17.
 - [11] **Yimian Dai**, Yiquan Wu, Fei Zhou, Kobus Barnard. Attentional Local Contrast Networks for Small Infrared Target Detection[J]. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2021, 59(11): 9813-9824.
 
-### 7.3 其他
+### 6.3 其他
 
 - [12] Fengyi Wu, **Yimian Dai**, Tianfang Zhang, Yixuan Ding, Jian Yang, Ming-Ming Cheng, Zhenming Peng. RPCANet++: Deep Interpretable Robust PCA for Sparse Object Segmentation[J]. arXiv preprint arXiv:2508.04190.
 - [13] Yuxuan Li, Xiang Li, Yunheng Li, Yicheng Zhang, **Yimian Dai**, Qibin Hou, Ming-Ming Cheng, Jian Yang. SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection[C]. arXiv preprint arXiv:2412.20665.

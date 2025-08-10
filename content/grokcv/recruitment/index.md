@@ -12,6 +12,8 @@ authors:
 #   placement: 2
 #   caption: '[](https://github.com/GrokCV/imgbed/blob/master/blog/AuxDet/author.png?raw=true)'
 ---
+<!-- 更好的阅读体验，请访问 <https://grokcv.ai/grokcv/recruitment/>. -->
+
 ## 1 综合介绍
 
 戴一冕，南开大学计算机学院副教授，程明明教授团队，CCF 学生领航计划（SPP）工作组成员。主持国家自然科学青年基金、天基 XX 项目课题（200 万元）以及多项算法研究类的校企合作项目。曾获 2022 粤港澳大湾区（黄埔）国际算法算例大赛（遥感目标检测赛道）亚军（2/116队伍）、CVPR 2025 “反无人机”挑战赛（赛道一）冠军、第二届“吉林一号”杯卫星遥感应用青年创新创业大赛一等奖。

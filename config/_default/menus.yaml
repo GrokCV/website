@@ -5,24 +5,27 @@
 
 main:
   - name: Home
-    url: tour
+    url: /
     weight: 10
   # - name: News
   #   url: post
   #   weight: 20
-  - name: People
+  - name: 成员
     url: people
+    weight: 20
+  - name: 论文
+    url: publication
     weight: 30
-  - name: Talk
+  - name: 报告
     url: event
     weight: 40
-  - name: Publication
-    url: publication
-    weight: 50
-  - name: GrokCV
+  - name: 本组
     url: grokcv
+    weight: 50
+  - name: 新芽
+    url: sprouts
     weight: 60
-  - name: Blog
+  - name: 博客
     url: blog
     weight: 70
   # - name: Contact

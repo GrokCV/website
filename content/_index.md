@@ -4,26 +4,43 @@ title:
 date: 2022-10-24
 type: landing
 
+# sections:
+#   - block: hero
+#     content:
+#       title:
+# date: 2022-10-24
+# type: landing
+
 sections:
-  - block: hero
+  - block: about.biography
+    id: authors.admin.biography
     content:
-      title: |
-        <span style="color:#fff;font-size:3rem;font-weight:bold;letter-spacing:2px;">GrokCV Group</span>
-      text: |
-        <span style="color:#fff;font-size:1.05rem;">
-        The GrokCV Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-        </span>
-    design:
-      text_align: center
-      text_color_light: true
-      background:
-        image:
-          filename: bg2.jpg
-          size: cover
-          position: center
-          overlay_color: "#003366"
-          overlay_opacity: 0.5
-          parallax: false
+      title: Biography
+  # - block: hero
+  #   content:
+  #     title: |
+  #       <span style="color:#fff;font-size:3rem;font-weight:bold;letter-spacing:2px;">GrokCV Group</span>
+  #     text: |
+  #       <span style="color:#fff;font-size:1.05rem;">
+  #       The GrokCV Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  #       </span>
+  #   design:
+  #     text_align: center
+  #     text_color_light: true
+  #     background:
+  #       image:
+  #         filename: bg2.jpg
+  #         size: cover
+  #         position: center
+  #         overlay_color: "#003366"
+  #         overlay_opacity: 0.5
+  #         parallax: false
+      
+
+  #     text: |
+  #       <br>
+        
+  #       The **GrokCV Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:

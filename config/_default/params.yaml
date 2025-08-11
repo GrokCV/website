@@ -33,7 +33,10 @@ marketing:
 
 header:
   navbar:
+    # Display the navigation bar?
     enable: true
+    # Choose a built-in navigation blox or create your own
+    blox: "navbar"
     align: r
     show_logo: true
     show_language: false
@@ -63,12 +66,12 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
-      - r
+      - python
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:

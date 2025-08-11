@@ -41,7 +41,12 @@ header:
     align: r
     # Fix the navigation bar to the top of the page
     fixed_to_top: true
-    show_logo: true
+    logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.jpg"
+    # show_logo: true
     show_language: false
     show_day_night: true
     show_search: true

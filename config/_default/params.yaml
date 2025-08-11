@@ -48,8 +48,11 @@ header:
       filename: "icon.png"
     show_logo: true
     show_language: false
+    # Let the user choose between light or dark mode?
     show_day_night: true
+    # Let the user search from the navigation bar?
     show_search: true
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
 
 # Site footer

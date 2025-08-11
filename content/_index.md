@@ -12,10 +12,10 @@ type: landing
 # type: landing
 
 sections:
-  - block: about.biography
-    id: content.authors.admin.biography
-    content:
-      title: Biography
+  # - block: about.biography
+  #   id: content.authors.admin.biography
+  #   content:
+  #     title: Biography
   # - block: hero
   #   content:
   #     title: |

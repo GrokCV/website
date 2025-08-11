@@ -36,11 +36,11 @@ header:
     # Display the navigation bar?
     enable: true
     # Choose a built-in navigation blox or create your own
-    blox: "navbar"
+    # blox: "navbar"
     # Align menu links: `left`, `center`, or `right`
     align: r
     # Fix the navigation bar to the top of the page
-    fixed_to_top: true
+    # fixed_to_top: true
     show_logo: true
     show_language: false
     show_day_night: true

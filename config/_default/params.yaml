@@ -45,7 +45,7 @@ header:
       # Logo text
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.jpg"
+      filename: "icon.png"
     # show_logo: true
     show_language: false
     show_day_night: true

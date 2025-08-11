@@ -46,7 +46,7 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "icon.png"
-    # show_logo: true
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true

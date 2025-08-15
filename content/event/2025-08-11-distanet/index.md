@@ -1,5 +1,5 @@
 ---
-title: DISTA-Net：动态紧密排列红外小目标分离网络
+title: DISTA-Net：动态空间邻近红外小目标解混
 draft: false
 event: GrokCV Seminar
 event_url: https://www.bilibili.com/video/BV1d8tPzxESh/?spm_id_from=333.337.search-card.all.click
@@ -13,7 +13,8 @@ location: Tencent Meeting
 #   country: United States
 
 summary: 【工作分享】DISTA-Net：动态紧密排列红外小目标分离网络
-abstract: 在红外成像中，解析密集集群中的紧密排列小目标是一个重大挑战，因为重叠信号阻碍了对其数量、亚像素位置和辐射强度的精确确定。虽然深度学习已经推进了红外小目标检测领域，但其在紧密排列红外小目标上的应用尚未被探索。这个空白主要存在于分离叠加特征的复杂性和缺乏开源基础设施。在这项工作中，我们提出了动态迭代收缩阈值网络（DISTA-Net），它在动态框架内重新概念化了传统的稀疏重建。DISTA-Net自适应地生成卷积权重和阈值参数，以实时定制重建过程。据我们所知，DISTA-Net是第一个专门为紧密排列红外小目标分离设计的深度学习模型，实现了卓越的亚像素检测精度。此外，我们建立了第一个开源生态系统来促进该领域的进一步研究。这个生态系统包含三个关键组件：(1) CSIST-100K，一个公开可用的基准数据集；(2) CSO-mAP，一个用于亚像素检测的自定义评估指标；(3) GrokCSO，一个包含DISTA-Net和其他模型的开源工具包。
+abstract: 在红外成像中，密集成团的空间邻近小目标解混存在严峻的技术挑战，因为信号混叠会严重影响目标数量统计、亚像素级定位以及辐射强度测定的准确性。尽管深度学习在红外小目标检测领域取得了一定的进展，但其在空间邻近红外小目标上的应用尚未得到探索。这一空白主要源于混叠特征分离的复杂性以及开源基础设施的缺失。在本研究中，我们提出了动态迭代收缩阈值网络 (Dynamic Iterative Shrinkage Thresholding Network, DISTA-Net)，该网络将传统稀疏重建方法重构为动态框架。DISTA-Net 能自适应地生成卷积权重和阈值参数，以实时调整重建过程。据我们所知，DISTA-Net 是首个专门针对空间邻近红外小目标解混设计的深度学习模型，实现了卓越的亚像素检测精度。此外，我们建立了该领域首个开源生态系统以促进后续研究。该生态系统包含三大核心组件：（1）CSIST-100K，一个公开的基准数据集；（2）CSO-mAP，一个用于亚像素检测的自定义专用评估指标；（3）GrokCSO，一个开源工具包，其中包含 DISTA-Net 及其他模型。
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

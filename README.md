@@ -5,7 +5,7 @@
 ## Local preview
 
 ```bash
-HUGO_MODULE_PROXY=https:/mirrors.aliyun.com/goproxy/ hugo mod get -u
+HUGO_MODULE_PROXY=https://mirrors.aliyun.com/goproxy/ hugo mod get -u
 
 hugo serve -M
 ```

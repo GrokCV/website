@@ -71,7 +71,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,5 +79,5 @@ user_groups:
   - PhD Student
 ---
 
-Chen Yang(陈洋) received the B.Eng. degree in Communication Engineering from Guizhou University, Guizhou, China, in 2020, and the M.Eng. degree in Electronic Information from Guizhou University, Guizhou, China, in 2023. He is currently pursuing the Ph.D. degree in Electronic Science and Technology at Guizhou University, Guizhou, China. He is also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://yimian.grokcv.ai/). His research interests include domain generalization, infrared small target detection, and cross-domain object detection.
+Chen Yang (陈洋) received the B.Eng. degree in Communication Engineering from Guizhou University, Guizhou, China, in 2020, and the M.Eng. degree in Electronic Information from Guizhou University, Guizhou, China, in 2023. He is currently pursuing the Ph.D. degree in Electronic Science and Technology at Guizhou University, Guizhou, China. He is also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://yimian.grokcv.ai/). His research interests include domain generalization, infrared small target detection, and cross-domain object detection.
 {style="text-align: justify;"}

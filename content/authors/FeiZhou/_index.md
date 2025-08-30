@@ -49,8 +49,8 @@ social:
   #   icon_pack: fab
   #   link: https://twitter.com/GrokCV
   - icon: google-scholar
-    icon_pack: fas
-    link: https:https://scholar.google.com/citations?user=FAi5TosAAAAJ&hl=zh-CN
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=FAi5TosAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/GrokCV

@@ -44,11 +44,13 @@ abstract: |
   Resolving closely-spaced small targets in dense clusters presents a significant challenge in infrared imaging, as the overlapping signals hinder precise determination of their quantity, sub-pixel positions, and radiation intensities. While deep learning has advanced the field of infrared small target detection, its application to closely-spaced infrared small targets has not yet been explored. This gap exists primarily due to the complexity of separating superimposed characteristics and the lack of an open-source infrastructure. In this work, we propose the Dynamic Iterative Shrinkage Thresholding Network (DISTA-Net), which reconceptualizes traditional sparse reconstruction within a dynamic framework. DISTA-Net adaptively generates convolution weights and thresholding parameters to tailor the reconstruction process in real time. To the best of our knowledge, DISTA-Net is the first deep learning model designed specifically for the unmixing of closely-spaced infrared small targets, achieving superior sub-pixel detection accuracy. Moreover, we have established the first open-source ecosystem to foster further research in this field. This ecosystem comprises three key components: (1) CSIST-100K, a publicly available benchmark dataset; (2) CSO-mAP, a custom evaluation metric for sub-pixel detection; and (3) GrokCSO, an open-source toolkit featuring DISTA-Net and other models. Our code and dataset are available at https://github.com/GrokCV/GrokCSO.
 
 # Summary. An optional shortened abstract.
-summary: This paper introduces attentional feature fusion, a uniform scheme for merging features from different network layers or branches. The method utilizes a multi-scale channel attention module for fusing inconsistent semantics and scales, and iterative attentional feature fusion to alleviate integration bottlenecks.
+summary: This paper proposes DISTA-Net, the first deep learning model for unmixing closely-spaced infrared small targets, and introduces an open-source ecosystem for this field.
 
 tags:
-- Feature Fusion
-- Attention Mechanism
+- Infrared Small Target Detection
+- Sparse Reconstruction
+- Deep Learning
+- Sub-Pixel Detection
 
 # Display this page in the Featured widget?
 featured: false
@@ -58,14 +60,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Attentional_Feature_Fusion_WACV_2021_paper.pdf'
-url_code: 'https://github.com/YimianDai/open-aff'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: "https://arxiv.org/pdf/2505.19148"
+url_code: "https://github.com/GrokCV/GrokCSO"
+url_dataset: "https://github.com/GrokCV/GrokCSO"
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

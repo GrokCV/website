@@ -68,6 +68,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-ICCV-DISTA-Net-CN-Translation.pdf"
+url_cn_blog: "https://grokcv.ai/blog/dista-net/"
+url_cn_video: "https://www.bilibili.com/video/BV1d8tPzxESh/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -14,13 +14,14 @@ role: Object Tracking
 
 # Organizations/Affiliations
 organizations:
-  - name: Nanjing University of Aeronautics and Astronautics (NUAA)
-    url: https://www.nuaa.edu.cn/
+  - name: Yangzhou University of (YZU)
+    url: https://www.yzu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include small object detection and multiple object tracking.
+bio: My research interests lie in intelligent perception, particularly in the areas of small object detection and multiple object tracking, where I explore advanced visual understanding techniques to improve accuracy, robustness, and generalization across diverse scenarios.
 
 interests:
+  - Intelligent Perception
   - Small Object Detection
   - Multiple Object Tracking
 
@@ -28,7 +29,7 @@ education:
   courses:
     - course: PhD in Information and Communication Engineering
       institution: Nanjing University of Aeronautics and Astronautics
-      year: Present
+      year: 2025
     - course: MEng in Electronic and Communication Engineering
       institution: Lanzhou Jiaotong University
       year: 2021
@@ -77,9 +78,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Faculty
+  - Lecturer
 ---
 
-Yubin Yuan (苑玉彬) received the B.Eng. degree in Electronic Information Engineering from the University of South China, Hengyang, China, in 2017, and the M.Eng. degree in Electronic and Communication Engineering from Lanzhou Jiaotong University, Lanzhou, China, in 2021. He is currently pursuing the Ph.D. degree in Information and Communication Engineering at Nanjing University of Aeronautics and Astronautics, Nanjing, China. His research interests include small object detection and multiple object tracking.
+Yubin Yuan (苑玉彬) received the B.Eng. degree in Electronic Information Engineering from the University of South China, Hengyang, China, in 2017, the M.Eng. degree in Electronic and Communication Engineering from Lanzhou Jiaotong University, Lanzhou, China, in 2021, and the Ph.D. degree in Information and Communication Engineering from Nanjing University of Aeronautics and Astronautics, Nanjing, China, in 2025. He is currently a Lecturer with the School of Information Engineering, Yangzhou University, Yangzhou, China. His research interests include intelligent perception, small object detection, and multiple object tracking.
+
 {style="text-align: justify;"}
 

@@ -141,6 +141,19 @@
 </a>
 {{ end }}
 
+{{/* Add url_translation */}}
+{{ with $page.Params.url_translation }}
+{{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ "翻译" }}
+</a>
+{{ end }}
+
 {{ with $page.Params.doi }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
   DOI

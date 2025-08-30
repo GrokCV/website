@@ -39,6 +39,9 @@ links:
 # - name: 
 url_pdf: https://arxiv.org/pdf/2007.07729
 url_code: 'https://github.com/YimianDai/open-atac'
+url_cn_pdf: ""
+url_cn_blog: ""
+url_cn_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

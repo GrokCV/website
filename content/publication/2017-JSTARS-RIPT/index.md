@@ -39,6 +39,9 @@ featured: false
 #   url: ""
 url_pdf: https://arxiv.org/pdf/1703.09157
 url_code: 'https://github.com/YimianDai/DENTIST'
+url_cn_pdf: ""
+url_cn_blog: ""
+url_cn_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

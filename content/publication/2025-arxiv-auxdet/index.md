@@ -49,6 +49,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+url_cn_pdf: ""
+url_cn_blog: ""
+url_cn_video: ""
 
 image:
   preview_only: false

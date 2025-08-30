@@ -83,3 +83,5 @@ user_groups:
 
 Fei Zhou (周飞) is an Associate Professor with College of Information Science and Engineering, Henan University of Technology, Zhengzhou, China. He is a member of the [GrokCV Group] (https://grokcv.ai/) and his main research areas include infrared small target detection, image super-resolution, and food information detection.
 {style="text-align: justify;"}
+
+

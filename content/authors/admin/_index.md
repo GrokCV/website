@@ -85,5 +85,5 @@ I am currently an Associate Professor at the Visual Computing and Intelligent Pe
 Throughout my career, I have had the fortunate opportunity to collaborate closely with [Prof. Xiang Li (李翔)](https://implus.github.io/) from Nankai University and [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. As the head of the [GrokCV Research Group](https://grokcv.ai/), my research interests have evolved, now focusing on *Remote Sensing Object Detection*, *Visual Perception in Adverse Environments*, and *Efficient Deployment and Optimization within Domestic AI Ecosystem*. My goal is to address real-world challenges in these fields.
 {style="text-align: justify;"}
 
-**For more information, please visit my personal website at <https://yimian.grokcv.ai/>.**
+<!-- **For more information, please visit my personal website at <https://yimian.grokcv.ai/>.** -->
 {style="text-align: justify;"}

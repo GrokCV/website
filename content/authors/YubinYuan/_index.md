@@ -77,9 +77,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - Faculty
 ---
 
-Yubin Yuan (苑玉彬) received the B.Eng. degree in Electronic Information Engineering from the University of South China, Hengyang, China, in 2013, and the M.Eng. degree in Electronic and Communication Engineering from Lanzhou Jiaotong University, Lanzhou, China, in 2018. He is currently pursuing the Ph.D. degree in Information and Communication Engineering at Nanjing University of Aeronautics and Astronautics, Nanjing, China. His research interests include small object detection and multiple object tracking.
+Yubin Yuan (苑玉彬) received the B.Eng. degree in Electronic Information Engineering from the University of South China, Hengyang, China, in 2017, and the M.Eng. degree in Electronic and Communication Engineering from Lanzhou Jiaotong University, Lanzhou, China, in 2021. He is currently pursuing the Ph.D. degree in Information and Communication Engineering at Nanjing University of Aeronautics and Astronautics, Nanjing, China. His research interests include small object detection and multiple object tracking.
 {style="text-align: justify;"}
 

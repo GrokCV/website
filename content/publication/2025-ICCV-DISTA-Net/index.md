@@ -1,26 +1,34 @@
 ---
-title: "Attentional Feature Fusion"
+title: "DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Fabian Gieseke
-  - Stefan Oehmcke
-  - Yiquan Wu
-  - Kobus Barnard
+- Shengdong Han
+- Shangdong Yang
+- Xin Zhang
+- Yuxuan Li
+- Xiang Li
+- Jian Yang
+- Ming-Ming Cheng
+- admin
 
-# Author notes (optional)
 author_notes:
-  - 
-  - 
+- Equal Contribution
+- Equal Contribution
+- 
+- 
+- 
+- 
+- 
+- "Corresponding Author"
 
-date: '2021-01-05T00:00:00Z'
-doi: '10.1109/WACV48630.2021.00360'
+date: "2025-05-25"
+doi: "10.48550/arXiv.2505.19148"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-06-14T00:00:00Z'
+publishDate: '2025-05-15T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,8 +36,8 @@ publishDate: '2021-06-14T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '2021 IEEE Winter Conference on Applications of Computer Vision (WACV)'
-publication_short: 'WACV 2021'
+publication: "2025 International Conference on Computer Vision (ICCV)"
+publication_short: "ICCV 2025"
 
 
 abstract: Feature fusion, the combination of features from different layers or branches, is an omnipresent part of modern network architectures. It is often implemented via simple operations, such as summation or concatenation, but this might not be the best choice. In this work, we propose a uniform and general scheme, namely attentional feature fusion, which is applicable for most common scenarios, including feature fusion induced by short and long skip connections as well as within Inception layers. To better fuse features of inconsistent semantics and scales, we propose a multi-scale channel attention module, which addresses issues that arise when fusing features given at different scales. We also demonstrate that the initial integration of feature maps can become a bottleneck and that this issue can be alleviated by adding another level of attention, which we refer to as iterative attentional feature fusion. With fewer layers or parameters, our models outperform state-of-the-art networks on both CIFAR-100 and ImageNet datasets, which suggests that more sophisticated attention mechanisms for feature fusion hold great potential to consistently yield better results compared to their direct counterparts. Our codes and trained models are available online.

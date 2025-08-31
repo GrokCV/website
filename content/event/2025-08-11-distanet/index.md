@@ -2,7 +2,7 @@
 title: DISTA-Net：动态空间邻近红外小目标解混
 draft: false
 event: GrokCV Seminar
-event_url: https://www.bilibili.com/video/BV1d8tPzxESh/?spm_id_from=333.337.search-card.all.click
+event_url: https://www.bilibili.com/video/BV1d8tPzxESh
 
 location: Tencent Meeting
 # address:

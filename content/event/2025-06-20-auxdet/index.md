@@ -2,7 +2,7 @@
 title: AuxDet：辅助元数据驱动的广域红外小目标检测方法
 draft: false
 event: GrokCV Seminar
-event_url: https://www.bilibili.com/video/BV1vJKNziETM/?spm_id_from=333.1387.search.video_card.click&vd_source=5b66d51572684bf20b6c5cab3c032112
+event_url: https://www.bilibili.com/video/BV1vJKNziETM
 
 location: Tencent Meeting
 # address:

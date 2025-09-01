@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Transactions on Geoscience and Remote Sensing"
 # publication_short: "IEEE TGRS"
 volume: 63
-pages: "5003918"
+pages: "1-18"
 publisher: "IEEE"
 doi: "10.1109/TGRS.2025.3563495"
 

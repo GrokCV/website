@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Geoscience and Remote Sensing*, vol. 59, no. 11, pp. 9813-9824, 2021."
-publication_short: "IEEE TGRS"
+# publication_short: "IEEE TGRS"
 
 abstract: To mitigate the issue of minimal intrinsic features for pure data-driven methods, in this article, we propose a novel model-driven deep network for infrared small target detection, which combines discriminative networks and conventional model-driven methods to make use of both labeled data and the domain knowledge. By designing a feature map cyclic shift scheme, we modularize a conventional local contrast measure method as a depth-wise parameter-less nonlinear feature refinement layer in an end-to-end network, which encodes relatively long-range contextual interactions with clear physical interpretability. To highlight and preserve the small target features, we also exploit a bottom-up attentional modulation integrating the smaller scale subtle details of low-level features into high-level features of deeper layers. We conduct detailed ablation studies with varying network depths to empirically verify the effectiveness and efficiency of the design of each component in our network architecture. We also compare the performance of our network against other model-driven methods and deep networks on the open SIRST data set as well. The results suggest that our network yields a performance boost over its competitors.
 

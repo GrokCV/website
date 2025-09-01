@@ -37,7 +37,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "2025 International Conference on Computer Vision (ICCV)"
-publication_short: "ICCV 2025"
+# publication_short: "ICCV 2025"
 
 
 abstract: |

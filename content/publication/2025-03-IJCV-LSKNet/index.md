@@ -27,7 +27,7 @@ doi: "10.48550/arXiv.2403.11735"
 publication_types: ["article-journal"]
 
 publication: "International Journal of Computer Vision"
-publication_short: "IJCV"
+# publication_short: "IJCV"
 volume: 133
 issue: 3
 pages: "1410-1431"
@@ -52,9 +52,9 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_cn_pdf: ""
-url_cn_blog: ""
-url_cn_video: ""
+url_cn_pdf: "https://mftp.mmcheng.net/Papers/24IJCV-LSK-CN.pdf"
+url_cn_blog: "https://zhuanlan.zhihu.com/p/614449075"
+url_cn_video: "https://www.bilibili.com/video/BV1Wu4y137Zz"
 
 image:
   preview_only: false

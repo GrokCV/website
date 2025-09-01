@@ -21,13 +21,13 @@ author_notes:
 - 
 - Corresponding Author
 
-date: "2025-05-21"
+date: "2025-05-21T00:00:00Z"
 doi: "10.48550/arXiv.2505.04917"
 
 publication_types: ["paper-conference"]
 
 publication: "Proceedings of the Computer Vision and Pattern Recognition Conference"
-publication_short: "CVPRW"
+#publication_short: "CVPRW"
 pages: "6630-6640"
 
 abstract: "Infrared object tracking plays a crucial role in Anti-Unmanned Aerial Vehicle (Anti-UAV) applications. Existing trackers often depend on cropped template regions and have limited motion modeling capabilities, which pose challenges when dealing with tiny targets. To address this, we propose a simple yet effective infrared tiny-object tracker that enhances tracking performance by integrating global detection and motion-aware learning with temporal priors. Our method is based on object detection and achieves significant improvements through two key innovations. First, we introduce frame dynamics, leveraging frame difference and optical flow to encode both prior target features and motion characteristics at the input level, enabling the model to better distinguish the target from background clutter. Second, we propose a trajectory constraint filtering strategy in the post-processing stage, utilizing spatio-temporal priors to suppress false positives and enhance tracking robustness. Extensive experiments show that our method consistently outperforms existing approaches across multiple metrics in challenging infrared UAV tracking scenarios. Notably, we achieve state-of-the-art performance in the 4th Anti-UAV Challenge, securing 1st place in Track 1 and 2nd place in Track 2. The code are publicly available at: https://github.com/facias914/A-Simple-Detector-is-a-Strong-Tracker"

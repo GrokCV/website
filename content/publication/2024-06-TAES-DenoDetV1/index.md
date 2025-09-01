@@ -3,10 +3,10 @@ title: "DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Ta
 
 authors:
 - admin
-- MinruiZou
+- Minrui Zou
 - Yuxuan Li
 - Xiang Li
-- KangNi
+- Kang Ni
 - Jian Yang
 
 author_notes:
@@ -17,12 +17,12 @@ author_notes:
 - Corresponding author
 - Corresponding author
 
-date: "2024-06-05T00:00:00Z"
+date: "2024-11-28T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "IEEE Transactions on Aerospace and Electronic Systems (TAES)"
 # publication_short: ""
 
 # Publication name and optional abbreviated publication name.
@@ -30,6 +30,8 @@ abstract: Synthetic Aperture Radar (SAR) target detection has long been impeded 
 
 # Summary. An optional shortened abstract.
 summary: This study presents DenoDet, a novel synthetic aperture radar (SAR) target detection network that leverages frequency domain transform for multi-scale subspace representation. The proposed TransDeno module dynamically denoises across subspaces by preserving target signals and attenuating noise, and a deformable group fully-connected layer (DeGroFC) adjusts the granularity of subspace processing based on input features.
+
+doi: '10.1109/TAES.2024.3507786'
 
 tags:
 - SAR Target Detection
@@ -39,10 +41,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2406.02833
+url_pdf: 'https://arxiv.org/pdf/2406.02833'
 url_code: 'https://github.com/GrokCV/GrokSAR'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://ieeexplore.ieee.org/document/10770564'
 url_project: ''
 url_slides: ''
 url_source: ''

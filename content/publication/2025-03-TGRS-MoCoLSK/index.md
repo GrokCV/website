@@ -40,10 +40,20 @@ summary: This paper proposes MoCoLSK, a modality-conditioned large selective ker
 
 tags:
 - Land Surface Temperature
-- Downscaling
+- Biological System Modeling
+- Land Surface
+- Data Models
+- Spatial Resolution
+- Deep Learning
 - Remote Sensing
+- Rivers
+- Computational Modeling
+- Benchmark Testing
+- Benchmark Dataset
+- Guided Image Super-Resolution (GISR)
+- Land Surface Temperature (LST)
 - Multimodal Fusion
-- MoCoLSK
+- Receptive Field
 
 featured: false
 

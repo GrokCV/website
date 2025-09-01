@@ -7,8 +7,8 @@ title: "DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing"
 authors:
 - Shengdong Han
 - Shangdong Yang
-- Xin Zhang
 - Yuxuan Li
+- Xin Zhang
 - Xiang Li
 - Jian Yang
 - Ming-Ming Cheng
@@ -47,6 +47,7 @@ abstract: |
 summary: This paper proposes DISTA-Net, the first deep learning model for unmixing closely-spaced infrared small targets, and introduces an open-source ecosystem for this field.
 
 tags:
+- Closely-Spaced Infrared Small Targets Unmixing
 - Infrared Small Target Detection
 - Sparse Reconstruction
 - Deep Learning

@@ -54,7 +54,7 @@ url_source: ""
 url_video: ""
 url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-TGRS-SeqCSIST-CN-Translation.pdf"
 url_cn_blog: "https://grokcv.ai/blog/seqcsist/"
-url_cn_video: ""
+url_cn_video: "https://www.bilibili.com/video/BV1bbedz6E5b/"
 
 image:
   preview_only: false

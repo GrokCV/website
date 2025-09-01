@@ -22,8 +22,8 @@ publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Aerospace and Electronic Systems"
 # publication_short: "TAES"
-
 # Publication name and optional abbreviated publication name.
+doi: "10.1109/TAES.2022.3209638"
 abstract: 
 # Summary. An optional shortened abstract.
 summary: 

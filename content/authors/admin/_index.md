@@ -18,7 +18,7 @@ organizations:
     url: https://cc.nankai.edu.cn/2021/0323/c13620a574113/page.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: For more information, please visit my personal website at <https://yimian.grokcv.ai/>.
+bio: 南开大学计算机学院副教授，专注于红外弱小目标检测、多模态视觉感知方向的研究。
 
 interests:
   - Object Detection

@@ -1,7 +1,7 @@
 ---
 title: GrokCV 学术生存手册（3）：博士的目标
 date: 2025-08-08
-draft: true
+draft: false
 math: true
 authors: 
 - admin

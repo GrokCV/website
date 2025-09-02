@@ -1,5 +1,5 @@
 ---
-title: GrokCV 生存手册（1）：招生说明
+title: GrokCV 学术生存手册（2）：招生说明
 date: 2025-08-09
 draft: false
 math: true

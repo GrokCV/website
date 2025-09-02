@@ -1,7 +1,10 @@
 ---
 title: 过程管理：从申请到毕业
 date: 2019-07-12
+draft: true
 math: true
+authors: 
+- admin
 # image:
 #   placement: 2
 #   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'

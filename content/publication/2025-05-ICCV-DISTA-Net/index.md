@@ -64,7 +64,7 @@ featured: false
 url_pdf: "https://arxiv.org/pdf/2505.19148"
 url_code: "https://github.com/GrokCV/GrokCSO"
 url_dataset: "https://github.com/GrokCV/GrokCSO"
-url_poster: ""
+url_poster: "https://github.com/YimianDai/public/blob/master/poster/2025-ICCV-DISTA-Net-Poster.pdf"
 url_project: ""
 url_slides: ""
 url_source: ""

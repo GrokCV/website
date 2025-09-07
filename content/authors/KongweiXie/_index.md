@@ -10,7 +10,7 @@ last_name: Xie
 superuser: false
 
 # Role/position
-role: image fusion
+role: Image Fusion
 
 
 # Organizations/Affiliations
@@ -22,7 +22,7 @@ organizations:
 bio: My research interests include image fusion
 
 interests:
-  - image fusion
+  - Image Fusion
  
 education:
   courses:
@@ -69,5 +69,4 @@ user_groups:
   - Undergraduate
 ---
 
-Kongwei Xie (谢孔伟) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. His main research direction is the image fusion. Please visit his personal academic website at <https://kongwei.grokcv.ai/>.
-{style="text-align: justify;"}
+Kongwei Xie (谢孔伟) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China, and an intern under the supervision of Yimian Dai. His main research direction is image fusion.

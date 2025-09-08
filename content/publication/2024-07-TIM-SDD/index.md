@@ -15,12 +15,13 @@ author_notes:
 - 
 - Corresponding Author
 
-date: "2024-07-22T00:00:00Z"
+date: "2024-10-01T00:00:00Z"
+publishDate: "2024-10-14T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "*IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1–18, 2024"
 # publication_short: ""
 
 # Publication name and optional abbreviated publication name.

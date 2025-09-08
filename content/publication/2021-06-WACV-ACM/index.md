@@ -28,7 +28,7 @@ publishDate: "2021-06-14T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '2021 IEEE Winter Conference on Applications of Computer Vision (WACV)'
+publication: '*Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV)*, pp. 949–958, 2021'
 # publication_short: 'WACV 2021'
 
 

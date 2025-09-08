@@ -20,7 +20,7 @@ date: "2022-09-26T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Aerospace and Electronic Systems"
+publication: "*IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1–18, 2024"
 # publication_short: "TAES"
 # Publication name and optional abbreviated publication name.
 doi: "10.1109/TAES.2022.3209638"

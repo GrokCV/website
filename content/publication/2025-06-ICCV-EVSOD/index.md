@@ -21,7 +21,7 @@ date: "2025-06-30"
 
 publication_types: ["paper-conference"]
 
-publication: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+publication: "*Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025"
 # publication_short: "ICCV"
 doi: "10.48550/arXiv.2506.23575"
 

@@ -26,7 +26,7 @@ doi: "10.48550/arXiv.2403.11735"
 
 publication_types: ["article-journal"]
 
-publication: "International Journal of Computer Vision"
+publication: "*International Journal of Computer Vision*, vol. 133, no. 3, pp. 1410–1431, 2025"
 # publication_short: "IJCV"
 volume: 133
 issue: 3

@@ -27,7 +27,7 @@ date: "2025-03-04"
 
 publication_types: ["article-journal"]
 
-publication: "IEEE Transactions on Geoscience and Remote Sensing"
+publication: "*IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1–17, 2025"
 # publication_short: "IEEE TGRS"
 volume: 63
 pages: "5002217"

@@ -69,4 +69,4 @@ user_groups:
   - Undergraduate
 ---
 
-Kongwei Xie (谢孔伟) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China, and an intern under the supervision of Yimian Dai. His main research direction is image fusion.
+Kongwei Xie (谢孔伟) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China, and an intern under the supervision of [Prof. Yimian Dai](https://yimian.grokcv.ai/). His main research direction is image fusion.

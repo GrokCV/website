@@ -36,7 +36,7 @@ publishDate: '2025-05-15T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "2025 International Conference on Computer Vision (ICCV)"
+publication: "*Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, pp. 1–10, 2025"
 # publication_short: "ICCV 2025"
 
 

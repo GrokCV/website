@@ -16,25 +16,25 @@ sections:
   #   id: content.authors.admin.biography
   #   content:
   #     title: Biography
-  # - block: hero
-  #   content:
-  #     title: |
-  #       <span style="color:#fff;font-size:3rem;font-weight:bold;letter-spacing:2px;">GrokCV Group</span>
-  #     text: |
-  #       <span style="color:#fff;font-size:1.05rem;">
-  #       The GrokCV Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  #       </span>
-  #   design:
-  #     text_align: center
-  #     text_color_light: true
-  #     background:
-  #       image:
-  #         filename: bg2.jpg
-  #         size: cover
-  #         position: center
-  #         overlay_color: "#003366"
-  #         overlay_opacity: 0.5
-  #         parallax: false
+  - block: hero
+    content:
+      title: |
+        <span style="color:#fff;font-size:3rem;font-weight:bold;letter-spacing:2px;">GrokCV Group</span>
+      text: |
+        <span style="color:#fff;font-size:1.05rem;">
+        GrokCV | 致力于红外弱小目标检测与多模态视觉感知的研究团队
+        </span>
+    design:
+      text_align: center
+      text_color_light: true
+      background:
+        image:
+          filename: bg2.jpg
+          size: cover
+          position: center
+          overlay_color: "#003366"
+          overlay_opacity: 0.5
+          parallax: false
       
 
   #     text: |

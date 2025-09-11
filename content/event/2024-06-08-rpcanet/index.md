@@ -12,8 +12,8 @@ location: Tencent Meeting
 #   postcode: '94305'
 #   country: United States
 
-summary: 关于稀疏表示优化求解的文献梳理，从传统的迭代求解到基于神经网络的深度展开.
-abstract: 关于稀疏表示优化求解的文献梳理，从传统的迭代求解到基于神经网络的深度展开. 具体方法包括：ISTA、FISTA、LISTA、ISTA-Net。
+summary: 
+abstract: 🚀 RPCANet 是首个将 Deep Unfolding 应用于红外小目标领域的模型；小巧强大：体积不足主流模型的 1/10，却轻松达到 SOTA 效果，🔍 透明可解释：近乎白盒模型
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -39,10 +39,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://space.bilibili.com/833564
-url_code: 'https://github.com/jianzhangcs/ISTA-Net-PyTorch'
-url_pdf: 'https://arxiv.org/pdf/2311.00917'
-url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2024-01-15-Deep-Unfolding.pdf'
-url_video: 'https://www.bilibili.com/video/BV1JZ421g7K5/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e'
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'https://www.bilibili.com/video/BV1JZ421g7K5/'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

@@ -1,11 +1,17 @@
 ---
-title: Zihao Xiong's First-Authored Paper Accepted by TGRS
+title: 熊子豪一作论文被TGRS接收
 date: 2025-07-09
 ---
 
-Congratulations to Zihao Xiong, a third-year undergraduate student, for having his first-authored paper accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)!
+热烈祝贺我组成员熊子豪同学的一作论文 **《DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection》** 被国际遥感领域顶级期刊 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 正式录用！
 
 <!--more-->
 
-Zihao's work, "DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection," has been recognized for its innovation and quality. This achievement is a testament to his dedication and hard work. Many thanks to all collaborators and supporters!
+该研究在戴一冕老师与周飞老师的悉心指导下完成，聚焦红外小目标检测这一国家重点应用方向，提出了新型动态鲁棒主成分分析深度展开网络 **DRPCA-Net**。团队在充分挖掘红外小目标稀疏先验的基础上，创新性地将超网络引入深度展开框架，实现了迭代参数的动态自适应生成，有效提升了复杂场景下的鲁棒性与泛化能力。同时，设计了动态残差组模块，进一步增强了图像建模能力，使目标分离更加精确。
 
+多组公开数据集实验结果表明，DRPCA-Net 在检测精度和稳健性方面均取得了显著领先，全面优于现有主流方法，为红外小目标检测提供了新的解决思路和技术方案。
+
+> 📄 论文链接：[PDF](https://arxiv.org/pdf/2507.09541)  
+> 💻 代码仓库：[GitHub](https://github.com/GrokCV/DRPCA-Net)
+
+该成果充分体现了本科生参与高水平科研的创新能力与科研潜力，也展现了我组在智能感知与遥感图像处理方向的持续探索。再次向熊子豪同学、指导教师及全体合作作者表示热烈祝贺！

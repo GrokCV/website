@@ -1,11 +1,14 @@
 ---
-title: Three Papers Accepted to ICCV 2025
+title: 我组三篇论文被ICCV 2025录用
 date: 2025-06-26
 ---
 
-Congratulations to the team for having three papers accepted to ICCV 2025!
+热烈祝贺我组三篇最新研究成果被计算机视觉顶级国际会议 *ICCV 2025* 录用！
 
 <!--more-->
 
-We are proud to announce that three of our recent research papers have been accepted to the International Conference on Computer Vision (ICCV) 2025. This achievement highlights the dedication and hard work of our team members. Thank you to everyone involved!
+国际计算机视觉大会（ICCV）是计算机视觉领域四大顶级学术会议之一，录用标准严格，学术影响力巨大。我组有三篇论文成功入选，充分体现了团队在计算机视觉和人工智能前沿研究中的持续创新能力和国际竞争力。  
 
+此次被录用的三篇论文涵盖多视角视觉感知、跨模态学习以及高效深度网络设计等前沿方向，展现了我组在基础理论突破与应用落地方面的综合实力。  
+
+这一成绩离不开全体作者的辛勤付出与合作努力，也得益于我组长期以来在计算机视觉领域的深厚积累。再次向参与本次研究的所有成员表示衷心感谢和热烈祝贺！

@@ -19,10 +19,10 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="color:#fff;font-size:3rem;font-weight:bold;letter-spacing:2px;">GrokCV Group</span>
+        <span style="color:#fff;font-size:2.6rem;font-weight:bold;letter-spacing:2px;">GrokCV Group</span>
       text: |
         <span style="color:#fff;font-size:1.05rem;">
-        GrokCV | 致力于红外弱小目标检测与多模态视觉感知的研究团队
+        长期致力于红外弱小目标检测与遥感多模态视觉感知
         </span>
     design:
       text_align: center

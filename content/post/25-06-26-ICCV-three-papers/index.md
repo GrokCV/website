@@ -1,14 +1,28 @@
 ---
-title: 我组三篇论文被ICCV 2025录用
+title: 恭喜圣东！论文被 ICCV 2025 录用
 date: 2025-06-26
 ---
 
-热烈祝贺我组三篇最新研究成果被计算机视觉顶级国际会议 *ICCV 2025* 录用！
+喜提三篇 *ICCV 2025* 🎉！  
+首先要祝贺我组 **圣东** 的论文成功被计算机视觉顶级国际会议 *ICCV 2025* 接收，并且是第一作者论文！
 
-<!--more-->
+论文题目：**DISTA-Net: Dynamic Closely-Spaced Infrared Small Target Unmixing**  
+这个工作提出首个专门针对密集红外小目标“解混”的深度学习模型 **DISTA-Net**，动态生成卷积权重与阈值参数以实时适应重建过程，并构建首个开源生态（CSIST-100K 数据集、CSO-mAP 指标、GrokCSO 工具包），显著提升亚像素检测精度，推动该领域研究发展。
 
-国际计算机视觉大会（ICCV）是计算机视觉领域四大顶级学术会议之一，录用标准严格，学术影响力巨大。我组有三篇论文成功入选，充分体现了团队在计算机视觉和人工智能前沿研究中的持续创新能力和国际竞争力。  
+📄 [论文 PDF](https://arxiv.org/pdf/2505.19148) ｜ 💻 [代码 & 数据集](https://github.com/GrokCV/GrokCSO) ｜ 📝 [幻灯片](https://github.com/YimianDai/public/blob/master/poster/2025-ICCV-DISTA-Net-Poster.pdf) ｜ 🎥 [B站视频讲解](https://www.bilibili.com/video/BV1d8tPzxESh/) ｜ 📚 [中文解读](https://grokcv.ai/blog/dista-net/)
 
-此次被录用的三篇论文涵盖多视角视觉感知、跨模态学习以及高效深度网络设计等前沿方向，展现了我组在基础理论突破与应用落地方面的综合实力。  
+圣东的努力与成果，让我由衷感到自豪。虽然本硕双非，但他做事踏实、研究投入，最终以第一作者身份拿下顶会，实至名归！
 
-这一成绩离不开全体作者的辛勤付出与合作努力，也得益于我组长期以来在计算机视觉领域的深厚积累。再次向参与本次研究的所有成员表示衷心感谢和热烈祝贺！
+另外，两篇合作论文也一并被 *ICCV 2025* 接收：  
+
+- **余创 一作**  
+  **From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision**  
+  提出渐进式主动学习（PAL）框架，先学易样本、再逐步引入难样本并优化伪标签，大幅提升单点监督下红外小目标检测性能，弥合单点监督与全监督之间的性能差距。  
+  📄 [论文 PDF](https://arxiv.org/pdf/2412.11154) ｜ 💻 [代码](https://github.com/YuChuang1205/PAL)
+
+- **陈诺 一作**  
+  **Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**  
+  构建首个大规模事件相机小目标检测数据集 **EV-UAV**，提出 EV-SpSegNet 基线网络与时空相关损失，显著提升反无人机任务的小目标检测性能，为后续研究提供标准基准。  
+  📄 [论文 PDF](https://arxiv.org/pdf/2506.23575) ｜ 💻 [代码 & 数据集](https://github.com/ChenYichen9527/Ev-UAV)
+
+👏 再次祝贺圣东、余创、陈诺及所有合作作者！

@@ -3,7 +3,8 @@ title: 恭喜子豪！论文被 TGRS 录用
 date: 2025-07-09
 ---
 
-🎉 恭喜 **子豪** 独立一作的论文 **《DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection》** 被国际遥感顶刊 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 正式录用！论文、代码全都公开，欢迎大家来使用、讨论。
+🎉 恭喜 **子豪** 独立一作的论文 **《DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection》** 被国际遥感顶刊 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* 正式录用！论文、代码全都公开，欢迎大家来使用与讨论！
+
 
 <!--more-->
 
@@ -13,5 +14,4 @@ date: 2025-07-09
 
 我们组一直不看出身，只看学生愿不愿意投入、态度好不好。子豪从零起步，一步步走到今天，就是最好的例子。学生努力，我就开心；学生成长，我就满足。希望以后能有更多像他一样的同学，从这里出发，把有意义的事继续做下去。
 
-> 📄 论文链接：[PDF](https://arxiv.org/pdf/2507.09541)  
-> 💻 代码仓库：[GitHub](https://github.com/GrokCV/DRPCA-Net)
+📄 [PDF](https://arxiv.org/pdf/2507.09541) ｜ 💻 [代码 & 数据集](https://github.com/GrokCV/DRPCA-Net)

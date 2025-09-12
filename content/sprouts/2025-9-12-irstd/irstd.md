@@ -89,7 +89,9 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 
 ### 2.2  入门文献（目标检测经典方法）
 
-> 学生第一阶段的阅读训练，可帮助理解目标检测/语义分割/关键点检测这一通用方向。
+> 学生第一阶段的阅读训练，可帮助理解目标检测/语义分割/关键点检测这一通用方向。**仅用于入门，不可选择此部分文献汇报**
+
+
 
 * **[YOLO](https://arxiv.org/pdf/1506.02640): You Only Look Once:  Unified, Real-Time Object Detection (CVPR 2016)**
 
@@ -122,6 +124,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * [GIOU Loss](https://arxiv.org/pdf/1902.09630): Generalized Intersection over Union: A Metric and A Loss for Bounding Box  Regression (CVPR 2019)
 
 * [CIOU Loss](https://arxiv.org/pdf/1911.08287): Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020)
+
 
 ***
 
@@ -168,6 +171,8 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 > 结合本专题的研究背景，逐渐引导学生进入红外弱小目标检测。
 >
 > 红外弱小目标检测可分为单帧、多帧弱小目标检测和红外弱小目标解混。
+>
+> 学生可在此部分选择进阶文献进行专题汇报，或自行查找最新的同类重要文献
 
 **单帧弱小目标检测**
 

@@ -1,5 +1,5 @@
 ---
-title: 新芽训练营
+title: 新芽手册
 cms_exclude: true
 
 # View.

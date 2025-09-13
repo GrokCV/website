@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（X）：红外弱小目标检测
+title: 新芽专题介绍（1）：红外弱小目标检测
 date: 2025-09-12
 draft: false
 math: true

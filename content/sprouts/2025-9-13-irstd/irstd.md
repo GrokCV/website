@@ -1,6 +1,6 @@
 ---
 title: 新芽专题介绍（1）：红外弱小目标检测
-date: 2025-09-12
+date: 2025-09-13
 draft: false
 math: true
 authors: 

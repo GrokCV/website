@@ -11,7 +11,7 @@ date: 2025-06-12
 
 看到他们一步步把方案从想法落实到比赛提交，再获得奖项，我真的感到欣慰。学生能够独立面对问题、解决问题、不断成长，这才是最让人开心的部分。
 
-我们一直坚持，不论出身或背景，只看学生愿不愿意投入、愿不愿意尝试。学生努力，我们就开心；学生取得成绩，我们更开心。但更重要的是，他们在成长，能够独立做事、学会思考，这才是最值得庆贺的。
+<!-- 我们一直坚持，不论出身或背景，只看学生愿不愿意投入、愿不愿意尝试。学生努力，我们就开心；学生取得成绩，我们更开心。但更重要的是，他们在成长，能够独立做事、学会思考，这才是最值得庆贺的。 -->
 
 📄 [论文 PDF](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/papers/Peng_A_Simple_Detector_with_Frame_Dynamics_is_a_Strong_Tracker_CVPRW_2025_paper.pdf) ｜ 💻 [代码](https://github.com/facias914/A-Simple-Detector-is-a-Strong-Tracker) ｜ 📚 [中文解读](https://zhuanlan.zhihu.com/p/1898471813731816565) ｜ 🎥 [视频讲解](https://www.bilibili.com/video/BV13L75znEse/)
 

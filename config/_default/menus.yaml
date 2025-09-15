@@ -28,9 +28,12 @@ main:
   - name: 教学
     url: teaching
     weight: 70
+  - name: 获奖
+    url: award
+    weight: 80
   - name: 博客
     url: blog
-    weight: 80
+    weight: 90
   # - name: Contact
   #   url: contact
   #   weight: 60

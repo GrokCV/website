@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（3）：辅助信息/辅助任务驱动的视觉感知
-date: 2025-09-10
+title: 新芽专题介绍（2）：辅助信息/辅助任务驱动的视觉感知
+date: 2025-09-12
 draft: false
 math: true
 authors: 

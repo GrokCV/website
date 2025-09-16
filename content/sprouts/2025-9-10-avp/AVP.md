@@ -23,6 +23,10 @@ authors:
 2. **提升主任务表征学习的鲁棒性**：辅助任务通过多目标联合优化为特征空间施加结构性约束。例如，在检测任务中引入边缘检测或属性预测，可促使模型学习到更具判别力和可迁移性的特征表达。
 3. **促进跨模态与跨任务融合**：辅助信息与任务天然推动多模态、多任务的协同学习，使模型能够在异质场景中更好地适应与泛化。这对自动驾驶、医学影像、遥感监测等复杂应用场景尤为关键。
 
+下图展示了辅助信息/辅助任务赋能视觉任务的经典工作：
+
+![](https://imgtu.com/uploads/od8uhlnj/xinya.png)
+
 因此，引入辅助信息或辅助任务不仅是一种性能优化的有效策略，更是推动通用视觉智能持续演进的重要途径。
 
 ### 1.3  当前主要挑战
@@ -74,12 +78,6 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 ### 2.2  入门文献
 > 学生第一阶段的阅读训练，可帮助初步了解辅助信息和辅助任务驱动的各种经典任务。**仅用于入门，不可选择此部分文献汇报**。
 
-<!-- 辅助学习 -->
-<!-- * [JTDS](https://proceedings.mlr.press/v162/chen22y/chen22y.pdf): Auxiliary Learning with Joint Task and Data Scheduling (ICML 2022)
-
-* [DTG-AuxL](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2a91fb5a4c03e0b6d889e1c52f775480-Abstract-Conference.html): Joint Data-Task Generation for Auxiliary Learning (NeurlPS 2023) -->
-
-<!-- 辅助信息简单融合、分类 -->
 * [ConcatNet](https://arxiv.org/abs/1505.03873): Improving image classification with location context (ICCV 2015)
 
 * [PriorsNet](https://arxiv.org/pdf/1906.05272): Presence-Only Geographical Priors for Fine-Grained Image Classification (ICCV 2019)
@@ -88,19 +86,16 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 
 * [Dynamic MLP](https://arxiv.org/abs/2203.03253): Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information (CVPR2022)
 
-<!-- RGBD 显著性目标检测 -->
 * [RGBD-SOD](https://ieeexplore.ieee.org/abstract/document/10897410): RGB-D salient object detection: A survey (CVMJ 2021)
 
 * [Indoor Segmentation and Support Inference from RGBD Images](https://link.springer.com/chapter/10.1007/978-3-642-33715-4_54) (ECCV 2012)
 
-<!-- 2d 图像 + 3d 点云 -->
 * [xMUDA](https://arxiv.org/abs/1911.12676): xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation (CVPR 2020)
 
-<!-- low level -->
 * [D4](https://ieeexplore.ieee.org/document/9878571): Self-Augmented Unpaired Image Dehazing via Density and Depth Decomposition (CVPR 2022)
 
 * [EFNet](https://arxiv.org/abs/2112.00167): Event-Based Fusion for Motion Deblurring with Cross-modal Attention (ECCV 2020)
-<!-- 其他 -->
+
 * [AuxSegNet](https://arxiv.org/abs/2107.11787): Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation (ICCV 2021) 
 
 * [Image Change Captioning by Learning From an Auxiliary Task](https://ieeexplore.ieee.org/document/9577664)

@@ -23,7 +23,7 @@ authors:
 
 因此，计算病理学不仅是改善临床实践的关键技术，更是驱动精准医学发展的核心引擎。
 
-![](https://gitee.com/dearcaat/dearcaat/raw/master/files/wsi_sample.jpeg)
+![](https://imgtu.com/uploads/q7myzvc0/r-wsi_sample.webp)
 
 ▲ 一张典型的全切片数字影像（WSI，> 十亿像素），其巨大的数据量和复杂性为计算分析带来了挑战。
 

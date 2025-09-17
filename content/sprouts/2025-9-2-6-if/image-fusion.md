@@ -86,7 +86,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 
 ### 2.2  入门文献（基础融合框架与方法）
 
-> 面向初学者，帮助理解深度学习图像融合的基本架构、训练策略、空间-频率域方法。**仅用于入门，不可选择此部分文献汇报**
+> 面向初学者，帮助理解深度学习图像融合的基本架构、训练策略。**仅用于入门，不可选择此部分文献汇报**
 
 * **[RFN-Nest](https://arxiv.org/pdf/2103.04286): An End-to-End Residual Fusion Network for Infrared and Visible Images (Information Fusion 2021)**  
   残差型端到端融合网络，提升融合结果细节保真度。
@@ -97,16 +97,19 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[FusionGAN](https://static.aminer.cn/upload/pdf/2030/714/1372/5c823dc1f56def9798dc4f8d_0.pdf): A Generative Adversarial Network for Infrared and Visible Image Fusion (Information Fusion 2019)**  
   采用GAN进行图像融合的早期尝试。
 
+* **[SUFT](https://arxiv.org/pdf/2306.00386):Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution (MM 2022)**
+
 * [DeepFuse](https://openaccess.thecvf.com/content_ICCV_2017/papers/Prabhakar_DeepFuse_A_Deep_ICCV_2017_paper.pdf): A Deep Unsupervised Approach for Exposure Fusion with Extreme Exposure Image Pairs (ICCV 2017)  
   无监督曝光融合方法，展示深度学习在低监督场景的潜力。
 
 * [A Dual-branch Network for Infrared and Visible Image Fusion](https://arxiv.org/pdf/2101.09643)(ICPR 2021)
 提出一种双分支自编码器融合网络，通过特征分解与新设计的损失函数。
 
+
+
 ### 2.3  进阶文献（任务驱动与自监督方法）
 
 > 聚焦于 "融合+任务" 的联合优化、自监督学习、跨模态配准。学生可在此部分选择进阶文献进行专题汇报，或自行查找最新的同类重要文献。
-
 
 **任务驱动型融合**
 
@@ -152,6 +155,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * [Dif-fusion](https://arxiv.org/pdf/2301.08072): Toward High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models (TIP 2023)\*
   利用扩散模型实现高保真度的红外-可见光融合，特别提升颜色一致性。
 
+* [E2E-MFD](): towards end-to-end synchronous multimodal fusion detection（NeurIPS2024 Oral）
 
 **融合表征提升 / 特征增强**
 
@@ -187,9 +191,6 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 
 * [TransMEF](https://arxiv.org/pdf/2112.01030): Transformer-Based Multi-Exposure Image Fusion using Self-Supervised Multi-Task Learning (AAAI 2022)
   基于Transformer的多曝光融合，自监督优化。
-
-* [DeepFuse](https://openaccess.thecvf.com/content_ICCV_2017/papers/Prabhakar_DeepFuse_A_Deep_ICCV_2017_paper.pdf): Deep Unsupervised Approach for Exposure Fusion (ICCV 2017)
-  无监督端到端多曝光融合网络。
 
 * [PSGAN](https://arxiv.org/pdf/1805.03371): Generative Adversarial Network for Remote Sensing Image Pan-Sharpening
   GAN框架实现遥感图像全色锐化。

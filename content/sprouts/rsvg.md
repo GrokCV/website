@@ -25,7 +25,7 @@ authors:
 
 因此，这一研究主题不仅意义重大，而且是多模态学习和遥感科学的交叉研究领域的一个典型研究案例，非常适合作为本科生进入科研领域的启蒙训练。
 
-![](https://imgtu.com/upload/q5qc9i8r/file_4a47a0)
+![](https://imgtu.com/uploads/q5qc9i8r/file_4a47a0.png)
 
 ▲一个典型的遥感视觉定位示意图：目标占比极小，对多模态理解能力要求较高。
 

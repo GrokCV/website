@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（10）：遥感视觉定位
-date: 2025-09-06
+title: 新芽专题介绍（20）：遥感视觉定位
+date: 2025-09-17T01:31:00Z
 draft: false
 math: true
 authors: 

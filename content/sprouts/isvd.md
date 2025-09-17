@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（9）：智能软件漏洞挖掘
-date: 2025-09-07
+title: 新芽专题介绍（19）：智能软件漏洞挖掘
+date: 2025-09-17T01:32:00Z
 draft: false
 math: true
 authors:

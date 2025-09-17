@@ -17,7 +17,7 @@ authors:
 
 我们可以通过一张图直观地对比不同旋转目标检测算法在标注成本上的差异：
 
-![](https://gitee.com/sharkbest/img/raw/master/image.png)
+![](https://imgtu.com/uploads/pjnytury/r-image.webp)
 
 ### 1.3  主要挑战
 

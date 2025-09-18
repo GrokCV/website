@@ -107,39 +107,12 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 提出一种双分支自编码器融合网络，通过特征分解与新设计的损失函数。
 
 
-
 ### 2.3  进阶文献（任务驱动与自监督方法）
 
 > 聚焦于 "融合+任务" 的联合优化、自监督学习、跨模态配准。学生可在此部分选择进阶文献进行专题汇报，或自行查找最新的同类重要文献。
 
-**任务驱动型融合（精选推荐 8 篇）**
-
-* **[E2E-MFD](https://arxiv.org/pdf/2403.09323): towards end-to-end synchronous multimodal fusion detection()(NeurIPS2024 Oral)**  
-  端到端多模态同步融合检测，创新性强，值得优先阅读。
-
-* **[MRFS](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MRFS_Mutually_Reinforcing_Image_Fusion_and_Segmentation_CVPR_2024_paper.pdf): Mutually Reinforcing Image Fusion and Segmentation (CVPR 2024)**
-  联合优化融合与分割，互相提升性能。
-
-* **[DCEvo](https://arxiv.org/pdf/2503.17673): Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion (CVPR 2025)**
-  提出跨维度演化学习框架，提升融合的判别能力。
-
-* **[IVGF](https://arxiv.org/pdf/2409.00973): Fusion-Guided Multi-Task General Framework (arXiv 2024)**
-  通用多任务框架，实现融合与检测、分割的协同学习。
-
-* **[S4Fusion](https://arxiv.org/pdf/2405.20881): Saliency-aware Selective State Space Model for Infrared and Visible Image Fusion (TIP 2025)**
-  引入状态空间建模与显著性选择，提高目标感知的融合效果。
-
-* **[DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)**
-  统一建模可见光去暗化与融合过程，提升夜间场景性能。
-
-* **[Dif-fusion](https://arxiv.org/pdf/2301.08072): Toward High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models (TIP 2023)**
-  利用扩散模型实现高保真度的红外-可见光融合，特别提升颜色一致性。
-
-* **[Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)**
-  双层动态优化策略，兼顾融合效果和泛化能力。
-
-
 **融合表征提升 / 特征增强**
+> 该类工作专注于改进“融合特征”的质量，而不是直接做任务。研究重点包括建模跨模态高阶交互、频域显式建模、预训练特征迁移、多尺度注意力机制等。这些方法可以作为通用特征提取模块，插入到不同任务的主干网络中，从而提升整体表现。
 
 * **[Probing High-Order Interaction](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Probing_Synergistic_High-Order_Interaction_in_Infrared_and_Visible_Image_Fusion_CVPR_2024_paper.pdf): Synergistic High-Order Interaction in Fusion (CVPR 2024)**
   建模跨模态高阶交互，提升特征融合表现。
@@ -169,7 +142,44 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
   轻量化、简洁的端到端融合基线。
 
 
+
+**任务驱动型融合**
+
+> 这类研究强调“融合不仅为融合”，而是直接面向下游任务（检测、分割、去模糊等）进行联合优化。早期方法通常先做融合再做任务，现在逐渐转向端到端训练，将融合作为任务优化的一部分，以实现更好的感知性能和泛化能力。代表性工作包括端到端多模态检测、融合+分割的互促学习，以及扩散模型驱动的高保真融合。
+
+* **[E2E-MFD](https://arxiv.org/pdf/2403.09323): towards end-to-end synchronous multimodal fusion detection()(NeurIPS2024 Oral)**  
+  端到端多模态同步融合检测，创新性强，值得优先阅读。
+
+* **[MRFS](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MRFS_Mutually_Reinforcing_Image_Fusion_and_Segmentation_CVPR_2024_paper.pdf): Mutually Reinforcing Image Fusion and Segmentation (CVPR 2024)**
+  联合优化融合与分割，互相提升性能。
+
+* **[DCEvo](https://arxiv.org/pdf/2503.17673): Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion (CVPR 2025)**
+  提出跨维度演化学习框架，提升融合的判别能力。
+
+* **[S4Fusion](https://arxiv.org/pdf/2405.20881): Saliency-aware Selective State Space Model for Infrared and Visible Image Fusion (TIP 2025)**
+  引入状态空间建模与显著性选择，提高目标感知的融合效果。
+
+* **[DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)**
+  统一建模可见光去暗化与融合过程，提升夜间场景性能。
+
+* **[Dif-fusion](https://arxiv.org/pdf/2301.08072): Toward High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models (TIP 2023)**
+  利用扩散模型实现高保真度的红外-可见光融合，特别提升颜色一致性。
+
+* **[Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)**
+  双层动态优化策略，兼顾融合效果和泛化能力。
+
+* **[Cross-Modal Attention Deblur](https://arxiv.org/pdf/2112.00167): Event-Based Fusion for Motion Deblurring with Cross-Modal Attention (ECCV 2022)**  
+  利用跨模态注意力机制进行事件-图像融合，实现运动去模糊。
+
+* **[Freq-EventDeblur](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Frequency-aware_Event-based_Video_Deblurring_for_Real-World_Motion_Blur_CVPR_2024_paper.pdf): Frequency-aware Event-based Video Deblurring for Real-World Motion Blur (CVPR 2024)**  
+  提出频率感知的事件驱动视频去模糊方法，提升真实场景下的去模糊效果。
+
+* **[LoGoNet](https://arxiv.org/pdf/2303.03595): Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion (CVPR 2023)**  
+  设计局部到全局的跨模态融合模块，实现多源信息的高效融合，提升3D检测的鲁棒性。
+
 **数字摄影 / 遥感融合**
+
+>这一方向聚焦于实际应用场景，如多曝光图像融合、遥感图像全色锐化。研究趋势从传统的多尺度图像处理逐渐转向深度学习框架，特别是Transformer和GAN，用以提高细节保真度和色彩一致性，兼顾真实感和效率。
 
 * [TransMEF](https://arxiv.org/pdf/2112.01030): Transformer-Based Multi-Exposure Image Fusion using Self-Supervised Multi-Task Learning (AAAI 2022)
   基于Transformer的多曝光融合，自监督优化。

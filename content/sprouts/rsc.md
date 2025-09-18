@@ -15,7 +15,9 @@ authors:
 
 回顾信息传播方式的发展史，实际上也是人类认知方式和社会沟通模式不断演进的过程。从早期以文字为核心的传播（如收音机、书信等），到文字与图片相结合的形式（如报纸、期刊），再到如今以视频和短视频为主导的多媒体传播，传播方式的变化深刻影响了知识的生产、分享与接受。然而，在科研领域，成果的传播仍主要依赖文字与图片构成的PDF文档。这一形式在人工智能技术快速发展的当下显然不够优越。
 
-<img src="C:\Users\OvO\AppData\Roaming\Typora\typora-user-images\image-20250914160937162.png" alt="image-20250914160937162" style="zoom:67%;" />
+<p align="center">
+  <img src="https://i.ibb.co/MksnjNt1/image-20250914160937162.png" alt="AI文献数量" style="zoom:67%;" />
+</p>
 
 ### 1.2  研究意义
 

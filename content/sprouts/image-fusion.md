@@ -27,9 +27,9 @@ authors:
 3.  **实现全天候、全天时工作**：通过融合不同传感器的信息，可以克服单一传感器在特定环境下的局限性，保证系统在各种光照和天气条件下的可靠运行。
 4.  **推动多模态学习发展**：图像融合是多模态机器学习中的一个典型问题，其研究进展为处理和整合不同来源的数据提供了宝贵的理论和技术积累。
 
-![](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEB3iFoxrmNSaL7rWYu7zzG2r3gPr3UMwACshsAArmUOVaAK7WWeH37YzYE.png)
+![](https://imgtu.com/uploads/rwjxoljb/r-64c75cf59531f9be9fee1137fce8daac.webp)
 
-▲ 一个典型的红外与可见光图像融合场景：(左)红外图像突显行人目标 ，(中) 可见光图像提供背景纹理，(右) 融合图像兼具两者优势。
+▲ 红外-可见光图像融合示例（CrossFuse）：左上为红外图像，突出人物目标；左下为可见光图像，提供丰富纹理细节；右侧为融合结果，兼具两者优势，实现目标显著性与细节保真性的统一。
 
 ### 1.3 当前主要挑战
 
@@ -99,7 +99,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
   采用GAN进行图像融合的早期尝试。
 
 * **[SUFT](https://arxiv.org/pdf/2306.00386):Symmetric Uncertainty-Aware Feature Transmission for Depth Super-Resolution (MM 2022)**
-
+  利用对称不确定性感知机制优化深度图像特征传递，提高深度超分辨率精度。
 * [DeepFuse](https://openaccess.thecvf.com/content_ICCV_2017/papers/Prabhakar_DeepFuse_A_Deep_ICCV_2017_paper.pdf): A Deep Unsupervised Approach for Exposure Fusion with Extreme Exposure Image Pairs (ICCV 2017)  
   无监督曝光融合方法，展示深度学习在低监督场景的潜力。
 
@@ -112,7 +112,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 > 聚焦于 "融合+任务" 的联合优化、自监督学习、跨模态配准。学生可在此部分选择进阶文献进行专题汇报，或自行查找最新的同类重要文献。
 
 **融合表征提升 / 特征增强**
-> 该类工作专注于改进“融合特征”的质量，而不是直接做任务。研究重点包括建模跨模态高阶交互、频域显式建模、预训练特征迁移、多尺度注意力机制等。这些方法可以作为通用特征提取模块，插入到不同任务的主干网络中，从而提升整体表现。
+> 这一类研究的目标是提升融合特征本身的表达能力，而不是直接解决下游任务。通过更好地建模跨模态关系、利用频域信息、多尺度注意力等方法，得到更高质量的融合表示，从而为检测、分割等下游任务提供更有力的输入。
 
 * **[Probing High-Order Interaction](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Probing_Synergistic_High-Order_Interaction_in_Infrared_and_Visible_Image_Fusion_CVPR_2024_paper.pdf): Synergistic High-Order Interaction in Fusion (CVPR 2024)**
   建模跨模态高阶交互，提升特征融合表现。
@@ -142,10 +142,9 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
   轻量化、简洁的端到端融合基线。
 
 
-
 **任务驱动型融合**
 
-> 这类研究强调“融合不仅为融合”，而是直接面向下游任务（检测、分割、去模糊等）进行联合优化。早期方法通常先做融合再做任务，现在逐渐转向端到端训练，将融合作为任务优化的一部分，以实现更好的感知性能和泛化能力。代表性工作包括端到端多模态检测、融合+分割的互促学习，以及扩散模型驱动的高保真融合。
+> 这类研究强调“融合不仅为融合”，而是直接面向下游任务（检测、分割、去模糊等）进行联合优化。相较先做融合再做任务，这类任务将融合作为任务优化的一部分，以实现更好的感知性能和泛化能力。
 
 * **[E2E-MFD](https://arxiv.org/pdf/2403.09323): towards end-to-end synchronous multimodal fusion detection()(NeurIPS2024 Oral)**  
   端到端多模态同步融合检测，创新性强，值得优先阅读。
@@ -159,23 +158,23 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[S4Fusion](https://arxiv.org/pdf/2405.20881): Saliency-aware Selective State Space Model for Infrared and Visible Image Fusion (TIP 2025)**
   引入状态空间建模与显著性选择，提高目标感知的融合效果。
 
-* **[DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)**
-  统一建模可见光去暗化与融合过程，提升夜间场景性能。
-
 * **[Dif-fusion](https://arxiv.org/pdf/2301.08072): Toward High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models (TIP 2023)**
   利用扩散模型实现高保真度的红外-可见光融合，特别提升颜色一致性。
 
-* **[Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)**
+* **[DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)**
+  统一建模可见光去暗化与融合过程，提升夜间场景性能。
+
+* [Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)
   双层动态优化策略，兼顾融合效果和泛化能力。
 
-* **[Cross-Modal Attention Deblur](https://arxiv.org/pdf/2112.00167): Event-Based Fusion for Motion Deblurring with Cross-Modal Attention (ECCV 2022)**  
-  利用跨模态注意力机制进行事件-图像融合，实现运动去模糊。
+* [Cross-Modal Attention Deblur](https://arxiv.org/pdf/2112.00167): Event-Based Fusion for Motion Deblurring with Cross-Modal Attention (ECCV 2022)  
+  用跨模态注意力机制对齐并融合事件流和模糊图像，有效恢复清晰图像细节，适用于高速运动场景。
 
-* **[Freq-EventDeblur](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Frequency-aware_Event-based_Video_Deblurring_for_Real-World_Motion_Blur_CVPR_2024_paper.pdf): Frequency-aware Event-based Video Deblurring for Real-World Motion Blur (CVPR 2024)**  
-  提出频率感知的事件驱动视频去模糊方法，提升真实场景下的去模糊效果。
+* [Freq-EventDeblur](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Frequency-aware_Event-based_Video_Deblurring_for_Real-World_Motion_Blur_CVPR_2024_paper.pdf): Frequency-aware Event-based Video Deblurring for Real-World Motion Blur (CVPR 2024)
+  结合事件相机与普通相机的视频，利用事件的高时间分辨率和频率感知建模，解决真实场景下的视频运动模糊问题。
 
-* **[LoGoNet](https://arxiv.org/pdf/2303.03595): Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion (CVPR 2023)**  
-  设计局部到全局的跨模态融合模块，实现多源信息的高效融合，提升3D检测的鲁棒性。
+* [LoGoNet](https://arxiv.org/pdf/2303.03595): Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion (CVPR 2023)
+  融合点云和图像信息，设计局部到全局的跨模态特征交互模块，显著提升3D目标检测的精度和鲁棒性。
 
 **数字摄影 / 遥感融合**
 
@@ -186,7 +185,6 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 
 * [PSGAN](https://arxiv.org/pdf/1805.03371): Generative Adversarial Network for Remote Sensing Image Pan-Sharpening
   GAN框架实现遥感图像全色锐化。
-
 
 ## 三、结语与期望
 

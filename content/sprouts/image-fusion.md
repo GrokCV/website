@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（19）：图像融合
-date: 2025-09-17T01:32:00Z
+title: 新芽专题介绍（X）：图像融合
+date: 2025-09-17T01:26:00Z
 draft: true
 # draft: false
 math: true
@@ -44,7 +44,8 @@ authors:
     *   现代研究更强调 **任务导向（Task-Driven）**，即融合算法的设计应直接服务于下游任务，通过提升任务性能来衡量融合效果的好坏。 这一转变对算法设计和评估标准都提出了新的要求。
 
 3.  **挑战三：应对现实世界中的不完美数据**
-    *   在实际应用中，由于传感器位姿不同或物体移动，多模态图像之间往往存在 **空间未对齐（Unaligned）** 的问题。 如何在非对齐的情况下进行有效融合是一个极具挑战性的实际问题。
+    *   非对齐（Unaligned）：同一场景的多模态图像常因传感器位置或物体移动而错位，如果不处理就会出现重影，需要在融合前或融合时做对齐。
+    *   非配对（Unpaired）：很多情况下没有严格对应的图像对，甚至只有单一模态样本，需要用无监督或生成式方法来学习跨模态关系。
 
 4.  **挑战四：通用性与适应性的探索**
     *   能否设计一个通用的融合框架，使其能够适应不同的模态组合和应用场景？
@@ -111,51 +112,32 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 
 > 聚焦于 "融合+任务" 的联合优化、自监督学习、跨模态配准。学生可在此部分选择进阶文献进行专题汇报，或自行查找最新的同类重要文献。
 
-**任务驱动型融合**
+**任务驱动型融合（精选推荐 8 篇）**
+
+* **[E2E-MFD](https://arxiv.org/pdf/2403.09323): towards end-to-end synchronous multimodal fusion detection()(NeurIPS2024 Oral)**  
+  端到端多模态同步融合检测，创新性强，值得优先阅读。
 
 * **[MRFS](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MRFS_Mutually_Reinforcing_Image_Fusion_and_Segmentation_CVPR_2024_paper.pdf): Mutually Reinforcing Image Fusion and Segmentation (CVPR 2024)**
   联合优化融合与分割，互相提升性能。
 
-* **[IVGF](https://arxiv.org/pdf/2409.00973): Fusion-Guided Multi-Task General Framework (arXiv 2024)**
-  通用多任务框架，实现融合与检测、分割的协同学习。
-
 * **[DCEvo](https://arxiv.org/pdf/2503.17673): Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion (CVPR 2025)**
   提出跨维度演化学习框架，提升融合的判别能力。
 
-* [SMFNet](https://arxiv.org/pdf/2407.06159): Semantic-Aware Multi-Guided Network for Infrared-Visible Image Fusion (arXiv 2024)
-  利用语义引导提升红外-可见光融合质量。
+* **[IVGF](https://arxiv.org/pdf/2409.00973): Fusion-Guided Multi-Task General Framework (arXiv 2024)**
+  通用多任务框架，实现融合与检测、分割的协同学习。
 
-* [FGC2Net](https://arxiv.org/pdf/2305.09999): Joint Fusion and Saliency Object Detection with Interactive Reinforcement (Information Fusion 2023)
-  融合与显著性检测交互强化，提升下游任务精度。
-
-* [Target-aware Dual Adversarial Learning](https://arxiv.org/pdf/2203.16220): Multi-Scenario Multi-Modality Benchmark for Object Detection (CVPR 2022)
-  提供多场景多模态检测基准，提出目标感知对抗学习。
-
-* [Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)
-  双层动态优化策略，兼顾融合效果和泛化能力。
-
-* [SFD-Fusion](https://arxiv.org/pdf/2410.22837v1): An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion (arXiv 2024)
-  高效的空间-频率域融合方法，兼顾性能与速度。
-
-* [CoMix](https://arxiv.org/pdf/2411.09023): Cross-Modal Fusion with Deformable Convolutions for HSI-X Semantic Segmentation (arXiv 2024)
-  利用可变形卷积实现高光谱与可见光特征融合，提升语义分割性能。
-
-* [Fusion from Decomposition](https://arxiv.org/pdf/2410.12274): A Self-Supervised Approach for Image Fusion and Beyond (arXiv 2024)
-  提出基于特征分解的自监督融合方法，可扩展到多模态下游任务。
-
-* [Task-Customized Mixture of Adapters for General Image Fusion](https://arxiv.org/pdf/2403.12494) (arXiv 2024)
-  提出任务定制的适配器混合方法，通过共享适配器和任务特定路由网络，实现多任务图像融合的统一模型。
-
-* [S4Fusion](https://arxiv.org/pdf/2405.20881): Saliency-aware Selective State Space Model for Infrared and Visible Image Fusion (TIP 2025)
+* **[S4Fusion](https://arxiv.org/pdf/2405.20881): Saliency-aware Selective State Space Model for Infrared and Visible Image Fusion (TIP 2025)**
   引入状态空间建模与显著性选择，提高目标感知的融合效果。
 
-* [DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)
+* **[DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)**
   统一建模可见光去暗化与融合过程，提升夜间场景性能。
 
-* [Dif-fusion](https://arxiv.org/pdf/2301.08072): Toward High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models (TIP 2023)\*
+* **[Dif-fusion](https://arxiv.org/pdf/2301.08072): Toward High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models (TIP 2023)**
   利用扩散模型实现高保真度的红外-可见光融合，特别提升颜色一致性。
 
-* [E2E-MFD](): towards end-to-end synchronous multimodal fusion detection（NeurIPS2024 Oral）
+* **[Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)**
+  双层动态优化策略，兼顾融合效果和泛化能力。
+
 
 **融合表征提升 / 特征增强**
 

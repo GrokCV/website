@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（7）：汇报多维度质量检测
-date: 2025-09-17T01:44:00Z
+title: 新芽专题介绍（8）：汇报多维度质量检测
+date: 2025-09-17T01:43:00Z
 draft: false
 math: true
 authors: 

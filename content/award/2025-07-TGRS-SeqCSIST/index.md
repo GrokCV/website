@@ -1,6 +1,8 @@
 ---
 title: "SeqCSIST: Sequential Closely-Spaced Infrared Small Target Unmixing"
 
+draft: true
+
 authors:
 - Ximeng Zhai
 - Bohan Xu

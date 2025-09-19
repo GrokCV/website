@@ -1,8 +1,7 @@
 ---
 title: 新芽专题介绍（X）：图像融合
 date: 2025-09-17T01:46:00Z
-draft: true
-# draft: false
+draft: false
 math: true
 authors:
 - admin

@@ -3,7 +3,7 @@ title: 新芽专题介绍（X）：图像融合
 date: 2025-09-17T01:46:00Z
 draft: false
 math: true
-authors:
+authors: 
 - admin
 ---
 
@@ -162,7 +162,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)**
   统一建模可见光去暗化与融合过程，提升夜间场景性能。
 
-**[SODFormer](https://arxiv.org/pdf/2308.04047): Streaming Object Detection with Transformer Using Events and Frames (TPAMI 2023)**  
+* **[SODFormer](https://arxiv.org/pdf/2308.04047): Streaming Object Detection with Transformer Using Events and Frames (TPAMI 2023)**  
   基于事件与帧的联合建模，提出流式目标检测 Transformer，实现高效事件驱动检测。
 
 * [Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)

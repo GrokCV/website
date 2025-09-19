@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（7）：计算病理前沿探索
-date: 2025-09-17T01:44:00Z
+title: 新芽专题介绍（13）：计算病理前沿探索
+date: 2025-09-17T01:38:00Z
 draft: false
 math: true
 authors: 

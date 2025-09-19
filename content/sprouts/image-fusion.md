@@ -141,7 +141,6 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * [SimpleFusion](https://arxiv.org/pdf/2406.19055): A Simple Fusion Framework for Infrared and Visible Images (arXiv 2024)
   轻量化、简洁的端到端融合基线。
 
-
 **任务驱动型融合**
 
 > 这类研究强调“融合不仅为融合”，而是直接面向下游任务（检测、分割、去模糊等）进行联合优化。相较先做融合再做任务，这类任务将融合作为任务优化的一部分，以实现更好的感知性能和泛化能力。

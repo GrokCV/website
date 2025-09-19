@@ -1,11 +1,13 @@
 ---
-title: 新芽专题介绍（4）：多模态多任务统一模型
-date: 2025-09-17T01:47:00Z
+title: 新芽专题介绍（5）：多模态多任务统一模型
+date: 2025-09-17T01:46:00Z
 draft: false
 math: true
 authors: 
 - admin
 ---
+
+> 此专题由非南开大学老师发布，选修南开大学 2025 秋《人工智能实践课-初级》课程的同学请勿选择此专题。非本课程选修同学可自由选择。
 
 ## 一、专题介绍
 
@@ -86,7 +88,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[MCG](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_CVPR2014.pdf): Multiscale Combinatorial Grouping (CVPR 2014)**
 * **[SDS](https://arxiv.org/pdf/1407.1808): Simultaneous Detection and Segmentation (ECCV 2014)**
 * **[PFN](https://arxiv.org/pdf/1509.02636): Proposal-free Network for Instance-level Object Segmentation (ICCV 2015)**
-* **[DeepMask](https://arxiv.org/pdf/1506.06204): Learning to Segment Object Candidates (NIPS 2015)**
+* **[DeepMask](https://arxiv.org/pdf/1506.06204): Learning to Segment Object Candidates (NeurIPS 2015)**
 * **[MNC](https://arxiv.org/pdf/1512.04412): Instance-Aware Semantic Segmentation via Multi-task Network Cascades (CVPR 2016)**
 * **[FoveaNet](https://arxiv.org/pdf/1708.02421): Perspective-Aware Urban Scene Parsing (CVPR 2017)**
 * **[BAIS](https://arxiv.org/pdf/1612.03129): Boundary-Aware Instance Segmentation (CVPR 2017)**
@@ -114,7 +116,6 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[Hi-CMD](https://arxiv.org/pdf/1912.01230): Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification (CVPR 2020)**
 * **[NestFuse](https://arxiv.org/pdf/2007.00328):  An Infrared and Visible Image Fusion Architecture based on Nest Connection and Spatial Channel Attention (IJCV 2020)**
 * **[MFR-CFR](https://arxiv.org/pdf/2009.12664): Multispectral Fusion for Object Detection with Cyclic Fuse-and-Refine Blocks (ECCV 2020)**
-* **[RFN-Nest](https://arxiv.org/pdf/2103.04286): An End-to-End Residual Fusion Network for Infrared and Visible Images (IJCAI 2021)**
 * **[AlignGAN](https://arxiv.org/pdf/2108.07422): Learning by Aligning: Visible-Infrared Person Re-Identification using Cross-Modal Correspondences (AAAI 2021)**
 * **[TADAL](https://arxiv.org/pdf/2203.16220): Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible Images for Object Detection (CVPR 2022)**
 * **[MoE-Fusion](https://arxiv.org/pdf/2302.01392): Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion (CVPR 2023)**
@@ -136,7 +137,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[DEN](https://arxiv.org/pdf/1909.04860): Deep Elastic Networks with Model Selection for Multi-Task Learning (NeurIPS 2019)**
 * **[Stochastic Filter Groups for Multi-Task CNNs](https://arxiv.org/pdf/1908.09597): Learning Specialist and Generalist Convolution Kernels (CVPR 2019)**
 * **[NDDR-CNN](https://arxiv.org/pdf/1801.08297): Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction (CVPR 2019)**
-* **[Generalization in Multitask Deep Neural Classifiers](https://arxiv.org/pdf/1910.13593):  A Statistical Physics Approach (arXiv 2019)**
+* **[Generalization in Multitask Deep Neural Classifiers](https://arxiv.org/pdf/1910.13593):  A Statistical Physics Approach (NeurIPS 2019)**
 * **[MTL-Attention](https://arxiv.org/pdf/1803.10704): End-to-End Multi-Task Learning with Attention (CVPR 2019)**
 * **[PAP](https://arxiv.org/pdf/1906.03525): Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation (CVPR 2019)**
 * **[AdaShare](https://arxiv.org/pdf/1911.12423): Learning What To Share For Efficient Deep Multi-Task Learning (NeurIPS 2020)**

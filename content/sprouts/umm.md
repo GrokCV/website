@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（5）：生成和理解统一模型
-date: 2025-09-17T01:46:00Z
+title: 新芽专题介绍（4）：生成和理解统一模型
+date: 2025-09-17T01:47:00Z
 draft: false
 math: true
 authors: 

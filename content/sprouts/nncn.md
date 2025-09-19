@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（27）：神经网络压缩与加速
-date: 2025-09-17T01:24:00Z
+title: 新芽专题介绍（29）：神经网络压缩与加速
+date: 2025-09-17T01:22:00Z
 draft: false
 math: true
 authors: 

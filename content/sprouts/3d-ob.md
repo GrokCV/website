@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（26）：三维点云目标检测
-date: 2025-09-17T01:25:00Z
+title: 新芽专题介绍（28）：三维点云目标检测
+date: 2025-09-17T01:23:00Z
 draft: false
 math: true
 authors: 

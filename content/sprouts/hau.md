@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（23）：人体行为理解
-date: 2025-09-17T01:28:00Z
+title: 新芽专题介绍（25）：人体行为理解
+date: 2025-09-17T01:26:00Z
 draft: false
 math: true
 authors:

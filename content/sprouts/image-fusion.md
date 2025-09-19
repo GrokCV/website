@@ -1,6 +1,6 @@
 ---
 title: 新芽专题介绍（X）：图像融合
-date: 2025-09-17T01:26:00Z
+date: 2025-09-17T01:46:00Z
 draft: true
 # draft: false
 math: true
@@ -163,14 +163,14 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[DFVO](https://arxiv.org/pdf/2505.04526): Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once (TIM 2025)**
   统一建模可见光去暗化与融合过程，提升夜间场景性能。
 
+**[SODFormer](https://arxiv.org/pdf/2308.04047): Streaming Object Detection with Transformer Using Events and Frames (TPAMI 2023)**  
+  基于事件与帧的联合建模，提出流式目标检测 Transformer，实现高效事件驱动检测。
+
 * [Bi-level Dynamic Learning](https://arxiv.org/abs/2305.06720): Jointly Multi-modality Image Fusion and Beyond (ICCV 2023)
   双层动态优化策略，兼顾融合效果和泛化能力。
 
 * [Cross-Modal Attention Deblur](https://arxiv.org/pdf/2112.00167): Event-Based Fusion for Motion Deblurring with Cross-Modal Attention (ECCV 2022)  
   用跨模态注意力机制对齐并融合事件流和模糊图像，有效恢复清晰图像细节，适用于高速运动场景。
-
-* [Freq-EventDeblur](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Frequency-aware_Event-based_Video_Deblurring_for_Real-World_Motion_Blur_CVPR_2024_paper.pdf): Frequency-aware Event-based Video Deblurring for Real-World Motion Blur (CVPR 2024)
-  结合事件相机与普通相机的视频，利用事件的高时间分辨率和频率感知建模，解决真实场景下的视频运动模糊问题。
 
 * [LoGoNet](https://arxiv.org/pdf/2303.03595): Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion (CVPR 2023)
   融合点云和图像信息，设计局部到全局的跨模态特征交互模块，显著提升3D目标检测的精度和鲁棒性。

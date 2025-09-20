@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（5）：多模态多任务统一模型
-date: 2025-09-17T01:46:00Z
+title: 新芽专题介绍（22）：无图导航智能体
+date: 2025-09-17T01:29:00Z
 draft: false
 math: true
 authors: 

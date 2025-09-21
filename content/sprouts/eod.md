@@ -1,10 +1,8 @@
 ---
-title: 新芽专题介绍（10）：事件目标检测
-date: 2025-09-17T01:41:00Z
+title: 新芽专题介绍（9）：事件目标检测
+date: 2025-09-17T01:42:00Z
 draft: false
 math: true
-authors: 
-- admin
 ---
 
 

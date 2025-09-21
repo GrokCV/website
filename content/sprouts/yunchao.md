@@ -3,8 +3,6 @@ title: 新芽经验分享：南开24级柯云超
 date: 2025-09-16T01:47:00Z
 draft: false
 math: true
-authors:
-- admin
 ---
 
 

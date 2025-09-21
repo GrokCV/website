@@ -1,10 +1,8 @@
 ---
-title: 新芽专题介绍（12）：多目标跟踪
-date: 2025-09-17T01:39:00Z
+title: 新芽专题介绍（11）：多目标跟踪
+date: 2025-09-17T01:40:00Z
 draft: false
 math: true
-authors: 
-- admin
 ---
 
 

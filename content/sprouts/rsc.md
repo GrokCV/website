@@ -3,8 +3,6 @@ title: 新芽专题介绍（21）：科研成果传播重塑
 date: 2025-09-17T01:30:00Z
 draft: false
 math: true
-authors: 
-- admin
 ---
 
 ## 一、专题介绍

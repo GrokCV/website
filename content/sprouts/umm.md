@@ -3,8 +3,6 @@ title: 新芽专题介绍（4）：生成和理解统一模型
 date: 2025-09-17T01:47:00Z
 draft: false
 math: true
-authors: 
-- admin
 ---
 
 ## 一、专题介绍

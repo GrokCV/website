@@ -1,10 +1,8 @@
 ---
-title: 新芽专题介绍（7）：红外检测大模型
-date: 2025-09-17T01:44:00Z
+title: 新芽专题介绍（6）：红外检测大模型
+date: 2025-09-17T01:45:00Z
 draft: false
 math: true
-authors: 
-- admin
 ---
 
 

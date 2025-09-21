@@ -1,0 +1,99 @@
+/* 只在 sprouts（新芽）页面隐藏作者卡片 */
+/* 通过 URL 路径识别 sprouts 页面 */
+body[data-section="sprouts"] .article-metadata .author-notes,
+body[data-section="sprouts"] .article-metadata .article-authors,
+body[data-section="sprouts"] .page-body .author-card,
+body[data-section="sprouts"] .author-profile,
+body[data-section="sprouts"] .article-container .author-notes,
+body[data-section="sprouts"] .article-container .article-authors,
+body[data-section="sprouts"] .pub-authors,
+body[data-section="sprouts"] .author-profile-card {
+  display: none !important;
+}
+
+/* 通过 body 类名识别 sprouts 页面的通用隐藏方式 */
+body[data-section="sprouts"] .wg-author,
+body[data-section="sprouts"] [data-widget-id="author"],
+body[data-section="sprouts"] .section-author {
+  display: none !important;
+}
+
+/* 针对 sprouts 页面的更精确选择器 */
+body[data-section="sprouts"] .page-footer .author-card,
+body[data-section="sprouts"] .article-footer .author-card,
+body[data-section="sprouts"] .post-footer .author-card,
+body[data-section="sprouts"] .page-content .author-profile,
+body[data-section="sprouts"] .article-content .author-profile,
+body[data-section="sprouts"] .content .author-profile,
+body[data-section="sprouts"] section[id*="author"],
+body[data-section="sprouts"] .blox-author,
+body[data-section="sprouts"] .widget-author {
+  display: none !important;
+}
+
+/* 通过 URL 路径匹配 sprouts 页面 */
+body[data-section="sprouts"] .page-body > .author-notes,
+body[data-section="sprouts"] .page-body > .article-authors,
+body[data-section="sprouts"] .main-content .author-notes,
+body[data-section="sprouts"] .main-content .article-authors {
+  display: none !important;
+}
+
+/* 针对 sprouts 页面的属性选择器 */
+body[data-section="sprouts"] [class*="author-profile"],
+body[data-section="sprouts"] [class*="author-card"],
+body[data-section="sprouts"] [class*="author-bio"] {
+  display: none !important;
+}
+
+/* 备用方案：如果 data-section 不可用，通过 CSS 类名识别 */
+.section-sprouts .article-metadata .author-notes,
+.section-sprouts .article-metadata .article-authors,
+.section-sprouts .page-body .author-card,
+.section-sprouts .author-profile,
+.section-sprouts .article-container .author-notes,
+.section-sprouts .article-container .article-authors,
+.section-sprouts .pub-authors,
+.section-sprouts .author-profile-card,
+.section-sprouts .wg-author,
+.section-sprouts [data-widget-id="author"],
+.section-sprouts .section-author,
+.section-sprouts [class*="author-profile"],
+.section-sprouts [class*="author-card"],
+.section-sprouts [class*="author-bio"] {
+  display: none !important;
+}
+
+/* 通过页面 URL 路径匹配（如果浏览器支持 :has 选择器） */
+html:has([data-page-type="sprouts"]) .author-profile,
+html:has([data-page-type="sprouts"]) .author-card,
+html:has([data-page-type="sprouts"]) .author-profile-card {
+  display: none !important;
+}
+
+/* JavaScript 备用方案标识的 sprouts 页面 */
+.hide-sprouts-authors .article-metadata .author-notes,
+.hide-sprouts-authors .article-metadata .article-authors,
+.hide-sprouts-authors .page-body .author-card,
+.hide-sprouts-authors .author-profile,
+.hide-sprouts-authors .article-container .author-notes,
+.hide-sprouts-authors .article-container .article-authors,
+.hide-sprouts-authors .pub-authors,
+.hide-sprouts-authors .author-profile-card,
+.hide-sprouts-authors .wg-author,
+.hide-sprouts-authors [data-widget-id="author"],
+.hide-sprouts-authors .section-author,
+.hide-sprouts-authors [class*="author-profile"],
+.hide-sprouts-authors [class*="author-card"],
+.hide-sprouts-authors [class*="author-bio"],
+.hide-sprouts-authors .page-footer .author-card,
+.hide-sprouts-authors .article-footer .author-card,
+.hide-sprouts-authors .post-footer .author-card,
+.hide-sprouts-authors .page-content .author-profile,
+.hide-sprouts-authors .article-content .author-profile,
+.hide-sprouts-authors .content .author-profile,
+.hide-sprouts-authors section[id*="author"],
+.hide-sprouts-authors .blox-author,
+.hide-sprouts-authors .widget-author {
+  display: none !important;
+} 

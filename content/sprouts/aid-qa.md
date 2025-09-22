@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（29）：AI检测与质量检测
-date: 2025-09-17T01:22:00Z
+title: 新芽专题介绍（20）：AI检测与质量检测
+date: 2025-09-17T01:31:00Z
 draft: false
 math: true
 ---

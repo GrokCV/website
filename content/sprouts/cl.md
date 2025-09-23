@@ -3,8 +3,6 @@ title: 新芽专题介绍（23）：持续学习
 date: 2025-09-17T01:28:00Z
 draft: false
 math: true
-authors: 
-- admin
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（28）：具身智能-视听场景下的情感数字人/affordance
-date: 2025-09-17T01:23:00Z
+title: 新芽专题介绍（29）：具身智能-视听场景下的情感数字人/affordance
+date: 2025-09-17T01:22:00Z
 draft: false
 math: true
 ---

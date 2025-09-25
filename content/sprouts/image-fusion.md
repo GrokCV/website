@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（16）：图像融合
-date: 2025-09-17T01:35:00Z
+title: 新芽专题介绍（28）：图像融合
+date: 2025-09-17T01:23:00Z
 draft: false
 math: true
 # authors: 

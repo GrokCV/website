@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（40）：端到端自动驾驶
-date: 2025-09-17T01:11:00Z
+title: 新芽专题介绍（31）：端到端自动驾驶
+date: 2025-09-17T01:20:00Z
 draft: false
 math: true
 authors: 

@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（39）：文档智能
-date: 2025-09-17T01:12:00Z
+title: 新芽专题介绍（41）：文档智能
+date: 2025-09-17T01:10:00Z
 draft: false
 math: true
 authors: 

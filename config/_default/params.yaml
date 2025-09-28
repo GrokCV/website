@@ -92,29 +92,28 @@ features:
   avatar:
     gravatar: false
     shape: circle
-  comment:
-    provider: ""
-    disqus:
-      shortname: ""
-      show_count: true
-    commento:
-      url: ""
-    giscus:
-      repo: ""
-      repo_id: ""
-      category: ""
-      category_id: ""
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ""
-      api_key: ""
-      index_name: ""
-      show_logo: false
-  map:
-    provider: "mapnik"
+
+comment:
+  enable: true
+  provider: "giscus"
+  giscus:
+    repo: "Kongweixie/GrokCV_Comment"
+    repo_id: "R_kgDOP4ZoRQ"
+    category: "General" # 建议之后换成 'Announcements'
+    category_id: "DIC_kwDOP4ZoRc4Cv_ZX"
+
+# CORRECTED SECTION: 'search' and 'map' are now at the correct indentation level.
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ""
     api_key: ""
-    zoom: 15
+    index_name: ""
+    show_logo: false
+map:
+  provider: "mapnik"
+  api_key: ""
+  zoom: 15
 
 # Extensions
 

@@ -1,5 +1,5 @@
 ---
-title: 线性代数那些事儿-写在前面
+title: 线性代数那些事儿 - 写在前面
 date: 2025-09-17T01:50:00Z
 draft: false
 math: true

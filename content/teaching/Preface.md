@@ -34,7 +34,7 @@ type: post
 
 1.  版本公开透明：每次更新都会给出变更记录与勘误；
 2.  资源持续完善：配套的习题、答案、实验与数据将逐步上线；
-3.  反馈快速闭环：欢迎通过课程主页[https://grokcv.ai/teaching/](https://www.google.com/search?q=https://grokcv.ai/teaching)提交问题与建议。
+3.  反馈快速闭环：欢迎通过课程主页[https://grokcv.ai/teaching](https://www.google.com/search?q=https://grokcv.ai/teaching)提交问题与建议。
 
 愿这本书，能为和我当年一样在数理门外徘徊的你，点一盏灯；也愿它成为你走向工程实践与科研探索的稳固台阶。若你从中获得哪怕一丝理解的欢喜与应用的把握，这本书便不虚此行。
 

@@ -43,4 +43,20 @@ math: true
 2025年初秋
 </p>
 
+<script src="https://giscus.app/client.js"
+        data-repo="Kongweixie/GrokCV_Comment"
+        data-repo-id="R_kgDOP4ZoRQ"
+        data-category="General"
+        data-category-id="DIC_kwDOP4ZoRc4Cv_ZX"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+
 

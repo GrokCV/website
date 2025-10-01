@@ -21,6 +21,7 @@ sections:
           - Master Student
           # - Grad Students
           - Undergraduate
+          - Teaching Assistant
           - Administration
           # - Visitors
           - Alumni

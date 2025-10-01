@@ -1,7 +1,7 @@
 ---
 title: 线性代数那些事儿 - 写在前面（2）
 date: 2025-09-17T01:49:00Z
-draft: false
+draft: true
 math: true
 ---
 
@@ -19,4 +19,3 @@ math: true
 <p align="right">
 ——黄子豪
 </p>
-

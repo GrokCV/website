@@ -2,7 +2,7 @@
 title: Recent Talks
 
 # Listing view
-view: compact
+view: 1
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

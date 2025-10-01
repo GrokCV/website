@@ -1,7 +1,7 @@
 ---
 title: Blog
 
-view: compact
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 banner:

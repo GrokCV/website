@@ -12,8 +12,8 @@ location: Virtual
 #   postcode: '94305'
 #   country: United States
 
-summary: 红外弱小目标检测的 SOTA 方法，也是 PRCV 2024、ICPR 2024 Track 1、ICPR 2024 Track 2 三项比赛优胜方案的 Baseline
-abstract: Infrared small target detection (IRSTD) has recently benefitted greatly from U-shaped neural models. However, largely overlooking effective global information modeling, existing techniques struggle when the target has high similarities with the background. We present a Spatial-channel Cross Transformer Network (SCTransNet) that leverages spatial-channel cross transformer blocks (SCTBs) on top of long-range skip connections to address the aforementioned challenge. In the proposed SCTBs, the outputs of all encoders are interacted with cross transformer to generate mixed features, which are redistributed to all decoders to effectively reinforce semantic differences between the target and clutter at full scales. Specifically, SCTB contains the following two key elements, (a) spatial-embedded single-head channel-cross attention (SSCA) for exchanging local spatial features and full-level global channel information to eliminate ambiguity among the encoders and facilitate high-level semantic associations of the images, and (b) a complementary feed-forward network (CFN) for enhancing the feature discriminability via a multi-scale strategy and cross-spatial-channel information interaction to promote beneficial information transfer. Our SCTransNet effectively encodes the semantic differences between targets and backgrounds to boost its internal representation for detecting small infrared targets accurately. Extensive experiments on three public datasets, NUDT-SIRST, NUAA-SIRST, and IRSTD-1k, demonstrate that the proposed SCTransNet outperforms existing IRSTD methods. Our code will be made public at <https://github.com/xdFai>.
+summary: 
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -39,8 +39,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://www.bilibili.com/video/BV1kr421M7wx/
-url_code: 'https://github.com/xdFai'
-url_pdf: 'https://arxiv.org/pdf/2401.15583'
+url_code: ''
+url_pdf: ''
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Jincheng/clip%20detection.pdf'
 url_video: 'https://www.bilibili.com/video/BV11S421R7Tk/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e'
 

@@ -12,8 +12,8 @@ location: Tencent Meeting
 #   postcode: '94305'
 #   country: United States
 
-summary: 关于稀疏表示优化求解的文献梳理，从传统的迭代求解到基于神经网络的深度展开.
-abstract: 关于稀疏表示优化求解的文献梳理，从传统的迭代求解到基于神经网络的深度展开. 具体方法包括：ISTA、FISTA、LISTA、ISTA-Net。
+summary: 
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -39,8 +39,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://space.bilibili.com/833564
-url_code: 'https://github.com/jianzhangcs/ISTA-Net-PyTorch'
-url_pdf: 'https://arxiv.org/pdf/1706.07929.pdf'
+url_code: ''
+url_pdf: ''
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yimian/2024-01-19-re-parameterization.pdf'
 url_video: 'https://www.bilibili.com/video/BV1Ue41117fk/?share_source=copy_web&vd_source=0cff7c155de885f3bea907819b93a04e'
 

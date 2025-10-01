@@ -22,7 +22,7 @@ date: "2024-11-28T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Aerospace and Electronic Systems (TAES)"
+publication: "*IEEE Transactions on Aerospace and Electronic Systems*, vol. 61, no. 2, pp. 4729–4743, 2024"
 # publication_short: ""
 
 # Publication name and optional abbreviated publication name.

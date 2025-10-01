@@ -26,7 +26,7 @@ doi: "10.48550/arXiv.2505.04917"
 
 publication_types: ["paper-conference"]
 
-publication: "Proceedings of the Computer Vision and Pattern Recognition Conference"
+publication: "*Proc. IEEE/CVF Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW)*, pp. 6630–6640, 2025"
 #publication_short: "CVPRW"
 pages: "6630-6640"
 

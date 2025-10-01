@@ -25,7 +25,6 @@ interests:
   - SAR Image Classification
   - Image Super-Resolution
 
-
 education:
   courses:
     - course: PhD in Computer Science and Technology

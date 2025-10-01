@@ -27,7 +27,7 @@ date: "2025-06-20"
 
 publication_types: ["preprint"]
 
-publication: "arXiv preprint arXiv:2506.12766"
+publication: "arXiv preprint arXiv:2506.12766, 2025"
 # publication_short: "arXiv"
 doi: "10.48550/arXiv.2506.12766"
 

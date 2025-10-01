@@ -1,5 +1,5 @@
 ---
-title: 课程教学
+title: 教学
 cms_exclude: true
 
 # View.

@@ -80,6 +80,6 @@ user_groups:
   - PhD Student
 ---
 
-Minrui Zou (邹旻瑞) received the B.Eng. degree from the Civil Aviation University of China, Tianjin, China, in 2022, and the M.Eng. degree in the School of Computer Science, Nanjing University of Posts and Telecommunications, Nanjing, China, in 2025. He is currently pursuing a Ph.D. degree in Computer Science and Technology at VCIP, Nankai University, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm/) and  [Prof. Yimian Dai](https://yimian.grokcv.ai/). His research interests include infrared small target detection and model deployment.
+Minrui Zou (邹旻瑞) received the B.Eng. degree from the Civil Aviation University of China, Tianjin, China, in 2022, and the M.Eng. degree in the School of Computer Science, Nanjing University of Posts and Telecommunications, Nanjing, China, in 2025. He is currently pursuing a Ph.D. degree in Computer Science and Technology at VCIP, Nankai University, supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm/) and  [Prof. Yimian Dai](https://grokcv.ai/). His research interests include infrared small target detection and model deployment.
 {style="text-align: justify;"}
 

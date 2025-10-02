@@ -10,7 +10,7 @@ last_name: Yuan
 superuser: false
 
 # Role/position
-role: Semantic Segmentation
+role: Object Detection
 
 # Organizations/Affiliations
 organizations:

@@ -14,7 +14,7 @@ role: Semantic Segmentation
 
 # Organizations/Affiliations
 organizations:
-  - name:  Nanjing University of Science and Technology (NJUST)
+  - name: Nanjing University of Science and Technology (NJUST)
     url: https://www.njust.edu.cn/main.htm
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,13 +60,12 @@ social:
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/whxian-sheng-99
-    
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,8 +79,5 @@ user_groups:
   - PhD Student
 ---
 
-
 Chunyang Yuan (袁春阳) received the B.S. degree in Energy and Power Engineering from Henan Polytechnic University, Henan, China, in 2021, and the M.Eng. degree in Computer Science and Technology from Nanjing University of Posts and Telecommunications, Nanjing, China, in 2025. He is currently pursuing a Ph.D. degree in Computer Science and Technology at Nanjing University of Science and Technology, Nanjing, China. His research interests include infrared small target detection, SAR image classification, and image super-resolution.
 {style="text-align: justify;"}
-
-

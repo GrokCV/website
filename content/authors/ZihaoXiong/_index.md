@@ -12,7 +12,6 @@ superuser: false
 # Role/position
 role: Object Detection
 
-
 # Organizations/Affiliations
 organizations:
   - name:  Henan University of Technology

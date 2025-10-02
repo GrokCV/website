@@ -49,7 +49,7 @@ social:
     link: https://github.com/ChunyangYuan
   - icon: weixin
     icon_pack: fab
-    link: https://github.com/ChunyangYuan/BasicInfos/blob/main/wechat.jpg
+    link: https://github.com/ChunyangYan/BasicInfos/blob/main/wechat.jpg
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/364841599

@@ -32,7 +32,7 @@ education:
     - course: MEng in Information and Communication Engineering
       institution: Northwestern Polytechnical University
       year: 2026
-
+      
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

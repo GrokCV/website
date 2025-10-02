@@ -20,7 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include infrared small target detection, tracking, and super-resolution.
 
-
 interests:
   - Infrared Small Target Detection
 
@@ -37,6 +36,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas

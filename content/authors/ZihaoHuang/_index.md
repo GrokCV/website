@@ -39,7 +39,7 @@ social:
     link: 'mailto:zihao.huang.cs@outlook.com'
   - icon: github
     icon_pack: fab
-    https://github.com/worstwoof
+    link: https://github.com/worstwoof
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

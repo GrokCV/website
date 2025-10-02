@@ -56,7 +56,7 @@ social:
   #   link: https://github.com/GrokCV
   # - icon: weixin
   #   icon_pack: fab
-  # #  link: https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG
+  # #   link: https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG
   # - icon: youtube
   #   icon_pack: fab
   #   link: https://space.bilibili.com/833564

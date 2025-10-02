@@ -55,7 +55,7 @@ url_code: 'https://github.com/GrokCV/SeqCSIST'
 url_pdf: 'https://arxiv.org/abs/2507.09556'
 url_video: 'https://www.bilibili.com/video/BV1bbedz6E5b'
 url_cn_blog: "https://grokcv.ai/blog/seqcsist/"
-url_slides:
+url_slides: 'https://github.com/GrokCV/Slides/blob/master/Ximeng/SeqCSIST_%E5%AE%A3%E4%BC%A0%E7%A8%BF.pdf'
 url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-TGRS-SeqCSIST-CN-Translation.pdf"
 url_cn_video: "https://www.bilibili.com/video/BV1bbedz6E5b"
 

@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（35）：图像Raw域去噪
+title: 新芽专题介绍：图像Raw域去噪
 date: 2025-09-17T01:16:00Z
 draft: false
 math: true

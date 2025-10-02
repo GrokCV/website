@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（8）：大模型数值量化
+title: 新芽专题介绍：大模型数值量化
 date: 2025-09-17T01:43:00Z
 draft: false
 math: true

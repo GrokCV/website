@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（51）：图像情感计算
+title: 新芽专题介绍：图像情感计算
 date: 2025-09-17T01:00:00Z
 draft: false
 math: true

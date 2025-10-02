@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（10）：计算病理前沿探索
+title: 新芽专题介绍：计算病理前沿探索
 date: 2025-09-17T01:41:00Z
 draft: false
 math: true

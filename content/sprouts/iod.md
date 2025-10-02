@@ -1,7 +1,7 @@
 ---
-title: 新芽专题介绍（38）：增量目标检测
+title: 新芽专题介绍：增量目标检测
 date: 2025-09-17T01:13:00Z
-draft: false
+draft: true
 math: true
 ---
 

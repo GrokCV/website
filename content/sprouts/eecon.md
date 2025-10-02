@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（48）：MRI/CT医学图像重建
+title: 新芽专题介绍：MRI/CT医学图像重建
 date: 2025-09-17T01:03:00Z
 draft: false
 math: true

@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（43）：大模型投毒攻击溯源
+title: 新芽专题介绍：大模型投毒攻击溯源
 date: 2025-09-17T01:08:00Z
 draft: false
 math: true

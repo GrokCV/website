@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（2）：无图导航智能体
+title: 新芽专题介绍：无图导航智能体
 date: 2025-09-17T01:49:00Z
 draft: false
 math: true

@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（22）：Sim2Real——域适应与域泛化
+title: 新芽专题介绍：Sim2Real——域适应与域泛化
 date: 2025-09-17T01:29:00Z
 draft: false
 math: true

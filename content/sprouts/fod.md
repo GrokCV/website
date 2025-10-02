@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（30）：鱼眼镜头目标检测
+title: 新芽专题介绍：鱼眼镜头目标检测
 date: 2025-09-17T01:21:00Z
 draft: false
 math: true

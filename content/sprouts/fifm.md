@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（47）：医学图像基础模型
+title: 新芽专题介绍：医学图像基础模型
 date: 2025-09-17T01:04:00Z
 draft: false
 math: true

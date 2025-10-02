@@ -1,7 +1,7 @@
 ---
-title: 新芽专题介绍（46）：高性能向量检索系统
+title: 新芽专题介绍：高性能向量检索系统
 date: 2025-09-17T01:05:00Z
-draft: false
+draft: true
 math: true
 ---
 

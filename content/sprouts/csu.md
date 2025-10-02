@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（33）：伪装场景理解
+title: 新芽专题介绍：伪装场景理解
 date: 2025-09-17T01:18:00Z
 draft: false
 math: true

@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（18）：审稿质量评估
+title: 新芽专题介绍：审稿质量评估
 date: 2025-09-17T01:33:00Z
 draft: false
 math: true

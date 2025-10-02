@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（17）：科研成果传播重塑
+title: 新芽专题介绍：科研成果传播重塑
 date: 2025-09-17T01:34:00Z
 draft: false
 math: true

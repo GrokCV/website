@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（42）：一体化图像复原
+title: 新芽专题介绍：一体化图像复原
 date: 2025-09-17T01:09:00Z
 draft: false
 math: true

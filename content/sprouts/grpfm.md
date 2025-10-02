@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（11）：通用及遥感感知大模型
+title: 新芽专题介绍：通用及遥感感知大模型
 date: 2025-09-17T01:40:00Z
 draft: false
 math: true

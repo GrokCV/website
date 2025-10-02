@@ -1,7 +1,7 @@
 ---
-title: 新芽专题介绍（49）：视频生成与质量评估
+title: 新芽专题介绍：视频生成与质量评估
 date: 2025-09-17T01:02:00Z
-draft: false
+draft: true
 math: true
 ---
 

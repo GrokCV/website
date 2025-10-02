@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（27）：恶劣环境视觉感知
+title: 新芽专题介绍：恶劣环境视觉感知
 date: 2025-09-17T01:24:00Z
 draft: false
 math: true

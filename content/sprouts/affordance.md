@@ -1,7 +1,7 @@
 ---
-title: 新芽专题介绍（40）：affordance
+title: 新芽专题介绍：affordance
 date: 2025-09-17T01:11:00Z
-draft: false
+draft: true
 math: true
 ---
 

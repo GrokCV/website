@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（26）：事件相机目标检测
+title: 新芽专题介绍：事件相机目标检测
 date: 2025-09-17T01:25:00Z
 draft: false
 math: true

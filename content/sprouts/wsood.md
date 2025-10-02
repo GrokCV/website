@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（3）：弱监督目标检测
+title: 新芽专题介绍：弱监督目标检测
 date: 2025-09-17T01:48:00Z
 draft: false
 math: true

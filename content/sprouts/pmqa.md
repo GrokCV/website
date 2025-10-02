@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（14）：汇报多维度质量检测
+title: 新芽专题介绍：汇报多维度质量检测
 date: 2025-09-17T01:37:00Z
 draft: false
 math: true

@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（50）：海报生成
+title: 新芽专题介绍：海报生成
 date: 2025-09-17T01:01:00Z
 draft: false
 math: true

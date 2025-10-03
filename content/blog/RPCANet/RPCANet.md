@@ -1,4 +1,12 @@
-# RPCANet<sup>++</sup>：深度可解释的稀疏目标分割方法
+---
+title: 📄【WACV 2024】RPCANet：深度可解释的稀疏目标分割方法
+date: 2024-06-08
+draft: false
+math: true
+authors: 
+- Fengyi
+---
+
 ![标题](page_title.png)
 
 > **arXiv地址**：https://arxiv.org/abs/2508.04190 

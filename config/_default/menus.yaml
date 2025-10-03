@@ -17,7 +17,7 @@ main:
     url: group
     weight: 30
   - name: 书籍
-    url: book
+    url: textbook
     weight: 40
   - name: 论文
     url: publication

@@ -7,7 +7,7 @@ authors:
 - Fengyi
 ---
 
-![标题](page_title.png)
+![标题](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/page_title.png?raw=true)
 
 > **arXiv地址**：https://arxiv.org/abs/2508.04190 
 > **项目首页**：https://fengyiwu98.github.io/rpcanetx
@@ -17,7 +17,7 @@ authors:
 在稀疏目标分割任务中，传统RPCA方法面临计算成本高昂和泛化能力有限的技术挑战，复杂的矩阵运算会影响实时部署和跨域适应性。为此，我们将RPCA优化问题重新表述为一个可解释的深度展开框架，并提出了RPCANet<sup>++</sup>，该网络将松弛RPCA模型展开为三个可解释模块，通过记忆增强和深度对比先验实现了背景特征的自适应保持和目标敏感性的动态增强，从而能够在保持理论可解释性的同时提升分割性能。此外，我们提供了一套完整的定性与定量可解释性分析工具包。据我们所知，RPCANet<sup>++</sup>是首个将深度展开RPCA系统性应用于稀疏目标分割的可解释框架，在红外小目标检测、血管分割和缺陷检测等多个任务上实现了卓越的性能。
 
 
-![highlight](hl1.png)
+![highlight](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/hl1.png?raw=true)
 图1 RPCANet<sup>++</sup>范式的整体架构。 A. 在RPCA框架内对给定图像进行数学建模，并将其转换为无约束优化问题。B. 采用闭式解析解迭代求解上述优化模型，同时考虑两个核心技术挑战及其对应的解决方案。C. 将迭代求解过程展开为深度神经网络架构，实现算法到网络的有机融合。D. 通过事后分析技术进行视觉和数值模型验证，全面展现框架的可解释性。
 
 ---
@@ -58,7 +58,7 @@ $$\min \limits_{\mathbf{B},\mathbf{O}} \mathcal{R}(\mathbf{B}) + \lambda \mathca
 
 这促使我们以迭代方式求解上述优化问题，并将其展开为深度网络，如下所示：
 
-![algorithm to network](a2n.png)
+![algorithm to network](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/a2n.png?raw=true)
 图2  算法与网络的对应图。
 
 
@@ -66,8 +66,8 @@ RPCANet<sup>++</sup>框架将迭代模型驱动的闭式方程展开为深度网
 
 下图为RPCANet<sup>++</sup>整体与单阶段的详细网络结构，由背景近似模块（Background Approximation Module, BAM）、对象提取模块（Object Extraction Module, OEM）和图像恢复模块（Image Reconstruction Module, IRM）组成。为解决跨阶段特征退化问题，我们引入记忆增强模块（Memory Augment Module, MAM），自适应增强背景信息。同时，受重加权优化方法启发，我们设计了深度对比先验模块（Deep Contrast Prior Module, DCPM），在增强目标的同时加速收敛。
 
-![overall](overall.png)
-![single](detail.png)
+![overall](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/overall.png?raw=true)
+![single](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/detail.png?raw=true)
 图3  RPCANet<sup>++</sup>的总体与单阶段网络结构。
 
 ## 🔍  模型验证
@@ -93,18 +93,18 @@ $$r_s = \frac{|\mathbf{O}^k|_0}{H \times W}$$
 ### 阶段性验证分析
 在深度展开的背景下，展示每个阶段的结果对模型验证至关重要。如图，6阶段的RPCANet++在 $k=2,4,6$ 阶段下的热力图显示：初始阶段，背景主要反映低级边缘信息；随着阶段推进，逐步包含详细特征，包括强度和非局部细节。边缘和类目标虚警等元素在引导掩码指导下逐步被抑制。因此，目标轮廓变得更加清晰，我们的结果与原始图像的目标更加一致。
 
-![inter](visualization.png)
+![inter](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/visualization.png?raw=true)
 图4 不同阶段的可视化结果展示了我们的RPCANet在来自六个不同数据集的各种场景下的表现（IRSTD，VS，和DD任务）。我们可以通过迭代展开观察到其逐步成形的过程。
 
-![stage](stages.png)
+![stage](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/stages.png?raw=true)
 表1 不同阶段数量对RPCANet++的性能影响
 ### 低秩性与稀疏性验证
 RPCANet<sup>++</sup>的有效性通过其低秩性和稀疏性的渐进式验证得到了充分证实。如下图所示，低秩性演化过程表明，随着网络层数的逐步增加，RPCANet++能够有效增强背景特征的表征能力，同时在前几个主要奇异值之后，其余奇异值迅速收敛至零，这充分验证了模型在不同网络阶段均能保持良好的低秩特性。
-![lowrank](inter_lowrank.png)
+![lowrank](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/inter_lowrank.png?raw=true)
 图5 低秩性的验证：RPCANet<sup>++</sup>中不同阶段特征（第1到第6阶段）与原始图像的对比。我们的RPCANet<sup>++</sup>逐步估计满足低秩性的背景特征, 无过度估计的情况。
 
 图6所示的稀疏性对比分析表明，记忆增强模块（MAM）生成的结果相较于RPCANet呈现出显著更高的稀疏性，能够更加精准地定位潜在目标区域。虽然DCPM增强模型在经过三个阶段的迭代后相对于RPCANet获得了更优的稀疏性表现，但其在初始阶段的测量结果表现出较大的不稳定性。我们提出的RPCANet<sup>++</sup>通过有机融合MAM和DCPM的技术优势，不仅实现了快速且可靠的目标分割性能，更在保证快速收敛的同时达到了理想的稀疏性效果。
-![sparse](inter_sparse.png)
+![sparse](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/inter_sparse.png?raw=true)
 图6 稀疏性的验证：RPCANet<sup>++</sup>不同阶段及其变体（不含MAM或DCPM）与RPCANet在IRSTD-1K数据集上的对比。左：稀疏性数值的验证。右：不同阶段间的热图对比。
 
 综上所述，我们的模型在充分的视觉和定量实验证据支撑下，完全符合理论预期，成功展现出理想的低秩性和稀疏性特征。我们期望这套完整的低秩稀疏分析工具能够为构建深度展开网络的可解释性范式奠定坚实的理论基础。
@@ -112,20 +112,20 @@ RPCANet<sup>++</sup>的有效性通过其低秩性和稀疏性的渐进式验证
 
 ## 📊 实验结果
 我们在三个任务九个数据集上对RPCANet<sup>++</sup>进行了全面的性能比较和评估，图 7 展示了部分数据集的低秩性，目标大小分布的统计。
-![dataset_distri](dataset_distri.png)
+![dataset_distri](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/dataset_distri.png?raw=true)
 图7 数据集分布统计
 
 如表 2 所示，实验结果证明了RPCANet<sup>++</sup>在IRSTD任务上的 SOTA 性能。(更多分析欢迎参考我们的文章)
-![sota](sota.png)
+![sota](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/sota.png?raw=true)
 表2 RPCANet<sup>++</sup>在IRSTD任务四个数据集上的性能比较
 
-![irstd](irstd.png)
+![irstd](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/irstd.png?raw=true)
 图8 RPCANet<sup>++</sup>在IRSTD任务四个数据集上的检测可视化对比
 
-![medical](medical.png)
+![medical](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/medical.png?raw=true)
 图9 RPCANet<sup>++</sup>在VS任务三个数据集上的检测可视化对比
 
-![defect](defect.png)
+![defect](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/defect.png?raw=true)
 图10 RPCANet<sup>++</sup>在DD任务两个数据集上的检测可视化对比
 
 ## 结论和未来工作的讨论

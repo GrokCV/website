@@ -1,10 +1,11 @@
 ---
 title: 书籍
+cms_exclude: true
 
 view: 1
 
 # Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ""
-  image: ""
+header:
+  caption: ''
+  image: ''
 ---

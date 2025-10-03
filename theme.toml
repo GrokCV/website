@@ -14,6 +14,7 @@ tags = ["academic",
         "clean",
         "company",
         "blog",
+        "book",
         "events",
         "minimal",
         "light",
@@ -34,7 +35,7 @@ tags = ["academic",
         "slide"
         ]
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+            "blog", "book", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
   name = "George Cushen"

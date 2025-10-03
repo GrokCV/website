@@ -1,5 +1,5 @@
 ---
-title: 新生研讨课 2025 秋
+title: 线性代数那些事儿
 date: 2025-09-17T01:50:00Z
 draft: false
 math: true

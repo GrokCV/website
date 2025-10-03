@@ -29,7 +29,7 @@ sections:
       text_color_light: true
       background:
         image:
-          filename: bg2.jpg
+          filename: bg4.jpg
           size: cover
           position: center
           overlay_color: "#003366"

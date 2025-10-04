@@ -1,6 +1,6 @@
 ---
 title: 📄【TGRS 2025】SeqCSIST：序列空间邻近红外小目标解混
-date: 2025-08-08
+date: 2025-07-13
 draft: false
 math: true
 authors:

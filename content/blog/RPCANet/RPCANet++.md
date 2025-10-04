@@ -1,23 +1,28 @@
 ---
-title: 📄【WACV 2024】RPCANet：深度可解释的稀疏目标分割方法
-date: 2024-06-08
+title: 📄【arXiv 2025】RPCANet++：深度可解释的稀疏目标分割方法
+date: 2025-08-06
 draft: false
 math: true
 authors: 
-- Fengyi
+- Fengyi Wu
 ---
 
 ![标题](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/page_title.png?raw=true)
 
-> **arXiv地址**：https://arxiv.org/abs/2508.04190 
-> **项目首页**：https://fengyiwu98.github.io/rpcanetx
-> **开源代码**：https://github.com/fengyiwu98/RPCANet
-> **深度展开低秩稀疏工具包**：https://pypi.org/project/dulrs
+**arXiv地址**：<https://arxiv.org/abs/2508.04190> 
+
+**项目首页**：<https://fengyiwu98.github.io/rpcanetx>
+
+**开源代码**：<https://github.com/fengyiwu98/RPCANet>
+
+**深度展开低秩稀疏工具包**：<https://pypi.org/project/dulrs>
+
 > **简要概括**:  
 在稀疏目标分割任务中，传统RPCA方法面临计算成本高昂和泛化能力有限的技术挑战，复杂的矩阵运算会影响实时部署和跨域适应性。为此，我们将RPCA优化问题重新表述为一个可解释的深度展开框架，并提出了RPCANet<sup>++</sup>，该网络将松弛RPCA模型展开为三个可解释模块，通过记忆增强和深度对比先验实现了背景特征的自适应保持和目标敏感性的动态增强，从而能够在保持理论可解释性的同时提升分割性能。此外，我们提供了一套完整的定性与定量可解释性分析工具包。据我们所知，RPCANet<sup>++</sup>是首个将深度展开RPCA系统性应用于稀疏目标分割的可解释框架，在红外小目标检测、血管分割和缺陷检测等多个任务上实现了卓越的性能。
 
 
 ![highlight](https://github.com/GrokCV/website/blob/master/content/blog/RPCANet/hl1.png?raw=true)
+
 图1 RPCANet<sup>++</sup>范式的整体架构。 A. 在RPCA框架内对给定图像进行数学建模，并将其转换为无约束优化问题。B. 采用闭式解析解迭代求解上述优化模型，同时考虑两个核心技术挑战及其对应的解决方案。C. 将迭代求解过程展开为深度神经网络架构，实现算法到网络的有机融合。D. 通过事后分析技术进行视觉和数值模型验证，全面展现框架的可解释性。
 
 ---
@@ -140,14 +145,23 @@ RPCANet<sup>++</sup>的有效性通过其低秩性和稀疏性的渐进式验证
 
 ## 参考文献
 [1] E. J. Candès, X. Li, Y. Ma, and J. Wright, “Robust principal component analysis,“ J. ACM, vol. 58, no. 3, pp. 1–37, 2011.
+
 [2] Z. Zhou, X. Li, J. Wright, E. Candes, and Y. Ma, “Stable principal component pursuit,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), 2010, pp. 1518–1522.
+
 [3] F. Wu, T. Zhang, L. Li, Y. Huang, and Z. Peng, “RPCANet: Deep unfolding rpca based infrared small target detection,” in Proc. IEEE Winter Conf. Appl. Comput. Vis. (WACV), 2024, pp. 4809–4818.
+
 [4] H. Cai, J. Liu, and W. Yin, “Learned robust pca: A scalable deep unfolding approach for high-dimensional outlier detection,” Proc. Adv. Neural Inf. Process. Syst. (NIPS), vol. 34, pp. 16 977–16 989, 2021.
+
 [5] C. Gao, D. Meng, Y. Yang, Y. Wang, X. Zhou, and A. G. Hauptmann, “Infrared patch-image model for small target detection in a single image,” IEEE Trans. Image Process., vol. 22, no. 12, pp. 4996–5009, 2013.
+
 [6] Y. Dai, Y. Wu, F. Zhou, and K. Barnard, “Attentional local contrast networks for infrared small target detection,” IEEE Trans. Geosci. Remote Sens., vol. 59, no. 11, pp. 9813–9824, 2021.
+
 [7] Y. Dai and Y. Wu, “Reweighted infrared patch-tensor model with both nonlocal and local priors for single-frame small target detection,” IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens., vol. 10, no. 8, pp. 3752–3767, 2017.
+
 [8] Y. Yu, S. Buchanan, D. Pai, T. Chu, Z. Wu, S. Tong, B. Haeffele, and Y. Ma, “White-box transformers via sparse rate reduction,” in Proc. Adv. Neural Inf. Process. Syst. (NIPS), vol. 36, 2023, pp. 9422–9457.
+
 [9] B. Li, C. Xiao, L. Wang, Y. Wang, Z. Lin, M. Li, W. An, and Y. Guo, “Dense nested attention network for infrared small target detection,” IEEE Trans. Image Process., vol. 32, pp. 1745–1758, 2022.
+
 [10] M. Zhang, R. Zhang, Y. Yang, H. Bai, J. Zhang, and J. Guo, “ISNet: Shape matters for infrared small target detection,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), 2022, pp. 877–886.
 
 

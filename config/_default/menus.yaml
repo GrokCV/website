@@ -19,33 +19,36 @@ main:
   - name: 书籍
     url: textbook
     weight: 40
+  - name: 设备
+    url: device
+    weight: 50
   - name: 论文
     url: publication
-    weight: 50
+    weight: 60
   - name: 数据集
     url: dataset
-    weight: 60
+    weight: 70
   - name: 新芽
     url: sprouts
-    weight: 70
+    weight: 80
   - name: 教学
     url: teaching
-    weight: 80
+    weight: 90
   - name: 获奖
     url: award
-    weight: 90
+    weight: 100
   - name: 开源
     url: open-source
-    weight: 100
+    weight: 110
   - name: 博客
     url: blog
-    weight: 110
+    weight: 120
   - name: 视频
     url: event
-    weight: 120
+    weight: 130
   - name: 联系
     url: contact
-    weight: 130
+    weight: 140
   # - name: Contact
   #   url: contact
   #   weight: 60

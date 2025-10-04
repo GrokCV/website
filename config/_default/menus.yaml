@@ -44,7 +44,7 @@ main:
     url: event
     weight: 120
   - name: 联系
-    url: contactus
+    url: contact
     weight: 130
   # - name: Contact
   #   url: contact

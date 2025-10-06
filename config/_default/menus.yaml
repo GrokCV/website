@@ -49,6 +49,9 @@ main:
   - name: 联系
     url: contact
     weight: 140
+  - name: 提问
+    url: https://github.com/GrokCV/website/discussions
+    weight: 150
   # - name: Contact
   #   url: contact
   #   weight: 60

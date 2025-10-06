@@ -1,8 +1,9 @@
 ---
 title: 线性代数那些事儿 - 前言
 date: 2025-09-17T01:50:00Z
-draft: true
+draft: false
 math: true
+comment: true
 ---
 
 当前呈现给各位读者的，是本书在2025年9月27日的初始版本。它尚处于非常早期的草创阶段，远未达到理想中的完成度，在此先行说明。
@@ -43,7 +44,7 @@ math: true
 2025年初秋
 </p>
 
-<script src="https://giscus.app/client.js"
+<!-- <script src="https://giscus.app/client.js"
         data-repo="Kongweixie/GrokCV_Comment"
         data-repo-id="R_kgDOP4ZoRQ"
         data-category="General"
@@ -57,6 +58,4 @@ math: true
         data-lang="zh-CN"
         crossorigin="anonymous"
         async>
-</script>
-
-
+</script> -->

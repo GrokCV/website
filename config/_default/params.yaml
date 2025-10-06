@@ -99,8 +99,8 @@ comment:
   giscus:
     repo: "Kongweixie/GrokCV_Comment"
     repo_id: "R_kgDOP4ZoRQ"
-    category: "General" # 建议之后换成 'Announcements'
-    category_id: "DIC_kwDOP4ZoRc4Cv_ZX"
+    category: "Q&A" # 更改为 Q&A
+    category_id: "DIC_kwDOP4ZoRc4Cv_ZY" # 更改为新的 Category ID
 
 # CORRECTED SECTION: 'search' and 'map' are now at the correct indentation level.
 search:

@@ -3,7 +3,7 @@ title: 恭喜两位晨旭和旻瑞一举拿下冠军、亚军以及 Best Paper !
 date: 2025-06-12
 ---
 
-🎉 恭喜晨旭和旻瑞同学，在 *CVPRW 2025 Anti-Object Tracking Challenge* 中拿下 Track 1 冠军、Track 2 亚军！论文、代码、解读都已经整理好，欢迎大家来尝试与讨论！
+🎉 恭喜晨旭和旻瑞同学，在 *CVPRW 2025 Anti-UAV Tracking Challenge* 中拿下 Track 1 冠军、Track 2 亚军！论文、代码、解读都已经整理好，欢迎大家来尝试与讨论！
 
 <!--more-->
 

@@ -50,7 +50,7 @@ math: true
 
     
 
-## 课程作业
+## 作业与答疑
 
 - **课程作业**：选自教材高等数学·第三册·第三版（物理类专业用）
     - 第一章习题 (p32): 1(2)(4), 5, 6(2)(4), 7, 8(2)(3), 10(2), 11(1)(4)(6), 13(2), 14(3)(4), 15(4), 16;
@@ -65,5 +65,7 @@ math: true
     - 上传作业须为 PDF 格式：
         - 推荐使用 LaTeX 编译生成 PDF；
         - 接受采用 Pad 手写导出为 PDF 或纸质手写扫描成 PDF，书写请保持可读性良好，避免出现字迹模糊、难以辨认等情况，从而影响助教批改作业。
+- 有问题请在[本课程的 Github 主页](https://github.com/GrokCV/Grokking-Linear-Algebra)上[提交 Issue](https://github.com/GrokCV/Grokking-Linear-Algebra/issues)，会有助教答疑
 
 ## FAQs
+

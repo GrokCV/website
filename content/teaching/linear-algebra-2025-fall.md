@@ -40,6 +40,10 @@ math: true
   - Gilbert Strang. [Linear Algebra (Spring 2010)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/). Available: <https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/>
   - 3blue1brown. [线性代数的本质](https://www.bilibili.com/video/BV1ys411472E/).  Available: <https://www.bilibili.com/video/BV1ys411472E/>
 
+- **工具书**：
+
+    - Kaare Brandt Petersen, Michael Syskind Pedersen. [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
 - **课外推荐阅读**：
 
     - 张奠宙. 20 世纪数学经纬[M]. 上海: 华东师范大学出版社, 2002.

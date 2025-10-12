@@ -8,7 +8,7 @@ authors:
 ---
 
 
-<img src="./figs/title.png" title="" alt="![[title.png]]" data-align="center">
+<img src="https://github.com/GrokCV/website/blob/master/content/blog/DRPCA-Net/figs/title.png?raw=true" title="" alt="![[title.png]]" data-align="center">
 
 Paper：[DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection](https://arxiv.org/abs/2507.09541)
 
@@ -20,7 +20,7 @@ GitHub：[github.com/GrokCV/DRPCA-Net](https://github.com/GrokCV/DRPCA-Net)
 
 **欢迎来到 RPCA 2.0 时代，DRPCA-Net，把“低秩背景 + 稀疏目标”的数学先验，做成可学习、会随场景自适应的动态展开网络。**
 
-<img title="" src="./figs/meme1.jpg" alt="" width="429" data-align="center">
+<img title="" src="https://github.com/GrokCV/website/blob/master/content/blog/DRPCA-Net/figs/meme1.jpg?raw=true" alt="" width="429" data-align="center">
 
 ---
 
@@ -32,7 +32,7 @@ GitHub：[github.com/GrokCV/DRPCA-Net](https://github.com/GrokCV/DRPCA-Net)
 
 ## 主要内容讲解
 
-<img title="" src="./figs/motivation.png" alt="![[title.png]]" data-align="center">
+<img title="" src="https://github.com/GrokCV/website/blob/master/content/blog/DRPCA-Net/figs/motivation.png?raw=true" alt="![[title.png]]" data-align="center">
 
 图 1 传统静态展开（RPCANet）与我们提出的动态展开（DRPCA-Net）的视觉比较。
 不同阶段（1、3 和 6）的可视化结果表明，动态参数生成机制有助于有效抑制背景干扰。
@@ -78,7 +78,7 @@ $$
 
 ### 2.  **动态残差组 (Dynamic Residual Group, DRG)**
 
-为了更精确地估计和重建背景与目标，我们设计了 DRG 模块。 该模块创新性地集成了**动态空间注意力**（DSA）机制。 与传统注意力机制不同，DSA 能根据输入特征动态生成定制化的卷积核，从而实现对空间特征的自适应调整，能够更好地捕捉背景中的上下文变化。<img title="" src="./figs/DRPCA-Net.png" alt="![[DRPCA-Net.png]]" data-align="center" width="806">图 2 DRPCA-Net 的总体结构。介绍了第 k 级的详细结构，包括潜在背景编码器模块（LBEM）、动态目标提取模块（DTEM）、动态图像重建模块（DIRM）和参数生成器。其中，DSA 被嵌在 DRG 中。
+为了更精确地估计和重建背景与目标，我们设计了 DRG 模块。 该模块创新性地集成了**动态空间注意力**（DSA）机制。 与传统注意力机制不同，DSA 能根据输入特征动态生成定制化的卷积核，从而实现对空间特征的自适应调整，能够更好地捕捉背景中的上下文变化。<img title="" src="https://github.com/GrokCV/website/blob/master/content/blog/DRPCA-Net/figs/DRPCA-Net.png?raw=true" alt="![[DRPCA-Net.png]]" data-align="center" width="806">图 2 DRPCA-Net 的总体结构。介绍了第 k 级的详细结构，包括潜在背景编码器模块（LBEM）、动态目标提取模块（DTEM）、动态图像重建模块（DIRM）和参数生成器。其中，DSA 被嵌在 DRG 中。
 
 **网络架构概述**：DRPCA-Net 的整体架构如图 2 所示。该网络包括 K 个阶段，每个阶段结构相同并且实现背景估计、动态目标提取和动态图像重建的一个循环。输入的红外图像 X 初始化 D<sup>0</sup>，且 T<sup>0</sup> 被设置为零。第 k−1 级的输出，即 D<sup>k−1</sup> 和 T<sup>k−1</sup>，被馈入第 k 级。在阶段 k 内，LBEM 计算 B<sup>k</sup>。随后，DTEM 利用 D<sup>k−1</sup>、B<sup>k</sup> 和 T<sup>k−1</sup>，根据参数生成器动态生成的参数（ γ、ε ）来计算 T<sup>k</sup>。最后，DIRM 采用 B<sup>k</sup> 和 T<sup>k</sup> 来重建 D<sup>k</sup> 用作下一阶段的输入。最终的目标图从最后一级的目标估计 T<sup>K</sup> 输出。整个网络，包括所有 LBEM、DTEM、DIRM（包括 DRG）的参数，以及所有 K 个阶段上的参数生成器，被端到端地训练。
 
@@ -92,11 +92,11 @@ $$
 
 表 I 不同方法在 SIRST V1、NUDT-SIRST、SIRST-AUG 和 IRSTD-1K 上的性能比较，以 IoU（%）、$F_1$（%）、$P_d$（%）、$F_a$（10<sup>−6</sup>）和参数数（M）表示。最佳结果以粗体红色字体突出显示。
 
-<img title="" src="./figs/experiment.png" alt="" data-align="center" width="730">
+<img title="" src="https://github.com/GrokCV/website/blob/master/content/blog/DRPCA-Net/figs/experiment.png?raw=true" alt="" data-align="center" width="730">
 
 我们提出的方法在大多数数据集和评估指标上始终如一地取得了最先进或极具竞争力的结果。值得注意的是，DRPCA-Net 在 IoU、 $F_1$ 以及 $P_d$ 在 SIRST V1、SIRST-AUG 和 NUDT-SIRST 数据集中排名靠前。这种一致的优越性证明了动态展开机制的效力以及 DRG 模块促进的增强特征表示，能够稳健地适应不同的目标特征和背景复杂性。
 
-<img title="" src="./figs/Visualization.png" alt="![[Visualization.png]]" data-align="center">
+<img title="" src="https://github.com/GrokCV/website/blob/master/content/blog/DRPCA-Net/figs/Visualization.png?raw=true" alt="![[Visualization.png]]" data-align="center">
 图 3 具有挑战性的红外场景的定性比较。各列显示原始图像、来自 TopHat、RDIAN、ISNet、UIUNet、L2SKNet、我们的 DRPCA-Net 和地面实况（GT）的结果。正确检测用红色框标记，遗漏检测用绿色框标记，误报用白色虚线圆圈标记。
 
 图 3 直观展示了我们方法与部分前沿方法的检测效果对比。可以看出，DRPCA-Net 在漏检和虚警方面均表现出明显优势，检测结果更加精准可靠。

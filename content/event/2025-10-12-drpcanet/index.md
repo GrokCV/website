@@ -1,5 +1,5 @@
 ---
-title: 【工作分享】【TGRS 2025】SeqCSIST：序列空间邻近红外小目标解混
+title: 【工作分享】【TGRS 2025】DRPCA-Net：动态低秩稀疏展开革新红外小目标检测！
 draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
@@ -14,17 +14,15 @@ location: Tencent Meeting
 
 summary: 【工作分享】SeqCSIST：序列空间邻近红外小目标解混
 abstract: |
-  我们关于红外小目标解混的另一项工作分享来啦！
+  🚀 分享一下我们被 TGRS 2025 接收的新工作：
+  「DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection」
 
-  在这里我们提出了一个新的任务，即 序列空间邻近红外小目标解混，以及一个 DeRefNet 框架，有效解决了红外图像中 CSIST 能量混叠问题，实现了红外目标的解混和亚像素定位，并构建了一个开源的红外目标解混生态系统，包括序列基准数据集和工具包，为相关研究提供了宝贵的资源。
+  该工作旨在将经典 RPCA 的数学清晰度与深度学习更灵活性相结合，打造一个动态、可解释的红外小目标检测新范式。论文、代码均已发布，欢迎各位小伙伴们交流❤️
 
-  arXiv地址：https://arxiv.org/abs/2507.09556
-  代码开源地址：https://github.com/GrokCV/SeqCSIST
-  数据集开源地址：
-  https://pan.baidu.com/share/init?surl=_sxGh5oFQ8-3RpUUeMN2Mg&pwd=kxe9
-  或 https://1drv.ms/f/c/698f69b8b2172561/EuBC8549kZJIp_syz2Glft4BU2Fu5Ri-wYE888HJ9kmiiQ?e=zEISNc
-
-  欢迎各位感兴趣的小伙伴们关注及交流~
+  📄 论文地址：
+  https://arxiv.org/abs/2507.09541
+  💻 开源地址：
+    欢迎各位感兴趣的小伙伴们关注及交流~
 
 
 # Talk start and end times.
@@ -34,7 +32,7 @@ date: '2025-08-30T20:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-08-30T20:00:00Z'
+publishDate: '2025-10-12T18:00:00Z'
 
 authors: []
 tags: []
@@ -50,14 +48,13 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Follow
-    url: https://www.bilibili.com/video/BV1bbedz6E5b
-url_code: 'https://github.com/GrokCV/SeqCSIST'
-url_pdf: 'https://arxiv.org/abs/2507.09556'
+    url: https://www.bilibili.com/video/BV1Sy4uztE2G
+url_code: "https://github.com/GrokCV/DRPCA-Net"
+url_pdf: "https://arxiv.org/pdf/2507.09541"
 url_video: 'https://www.bilibili.com/video/BV1bbedz6E5b'
-url_cn_blog: "https://grokcv.ai/blog/seqcsist/"
-url_slides: 'https://github.com/GrokCV/Slides/blob/master/Ximeng/SeqCSIST_%E5%AE%A3%E4%BC%A0%E7%A8%BF.pdf'
-url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-TGRS-SeqCSIST-CN-Translation.pdf"
-url_cn_video: "https://www.bilibili.com/video/BV1bbedz6E5b"
+url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-ICCV-DISTA-Net-CN-Translation.pdf"
+url_cn_blog: "https://grokcv.ai/blog/drpca-net/drpca-net/"
+url_cn_video: "https://www.bilibili.com/video/BV1Sy4uztE2G"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -73,5 +70,6 @@ url_cn_video: "https://www.bilibili.com/video/BV1bbedz6E5b"
 #   Otherwise, set `projects = []`.
 #   projects:
 #   - example
+
 ---
 

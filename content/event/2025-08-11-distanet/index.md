@@ -1,5 +1,5 @@
 ---
-title: 【工作分享】DISTA-Net：动态空间邻近红外小目标解混
+title: 【工作分享】【ICCV 2025】DISTA-Net：动态空间邻近红外小目标解混
 draft: false
 event: GrokCV Seminar
 event_url: https://www.bilibili.com/video/BV1d8tPzxESh

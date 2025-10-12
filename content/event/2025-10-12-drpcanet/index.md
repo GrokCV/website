@@ -1,5 +1,5 @@
 ---
-title: 【工作分享】【TGRS 2025】DRPCA-Net：动态低秩稀疏展开革新红外小目标检测！
+title: 【工作分享】【TGRS 2025】DRPCA-Net：动态低秩稀疏展开革新红外小目标检测
 draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
@@ -12,7 +12,7 @@ location: Tencent Meeting
 #   postcode: '94305'
 #   country: United States
 
-summary: 【工作分享】【TGRS 2025】DRPCA-Net：动态低秩稀疏展开革新红外小目标检测！
+summary: 【工作分享】【TGRS 2025】DRPCA-Net：动态低秩稀疏展开革新红外小目标检测
 abstract: |
   🚀 分享一下我们被 TGRS 2025 接收的新工作：
   「DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection」

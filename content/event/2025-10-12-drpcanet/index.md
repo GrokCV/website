@@ -12,7 +12,7 @@ location: Tencent Meeting
 #   postcode: '94305'
 #   country: United States
 
-summary: 【工作分享】SeqCSIST：序列空间邻近红外小目标解混
+summary: 【工作分享】【TGRS 2025】DRPCA-Net：动态低秩稀疏展开革新红外小目标检测！
 abstract: |
   🚀 分享一下我们被 TGRS 2025 接收的新工作：
   「DRPCA-Net: Make Robust PCA Great Again for Infrared Small Target Detection」
@@ -32,7 +32,7 @@ date: '2025-08-30T20:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-10-12T18:00:00Z'
+publishDate: '2025-10-12T08:00:00Z'
 
 authors: []
 tags: []

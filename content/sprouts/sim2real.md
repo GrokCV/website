@@ -37,8 +37,10 @@ math: true
 为简明起见，这里仅给出 **UDA** 的典型目标（在源域监督训练，同时缩小源/目标特征分布差异）：
 
 $$
+
 \min_{\theta}\ \underbrace{\mathcal{L}_{\text{src}}\big(f_\theta;\,\mathcal{D}_s\big)}_{\text{源域有标注}}
 \;+\;\lambda\,\underbrace{D\!\Big(\phi_\theta(\mathcal{D}_s),\ \phi_\theta(\mathcal{D}_t)\Big)}_{\text{源/目标特征分布对齐}}
+
 $$
 
 其中 $\mathcal{D}_s$ 为源域带标注数据、$\mathcal{D}_t$ 为目标域未标注数据；$D(\cdot)$ 可为对抗对齐、统计对齐（如 CORAL/MMD）等。DG 则不使用 $\mathcal{D}_t$，转而通过多源正则化/不变性约束获得可迁移表征。

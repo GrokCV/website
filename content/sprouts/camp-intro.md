@@ -53,11 +53,11 @@ math: true
 
 为确保汇报质量，结业汇报质量应至少达到以下所展示的往届报告水平：
 
-1. [【新芽播种】通用架构 or 绑定下游？浅谈多模态图像融合的发展](https://www.bilibili.com/video/BV189JizDEvw/): <https://www.bilibili.com/video/BV189JizDEvw/>
-2. [【新芽播种】图像生成：从压缩重建到可控编辑](https://www.bilibili.com/video/BV1sZTHzBEk3/): <https://www.bilibili.com/video/BV1sZTHzBEk3//>
-3. [【新芽播种】融合思想——解决极端环境下图像识别的利器](https://www.bilibili.com/video/BV1tQTHzkEYn/): <https://www.bilibili.com/video/BV1tQTHzkEYn/>
-4. [【新芽播种】轻量化微调之路：浅谈四种参数高效微调方法](https://www.bilibili.com/video/BV13qYvzDEm7/): <https://www.bilibili.com/video/BV13qYvzDEm7/>
-5. [【新芽播种】分离与协同：多模态图像生成](https://www.bilibili.com/video/BV1EShqzYEH1/): <https://www.bilibili.com/video/BV1EShqzYEH1/>
+1. [【新芽播种】通用架构 or 绑定下游？浅谈多模态图像融合的发展](https://www.bilibili.com/video/BV189JizDEvw/)
+2. [【新芽播种】图像生成：从压缩重建到可控编辑](https://www.bilibili.com/video/BV1sZTHzBEk3/)
+3. [【新芽播种】融合思想——解决极端环境下图像识别的利器](https://www.bilibili.com/video/BV1tQTHzkEYn/)
+4. [【新芽播种】轻量化微调之路：浅谈四种参数高效微调方法](https://www.bilibili.com/video/BV13qYvzDEm7/)
+5. [【新芽播种】分离与协同：多模态图像生成](https://www.bilibili.com/video/BV1EShqzYEH1/)
 
 本阶段综合得分超过85分的营员，方可进入下一阶段。
 
@@ -75,9 +75,9 @@ math: true
 
 为确保汇报质量，结业汇报质量应至少达到以下所展示的往届报告水平：
 
-- [【新芽培育】Jittor 代码复现：DC-ShadowNet——“软硬兼备”的去阴影网络](https://www.bilibili.com/video/BV1LrbzzfEkj/): <https://www.bilibili.com/video/BV1LrbzzfEkj/>
-- [【新芽培育】NanoDet-Plus: Jittor 框架复现与精度对齐](https://www.bilibili.com/video/BV1AdeuziEyp/): <https://www.bilibili.com/video/BV1AdeuziEyp/>
-- [【新芽培育】Jittor 代码复现：SFDFusion——红外可见光图像融合](https://www.bilibili.com/video/BV1RZY4zPEAP/): <https://www.bilibili.com/video/BV1RZY4zPEAP/>
+- [【新芽培育】Jittor 代码复现：DC-ShadowNet——“软硬兼备”的去阴影网络](https://www.bilibili.com/video/BV1LrbzzfEkj/)
+- [【新芽培育】NanoDet-Plus: Jittor 框架复现与精度对齐](https://www.bilibili.com/video/BV1AdeuziEyp/)
+- [【新芽培育】Jittor 代码复现：SFDFusion——红外可见光图像融合](https://www.bilibili.com/video/BV1RZY4zPEAP/)
 
 本阶段综合得分超过 85分 的营员可进入最终阶段。其中，得分超过 95 分且在后续成长期表现优异者，将获得“新芽优秀”认证，并享有南开大学媒体计算实验室、中关村学院及众多合作团队推免和招聘时直通最后一轮面试的资格。
 
@@ -92,9 +92,9 @@ math: true
 
 新芽训练营是一项高强度、高投入的科研启蒙项目，**完整参与通常需要300–400小时或更多时间**。我们整理了部分往届学员的经验分享，供你参考：
 
-- [【新芽攻略】新芽计划生存指南](https://www.bilibili.com/video/BV1tSpDzhEbp/): <https://www.bilibili.com/video/BV1tSpDzhEbp/>
-- [新芽经验分享：南开24级柯云超](https://grokcv.ai/sprouts/yunchao/): <https://grokcv.ai/sprouts/yunchao/>
-- [新芽经验分享：南开24级王奕瑜](https://grokcv.ai/sprouts/yiyu/): <https://grokcv.ai/sprouts/yiyu/>
+- [【新芽攻略】新芽计划生存指南](https://www.bilibili.com/video/BV1tSpDzhEbp/)
+- [新芽经验分享：南开24级柯云超](https://grokcv.ai/sprouts/yunchao/)
+- [新芽经验分享：南开24级王奕瑜](https://grokcv.ai/sprouts/yiyu/)
 
 科研之路道阻且长，但每一步都算数。
 

@@ -1,6 +1,6 @@
 ---
-title: 【工作分享】SeqCSIST：序列空间邻近红外小目标解混
-draft: ture
+title: 【工作分享】【TGRS 2025】SeqCSIST：序列空间邻近红外小目标解混
+draft: false
 event: GrokCV Seminar
 event_url: https://space.bilibili.com/833564
 

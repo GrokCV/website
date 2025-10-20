@@ -25,6 +25,9 @@ math: true
 2. **技术推动**：倒逼多智能体交互建模、时空序列学习、概率不确定性与校准、闭环评测与高效推理等关键技术发展，并促进与地图先验、传感融合以及大模型的深度结合与落地。
 
 ***
+[![img1.png](https://imgtu.com/uploads/7saw3q7w/t-img1.webp)](https://imgtu.com/upload/7saw3q7w/img1)
+
+▲行人车辆混合轨迹预测
 
 ### 1.3  当前主要挑战
 

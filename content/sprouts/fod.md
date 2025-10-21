@@ -40,21 +40,23 @@ math: true
 
      如下图所示，具体展示了在鱼眼镜头下的目标的严重畸变：
 
-     ​                                        ![image-20251020161037292](https://gitee.com/chenzhe0819/images/raw/master/image-20251020161037292.png)<img src="https://gitee.com/chenzhe0819/images/raw/master/image-20251020163815941.png" alt="image-20251020163815941" style="zoom: 67%;" />
+     ​                                         [![Image-202512039123.png](https://imgtu.com/uploads/hhkkaux1/t-image-202512039123.webp)](https://imgtu.com/zh/upload/hhkkaux1/image-202512039123)[![Image-20251020163815941111.png](https://imgtu.com/uploads/hhkm8zw6/t-image-20251020163815941111.webp)](https://imgtu.com/zh/upload/hhkm8zw6/image-20251020163815941111)
+     
+     
      
      特别地，在红外场景下本就特征不明显的目标，畸变后特征提取难度会进一步增大：
      
-     ![12309812841840192311](https://gitee.com/chenzhe0819/images/raw/master/12309812841840192311.png)
+     [<img src="https://imgtu.com/uploads/hhkj0qfx/t-12309812841840192311231231.webp" alt="12309812841840192311231231.png" style="zoom: 200%;" />](https://imgtu.com/zh/upload/hhkj0qfx/12309812841840192311231231)
      
-     ![image-2025102016432385011](https://gitee.com/chenzhe0819/images/raw/master/image-2025102016432385011.png)
-     
-     
+     [<img src="https://imgtu.com/uploads/hhkn872f/t-image-2025102016432385123011.webp" alt="Image-2025102016432385123011.png" style="zoom: 200%;" />](https://imgtu.com/zh/upload/hhkn872f/image-2025102016432385123011)
 
 2. **挑战二：尺度跨度极大，检测鲁棒性不足**
 
    - 大视场下，近景目标可能占据数百像素，远景目标仅占几个像素，尺度差异可达 100 倍以上，远超传统多尺度检测机制（如 FPN）的处理范围 。具体场景如下图所示：
 
-     ​                                      ![image-20251020161112507](https://gitee.com/chenzhe0819/images/raw/master/image-20251020161112507.png)![image-20251020163623818](https://gitee.com/chenzhe0819/images/raw/master/image-20251020163623818.png)
+     ​                                    [![Image-202510201636238123118.png](https://imgtu.com/uploads/hhljwhlf/t-image-202510201636238123118.webp)](https://imgtu.com/zh/upload/hhljwhlf/image-202510201636238123118) [![Image-202510201611125012317.png](https://imgtu.com/uploads/hhklv9sf/t-image-202510201611125012317.webp)](https://imgtu.com/zh/upload/hhklv9sf/image-202510201611125012317)
+
+     
 
    - 边缘区域目标被压缩后，边界框回归难度激增，易出现定位偏移。        
 

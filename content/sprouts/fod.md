@@ -40,21 +40,18 @@ math: true
 
      如下图所示，具体展示了在鱼眼镜头下的目标的严重畸变：
 
-     ​                                         [![Image-202512039123.png](https://imgtu.com/uploads/hhkkaux1/t-image-202512039123.webp)](https://imgtu.com/zh/upload/hhkkaux1/image-202512039123)[![Image-20251020163815941111.png](https://imgtu.com/uploads/hhkm8zw6/t-image-20251020163815941111.webp)](https://imgtu.com/zh/upload/hhkm8zw6/image-20251020163815941111)
-     
+     ![Image-202512039123.png](https://imgtu.com/uploads/hiu8rzsx/r-a5b8a4153ea728a6aaac244054225e80.webp) 
      
      
      特别地，在红外场景下本就特征不明显的目标，畸变后特征提取难度会进一步增大：
-     
      [<img src="https://imgtu.com/uploads/hhkj0qfx/t-12309812841840192311231231.webp" alt="12309812841840192311231231.png" style="zoom: 200%;" />](https://imgtu.com/zh/upload/hhkj0qfx/12309812841840192311231231)
-     
      [<img src="https://imgtu.com/uploads/hhkn872f/t-image-2025102016432385123011.webp" alt="Image-2025102016432385123011.png" style="zoom: 200%;" />](https://imgtu.com/zh/upload/hhkn872f/image-2025102016432385123011)
 
 2. **挑战二：尺度跨度极大，检测鲁棒性不足**
 
    - 大视场下，近景目标可能占据数百像素，远景目标仅占几个像素，尺度差异可达 100 倍以上，远超传统多尺度检测机制（如 FPN）的处理范围 。具体场景如下图所示：
 
-     ​                                    [![Image-202510201636238123118.png](https://imgtu.com/uploads/hhljwhlf/t-image-202510201636238123118.webp)](https://imgtu.com/zh/upload/hhljwhlf/image-202510201636238123118) [![Image-202510201611125012317.png](https://imgtu.com/uploads/hhklv9sf/t-image-202510201611125012317.webp)](https://imgtu.com/zh/upload/hhklv9sf/image-202510201611125012317)
+     ![Image-202510201636238123118.png](https://imgtu.com/uploads/hiubvmsy/5dc7f6ecf5f2dac5a080cab1d0354e3f.png)
 
      
 

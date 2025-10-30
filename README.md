@@ -18,3 +18,5 @@ snap install hugo
 
 # deploy
 ./self-host-deploy.sh
+
+### Github action 

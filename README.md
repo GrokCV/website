@@ -9,3 +9,12 @@ HUGO_MODULE_PROXY=https:/mirrors.aliyun.com/goproxy/ hugo mod get -u
 
 hugo serve -M
 ```
+
+## Deploy self host
+
+```bash
+# install hugo
+snap install hugo
+
+# deploy
+./self-host-deploy.sh

@@ -1,5 +1,5 @@
 ---
-title: 排版与视觉类错误
+title: PPT常见问题：排版与视觉类错误
 date: 2025-11-13T01:33:00Z
 draft: false
 math: true

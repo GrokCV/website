@@ -16,6 +16,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
+            source ~/.profile
             cd apps/website
             git pull
             ./self-host-deploy.sh

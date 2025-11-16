@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-hugo --gc --minify -b https://grokcv.site/
+HUGO_ENABLEGITINFO=true hugo --gc --minify -b https://grokcv.site/
 
 mkdir -p /var/www/grokcv
 

@@ -19,4 +19,4 @@ jobs:
             source ~/.profile
             cd apps/website
             git pull
-            ./self-host-deploy.sh
+            bash ./self-host-deploy.sh

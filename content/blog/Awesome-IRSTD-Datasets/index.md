@@ -1,7 +1,7 @@
 ---
 title: Awesome IRSTD Datasets（中文版） 
 date: 2025-11-12T15:24:00Z
-draft: false
+draft: true
 math: true
 ---
 

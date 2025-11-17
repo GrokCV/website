@@ -10,7 +10,7 @@ authors:
 - Yimian Dai
 ---
 
-**作者**: 许孟泽, 翟曦盟, 韩圣东, 许孟泽, **戴一冕***
+**作者**: 许孟泽, 翟曦盟, 韩圣东, **戴一冕***
 
 **English Version:** [Link to English Version](https://github.com/GrokCV/Awesome-CSIST-Unmixing)
 

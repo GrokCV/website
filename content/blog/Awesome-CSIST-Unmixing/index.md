@@ -9,11 +9,12 @@ authors:
 - Mengze Xu
 - Yimian Dai
 ---
->一个关于空间邻近红外小目标解混 (Closely-Spaced Infrared Small Target Unmixing, CSIST Unmixing) 技术的精选资源列表（包含论文、代码、数据集等）。
 
 **作者**: 韩圣东, 翟曦盟, 许孟泽, **戴一冕**
 
-**English Version:** [Link to English Version](https://github.com/GrokCV/Awesome-CSIST-Unmixing) 
+**English Version:** [Link to English Version](https://github.com/GrokCV/Awesome-CSIST-Unmixing)
+
+>一个关于空间邻近红外小目标解混 (Closely-Spaced Infrared Small Target Unmixing, CSIST Unmixing) 技术的精选资源列表（包含论文、代码、数据集等）。 
 
 **空间邻近红外小目标解混** 是红外搜索与跟踪系统中的一项关键且具有挑战性的任务。它专注于解混和检测焦平面上彼此非常靠近的多个弱小目标，这些目标通常会光学扩散现象导致红外成像混叠严重，多目标可能集中在几个像素中，导致难以准确识别目标的数量和位置。本资源库旨在收集和整理这一特定领域的最新进展。
 

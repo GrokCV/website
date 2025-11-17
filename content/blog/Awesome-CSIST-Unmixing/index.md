@@ -4,13 +4,13 @@ date: 2025-11-17
 draft: false
 math: true
 authors: 
-- Shengdong Han
-- Ximeng Zhai
 - Mengze Xu
+- Ximeng Zhai
+- Shengdong Han
 - Yimian Dai
 ---
 
-**作者**: 韩圣东, 翟曦盟, 许孟泽, **戴一冕**
+**作者**: 许孟泽, 翟曦盟, 韩圣东, 许孟泽, **戴一冕***
 
 **English Version:** [Link to English Version](https://github.com/GrokCV/Awesome-CSIST-Unmixing)
 

@@ -61,7 +61,7 @@ authors:
     [[论文](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/12121/121210K/Closely-spaced-object-detection-utilizing-spatial-information-in-spectroastrometric-observations/10.1117/12.2625366.full)]
 
 #### 2020
--   **采用分裂 Bregman 的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
+-   **采用分裂 Bregman 的空间邻近目标红外超分辨算法** - *左芝勇*, 电讯技术, 2020 \
     [[论文](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
 
 #### Pre-2020
@@ -78,7 +78,7 @@ authors:
 -   **QPSO-based algorithm of CSO joint infrared super-resolution and trajectory estimation** - *Lin, Liangkui and Xu, Hui and Xu, Dan and An, Wei and Xie, Kai*, Journal of Systems Engineering and Electronics, 2011 \
     [[论文](https://ieeexplore.ieee.org/abstract/document/6077736/)]
 
--  **基于 Gibbs 抽样的红外成像小间距目标分辨方法** - *刘涛*, Journal of Signal Processing, 2010 \
+-  **基于 Gibbs 抽样的红外成像小间距目标分辨方法** - *刘涛*, 信号处理, 2010 \
     [[论文](https://signal.ejournal.org.cn/article/id/8568)]
 
 -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \
@@ -94,7 +94,7 @@ authors:
   -   **Closely spaced object detection utilizing spatial information in spectroastrometric observations** - *J. Zachary Gazak, Ryan Swindle, Zachary Funke, Matthew Phelps, Justin Fletcher*, Sensors and Systems for Space Applications XV. SPIE, 2022 \
       [[论文](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/12121/121210K/Closely-spaced-object-detection-utilizing-spatial-information-in-spectroastrometric-observations/10.1117/12.2625366.full)]
   
-  -   **采用分裂 Bregman 的空间邻近目标红外超分辨算法** - *左芝勇*, Telecommunication Engineering, 2020 \
+  -   **采用分裂 Bregman 的空间邻近目标红外超分辨算法** - *左芝勇*, 电讯技术, 2020 \
       [[论文](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A31617819/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A144824734&crl=c&link_origin=scholar.google.com)]
 
   -   **The infrared image closely spaced objects super resolution method based on sparse reconstruction under the noise environment** - *J Zeng, J Yang, H Wu*, International Conference on Optical and Photonics Engineering (icOPEN 2016). SPIE, 2017 \
@@ -109,7 +109,7 @@ authors:
   -   **QPSO-based algorithm of CSO joint infrared super-resolution and trajectory estimation** - *Lin, Liangkui and Xu, Hui and Xu, Dan and An, Wei and Xie, Kai*, Journal of Systems Engineering and Electronics, 2011 \
       [[论文](https://ieeexplore.ieee.org/abstract/document/6077736/)]
       
-  -  **基于 Gibbs 抽样的红外成像小间距目标分辨方法** - *刘涛*, Journal of Signal Processing, 2010 \
+  -  **基于 Gibbs 抽样的红外成像小间距目标分辨方法** - *刘涛*, 信号处理, 2010 \
       [[论文](https://signal.ejournal.org.cn/article/id/8568)]
 
   -   **Hierarchical Closely-Spaced Object (CSO) Resolution for IR Sensor Surveillance** - *Macumber, Daniel and Gadaleta, Sabino and Floyd, Allison and Poore, Aubrey*, Signal and Data Processing of Small Targets, 2005 \

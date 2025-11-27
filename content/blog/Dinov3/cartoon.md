@@ -23,14 +23,14 @@ math: true
 
 接下来，就让哆啦A梦带我们看看 DINOv3 的神奇魔法吧！
 
-<img src="fig/第一页 研究背景.png" width="100%" />
+![第一页 研究背景.png](https://github.com/GrokCV/website/blob/master/content/blog/Dinov3/fig/%E7%AC%AC%E4%B8%80%E9%A1%B5%20%E7%A0%94%E7%A9%B6%E8%83%8C%E6%99%AF.png?raw=true)
 
-<img src="fig/第二页 现有工作缺陷.png" width="100%" />
+![第二页 现有工作缺陷.png](https://github.com/GrokCV/website/blob/master/content/blog/Dinov3/fig/%E7%AC%AC%E4%BA%8C%E9%A1%B5%20%E7%8E%B0%E6%9C%89%E5%B7%A5%E4%BD%9C%E7%BC%BA%E9%99%B7.png?raw=true)
 
-<img src="fig/第三页 方法1.png" width="100%" />
+![第三页 方法1.png](https://github.com/GrokCV/website/blob/master/content/blog/Dinov3/fig/%E7%AC%AC%E4%B8%89%E9%A1%B5%20%E6%96%B9%E6%B3%951.png?raw=true)
 
-<img src="fig/第四页 方法2.png" width="100%" />
+![第四页 方法2.png](https://github.com/GrokCV/website/blob/master/content/blog/Dinov3/fig/%E7%AC%AC%E5%9B%9B%E9%A1%B5%20%E6%96%B9%E6%B3%952.png?raw=true)
 
-您的关注是我画下去的动力！想看什么模型评论区告诉我~
+您的关注是我画下去的动力！想看什么模型 评论区 / 私信 告诉我~
 
-<img src="fig/第五页 小红书账号.jpg" width="100%" />
+![第五页 小红书账号.jpg](https://github.com/GrokCV/website/blob/master/content/blog/Dinov3/fig/%E7%AC%AC%E4%BA%94%E9%A1%B5%20%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7.jpg?raw=true)

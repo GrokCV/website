@@ -4,9 +4,6 @@ date: 2025-09-17T01:39:00Z
 draft: false
 math: true
 ---
-
-> 选择此专题并在新芽系列课程中获得优秀的同学，可以免去前期筛选考核流程，直接进入南开大学媒体计算团队以及国家人工智能学院等合作院校团队推免生招收面试的最后一轮。
-
 ## 一、专题介绍
 
 ### 1.1  研究背景
@@ -136,7 +133,7 @@ Tips：务必**摆脱所有基础都打好后，再进行下一阶段学习的�
 * **[REPA](https://github.com/sihyun-yu/REPA): Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**
 * **[REPA-E](https://github.com/End2End-Diffusion/REPA-E): REPA-E: Unlocking VAE for End-to-End Tuning of Latent Diffusion Transformers**
 * **[REG](https://github.com/Martinser/REG): Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think**
-* **[SiT](https://arxiv.org/pdf/2304.07193): SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers**
+* **[SiT](https://github.com/willisma/SiT): SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers**
 * **[UViT](https://github.com/baofff/U-ViT): All are Worth Words: A ViT Backbone for Diffusion Models (CVPR 2023)**
 * **[DiT](https://github.com/facebookresearch/DiT): Scalable Diffusion Models with Transformers (DiT)**
 * [ADM](https://github.com/openai/guided-diffusion): Diffusion Models Beat GANS on Image Synthesis.

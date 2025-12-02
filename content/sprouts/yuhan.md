@@ -5,6 +5,7 @@ draft: false
 math: true
 ---
 
+> 为了更好的观看效果，可移步 B 站查看原视频 [点击跳转](https://www.bilibili.com/video/BV1UQywBhEhf)
 
 大家好，我是来自南开大学计算机学院 24 级的张雨函。接下来我将围绕培养科研审美，主要从汇报展示形式的角度，分享一下新芽计划文献汇报的一些经验。
 

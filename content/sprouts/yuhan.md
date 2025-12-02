@@ -12,20 +12,19 @@ math: true
 
 第一个例子，是对研究背景的介绍。在图一中，字体不统一，中英文之间缺少空格，排版显得很拥挤，而且文字内容相对过多，让人捉不住重点。在图二中，精简了部分文字描述，但字体、字号和粗细还是不统一，左右部分布局不协调，整体观感还是有些混乱。而改进后的图三，统一了形式明显就更加整齐美观。
 
-  <img src="https://imgtu.com/uploads/mc9qy40s/r-img_1.webp" />
+
 <div align="center">
+  <img src="https://imgtu.com/uploads/mc9qy40s/r-img_1.webp" />
   图 一
 </div>
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc9t3gpo/r-img_2.webp" />
-  <br>
   图 二
 </div>
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc9wrou9/r-img_3.webp" />
-  <br>
   图 三
 </div>
 
@@ -33,13 +32,11 @@ math: true
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc9zi9ts/r-img_4.webp" />
-  <br>
   图 四
 </div>
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mca2h0i8/r-img_5.webp" />
-  <br>
   图 五
 </div>
 
@@ -47,19 +44,16 @@ math: true
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mca5qncm/r-img_6.webp" />
-  <br>
   图 六
 </div>
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mca8hrxw/r-img_7.webp" />
-  <br>
   图 七
 </div>
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mcabw7lb/r-img_8.webp" />
-  <br>
   图 八
 </div>
 
@@ -67,13 +61,11 @@ math: true
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mcaeojha/r-img_9.webp" />
-  <br>
   图 九
 </div>
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc99cuky/r-img_10.webp" />
-  <br>
   图 十
 </div>
 
@@ -81,7 +73,6 @@ math: true
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc9c6lqr/r-img_11.webp" />
-  <br>
   图 十一
 </div>
 
@@ -91,13 +82,11 @@ math: true
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc9fpjky/r-img_12.webp" />
-  <br>
   图 十二
 </div>
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc9jzgts/r-img_13.webp" />
-  <br>
   图 十三
 </div>
 
@@ -107,7 +96,6 @@ math: true
 
 <div align="center">
   <img src="https://imgtu.com/uploads/mc9mq3th/r-img_14.webp" />
-  <br>
   图 十四
 </div>
 

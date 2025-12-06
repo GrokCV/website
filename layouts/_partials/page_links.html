@@ -198,3 +198,15 @@
   {{ "中文视频" }}
 </a>
 {{ end }}
+
+{{ with $page.Params.url_cn_comics }}
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ "中文漫画" }}
+</a>
+{{ end }}

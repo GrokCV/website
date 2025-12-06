@@ -23,7 +23,7 @@ math: true
 
 接下来，就让哆啦A梦带我们看看 DINOv3 的神奇魔法吧！
 
-![](https://cdn.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/1-background.png)
+![](/comics/DINOv3/fig/1-background.png)
 
 ![2-existingwork.png](https://cdn.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/2-existingwork.png)
 

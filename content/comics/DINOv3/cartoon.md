@@ -24,13 +24,13 @@ math: true
 接下来，就让哆啦A梦带我们看看 DINOv3 的神奇魔法吧！
 ![](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/1-background.png)
 
-![2-existingwork.png](https://github.com/GrokCV/website/blob/master/content/comics/DINOv3/fig/2-existingwork.png?raw=true)
+![2-existingwork.png](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/2-existingwork.png)
 
-![3-method1.png](https://github.com/GrokCV/website/blob/master/content/comics/DINOv3/fig/3-method1.png?raw=true)
+![3-method1.png](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/3-method1.png)
 
-![4-method2.png](https://github.com/GrokCV/website/blob/master/content/comics/DINOv3/fig/4-method2.png?raw=true)
+![4-method2.png](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/4-method2.png)
 
 您的关注是我画下去的动力！想看什么模型 评论区 / 私信 告诉我~
 
-![5-redbook.jpg](https://github.com/GrokCV/website/blob/master/content/comics/DINOv3/fig/5-redbook.jpg?raw=true)
+![5-redbook.jpg](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/5-redbook.jpg)
 

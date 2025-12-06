@@ -22,7 +22,7 @@ math: true
 **💥 不管你是想入行的AI小白，还是想用最快速度过Paper的研究生，这篇漫画都能帮你省下几大把时间！**
 
 接下来，就让哆啦A梦带我们看看 DINOv3 的神奇魔法吧！
-![1-background.png](https://github.com/GrokCV/website/blob/master/content/comics/DINOv3/fig/1-background.png?raw=true)
+![](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/1-background.png)
 
 ![2-existingwork.png](https://github.com/GrokCV/website/blob/master/content/comics/DINOv3/fig/2-existingwork.png?raw=true)
 

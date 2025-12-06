@@ -29,9 +29,9 @@ math: true
 
 ![3-method1.png](https://cdn.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/3-method1.png)
 
-![4-method2.png](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/4-method2.png)
+![4-method2.png](https://cdn.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/4-method2.png)
 
 您的关注是我画下去的动力！想看什么模型 评论区 / 私信 告诉我~
 
-![5-redbook.jpg](https://fastly.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/5-redbook.jpg)
+![5-redbook.jpg](https://cdn.jsdelivr.net/gh/GrokCV/website@master/content/comics/DINOv3/fig/5-redbook.jpg)
 

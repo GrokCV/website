@@ -33,17 +33,17 @@ P4：Case Closed！最强搭档的胜利（柯南：谢了，灰原！） 装备
 
 
 
-![](.\fig\1-begin.png)
+![](/comics/RepPoint/fig/1-begin.png)
 
-![2-method1](.\fig\2-method1.png)
+![2-method1](/comics/RepPoint/2-method1.png)
 
-![3-method2](.\fig\3-method2.png)
+![3-method2](/comics/RepPoint/3-method2.png)
 
-![4-label1](.\fig\4-label1.png)
+![4-label1](/comics/RepPoint/4-label1.png)
 
-![5-label2](.\fig\5-label2.png)
+![5-label2](/comics/RepPoint/5-label2.png)
 
-![6-end](.\fig\6-end.png)
+![6-end](/comics/RepPoint/6-end.png)
 
 
 
@@ -51,4 +51,4 @@ P4：Case Closed！最强搭档的胜利（柯南：谢了，灰原！） 装备
 
 您的关注是我画下去的动力！想看什么模型 评论区 / 私信 告诉我~
 
-![](.\fig\7-redbook.jpg)
+![](/comics/RepPoint/7-redbook.jpg)

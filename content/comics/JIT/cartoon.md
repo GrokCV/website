@@ -43,17 +43,17 @@ Kaiming He 大佬的这项工作给我们带来了新的启示：
 
 ---
 
-![](fig/0-coverpage.png)
+![](/comics/JIT/fig/0-coverpage.png)
 
-![1-backgrond](fig/1-backgrond.png)
+![1-backgrond](/comics/JIT/fig/1-backgrond.png)
 
-![2-compare](fig/2-compare.png)
+![2-compare](/comics/JIT/fig/2-compare.png)
 
-![3-method1](fig/3-method1.png)
+![3-method1](/comics/JIT/fig/3-method1.png)
 
-![4-method2](fig/4-method2.png)
+![4-method2](/comics/JIT/fig/4-method2.png)
 
-![5-end](fig/5-end.png)
+![5-end](/comics/JIT/fig/5-end.png)
 
 ---
 
@@ -61,4 +61,4 @@ Kaiming He 大佬的这项工作给我们带来了新的启示：
 对于 JiT 这种化繁为简的思路，你有什么看法？  
 快在评论区和大家一起像侦探一样推理讨论吧！💬
 
-![6-redbook](fig/6-redbook.jpg)
+![6-redbook](/comics/JIT/fig/6-redbook.jpg)

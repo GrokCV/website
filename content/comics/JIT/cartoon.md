@@ -23,19 +23,19 @@ author：Jingtang Chen
 
 
 
-![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/0-coverpage.png)
+![0-coverpage](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/0-coverpage.png)
 
-![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/1-backgrond.png)
+![1-backgrond](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/1-backgrond.png)
 
-![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/2-compare.png)
+![2-compare](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/2-compare.png)
 
 
 
-![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/3-method1.png)
+![3-method1](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/3-method1.png)
 
-![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/4-method2.png)
+![4-method2](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/4-method2.png)
 
-![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/5-end.png)
+![5-end](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/5-end.png)
 
 觉得这个“柯南破案版”的 AI 科普形象吗？ 对于 JiT 这种化繁为简的思路，你有什么看法？ 快在评论区和大家一起像侦探一样推理讨论吧！💬
 

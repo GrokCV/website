@@ -23,7 +23,7 @@ author：Jingtang Chen
 
 
 
-![0-coverpage](D:\Typora\img\0-coverpage-1765202815159-57.png)
+![0-coverpage](https://gitee.com/grokcv/imgbed/raw/master/comics/JIT/0-coverpage.png)
 
 ![1-backgrond](https://gitee.com/grokcv/imgbed/raw/master/comics/JIT/1-backgrond.png)
 

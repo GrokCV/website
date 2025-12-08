@@ -1,0 +1,47 @@
+---
+title: 真相只有一个！🔍Kaiming He新作JiT深度解读
+date: 2025-12-07T01:50:01Z
+draft: false
+math: true
+author：Jingtang Chen
+
+---
+
+
+
+
+
+🕵️‍♂️ 案件背景：陷入迷雾的真相 想象一下，一个关键的证据现场被彻底炸毁，变成了亿万个漫天飞舞的碎片💥（这就像是AI里的高维像素空间，充满了噪声）。 柯南一开始试图用传统的蛮力逻辑，戴着追踪眼镜，想要计算每一片碎片是被什么力量炸飞的，试图找出“破坏的规律”（噪声 ε）。 结果呢？碎片太多太乱了，随着范围扩大，柯南的大脑直接“宕机”😵！眼镜都报错了。 这就是AI领域常说的“维度灾难”。以前很多复杂的模型架构（比如笨重的U-Net），往往就是在干这种吃力的事情。
+
+👩‍🔬 关键转折：回归本质的洞察 关键时刻，还得是哀酱人间清醒！她一针见血地指出：大侦探，你的方向错了！🙅‍♀️ 在这个混乱的高维空间里，强行计算随机的破坏过程，就像徒手抓空气分子一样难。 灰原哀告诉我们：真相（拼好的完整照片）虽然看起来是由无数像素组成，但它拼好后，其实是非常有序的结构（低维流形）。 我们不应该去纠结碎片是怎么乱飞的，而应该直接去想象、去猜测爆炸前那个完整的证据长什么样！💡
+
+🧠 极简奥义：JiT 的聪明之处 这就是 JiT 这项工作的精髓：大道至简。 它告诉我们，并不一定需要依赖那些复杂的特定架构。JiT 的方案非常简洁： 扔掉复杂的辅助结构，只用一个朴素通用的 Vision Transformer (ViT) 来充当推理大脑。🧠
+
+既然描述“怎么炸乱的”很难，那就让神经网络做它擅长的事——直接猜测终点，也就是猜测“完整的照片”是什么！ 只要猜到了终点（完整的照片），结合现在的起点（混乱的碎片），中间的复原路径（速度场）用简单的公式就能自动算出来了！把难的工作交给AI猜，把烦的工作交给公式算。✨
+
+🌟 真相只有一个 Kaiming He 大佬的这项工作给我们带来了新的启示： 有时候，我们是被海量的混乱信息迷惑了双眼。只要算出的目标正确（直接猜测原图），朴素通用的模型也能实现高性能的生成！ 回归事物的本来面目，这才是科学研究该有的态度呀~ 🧐
+
+
+
+
+
+![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/0-coverpage.png)
+
+![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/1-backgrond.png)
+
+![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/2-compare.png)
+
+
+
+![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/3-method1.png)
+
+![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/4-method2.png)
+
+![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/5-end.png)
+
+觉得这个“柯南破案版”的 AI 科普形象吗？ 对于 JiT 这种化繁为简的思路，你有什么看法？ 快在评论区和大家一起像侦探一样推理讨论吧！💬
+
+
+
+![](https://gitee.com/grokcv/imgbed/blob/master/comics/JIT/6-redbook.jpg)
+

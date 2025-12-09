@@ -27,15 +27,15 @@ author：Jingtang Chen
 
 
 
-![](comics/GFL/fig/1-background.png)
+![](/comics/GFL/fig/1-background.png)
 
-![2-proposed-method](comics/GFL/fig/2-proposed-method.png)
+![2-proposed-method](/comics/GFL/fig/2-proposed-method.png)
 
-![3-QFL](comics/GFL/fig/3-QFL.png)
+![3-QFL](/comics/GFL/fig/3-QFL.png)
 
-![4-DFL](comics/GFL/fig/4-DFL.png)
+![4-DFL](/comics/GFL/fig/4-DFL.png)
 
-![5-end](comics/GFL/fig/5-end.png)
+![5-end](/comics/GFL/fig/5-end.png)
 
 
 

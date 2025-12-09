@@ -45,7 +45,7 @@ Kaiming He 大佬的这项工作给我们带来了新的启示：
 
 ![](/comics/JIT/fig/0-coverpage.png)
 
-![1-backgrond](https://gitee.com/grokcv/imgbed/raw/master/comics/JIT/1-backgrond.png)
+![1-backgrond](/comics/JIT/fig/1-backgrond.png)
 
 ![2-compare](/comics/JIT/fig/2-compare.png)
 

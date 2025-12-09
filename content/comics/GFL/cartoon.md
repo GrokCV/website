@@ -29,7 +29,7 @@ author：Jingtang Chen
 
 ![](comics/GFL/fig/1-background.png)
 
-![2-proposed method](comics/GFL/fig/2-proposed method.png)
+![2-proposed-method](comics/GFL/fig/2-proposed-method.png)
 
 ![3-QFL](comics/GFL/fig/3-QFL.png)
 

@@ -21,7 +21,7 @@ author：Jingtang Chen
 
 ---
 
-觉得这个「柯南破案版」的 AI 科普形象吗？   
+觉得这个「哆啦A梦版」的 AI 科普形象吗？   
 快在评论区和大家一起像侦探一样推理讨论吧！💬
 
 ![5-redbook](/comics/FCOS/fig/6-redbook.jpg)

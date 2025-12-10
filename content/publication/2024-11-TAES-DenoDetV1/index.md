@@ -49,7 +49,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_cn_pdf: ""
+url_cn_pdf: "https://gitee.com/YimianDai/filebed/blob/2881515f07e722067a5bc6978ddad2aac7ccd7f8/DenoDet%EF%BC%9A%E9%9D%A2%E5%90%91%20SAR%20%E5%9B%BE%E5%83%8F%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%9A%84%E5%8F%AF%E5%BD%A2%E5%8F%98%E5%A4%9A%E5%AD%90%E7%A9%BA%E9%97%B4%E7%89%B9%E5%BE%81%E5%8E%BB%E5%99%AA%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%96%B9%E6%B3%95.pdf"
 url_cn_blog: ""
 url_cn_video: ""
 

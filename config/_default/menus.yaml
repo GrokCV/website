@@ -43,18 +43,21 @@ main:
   - name: 漫画
     url: comics
     weight: 120    
+  - name: 照片
+    url: photo
+    weight: 130    
   - name: 视频
     url: event
-    weight: 130
+    weight: 140
   - name: 设备
     url: device
-    weight: 140
+    weight: 150
   - name: 联系
     url: contact
-    weight: 150
+    weight: 160
   - name: 提问
     url: https://github.com/GrokCV/website/discussions
-    weight: 160
+    weight: 170
   # - name: Contact
   #   url: contact
   #   weight: 60

@@ -3,6 +3,8 @@ title: 🤯 灰原使用 RepPoints ，carry 柯南抓住琴酒？
 date: 2025-12-07T01:50:01Z
 draft: false
 math: true
+authors:
+  - Jingtang Chen
 ---
 
 作者：陈竟镗

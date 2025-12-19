@@ -3,6 +3,8 @@ title: 把GFL论文画成柯南漫画？这脑洞我服了！
 date: 2025-12-09T22:48:01Z
 draft: false
 math: true
+authors:
+  - Jingtang Chen
 ---
 
 author：Jingtang Chen

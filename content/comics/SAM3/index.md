@@ -3,6 +3,8 @@ title:  柯哀带你 玩转 MetaAI 新工作 SAM3
 date: 2025-12-11T20:00:01Z
 draft: false
 math: true
+authors:
+  - Jingtang Chen
 ---
 
 

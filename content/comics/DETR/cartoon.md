@@ -3,9 +3,9 @@ title: 看哪吒如何用DETR降伏妖怪！
 date: 2025-12-10T15:48:01Z
 draft: false
 math: true
+authors:
+  - Jingtang Chen
 ---
-
-author：Jingtang Chen
 
 
 

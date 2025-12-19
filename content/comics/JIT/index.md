@@ -3,6 +3,8 @@ title: 真相只有一个！🔍Kaiming He新作JiT深度解读
 date: 2025-12-07T01:50:01Z
 draft: false
 math: true
+authors:
+  - Jingtang Chen
 ---
 
 author：Jingtang Chen

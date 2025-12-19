@@ -3,6 +3,8 @@ title: 🤯 拒绝头秃！一篇漫画读懂CV顶会大魔王 DINOv3：Meta视�
 date: 2025-11-26T01:50:01Z
 draft: false
 math: true
+authors:
+  - Jingtang Chen
 ---
 
 作者：陈竟镗

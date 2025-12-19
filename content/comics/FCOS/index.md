@@ -1,15 +1,11 @@
 ---
-title: 哆啦A梦竟然在教我 FCOS
+title: 🤯 哆啦A梦竟然在教我 FCOS
 date: 2025-12-10T15:50:01Z
 draft: false
 math: true
 authors:
   - Jingtang Chen
 ---
-
-author：Jingtang Chen
-
-
 
 ![](/comics/FCOS/fig/1-background.png)
 

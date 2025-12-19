@@ -1,15 +1,11 @@
 ---
-title: 把GFL论文画成柯南漫画？这脑洞我服了！
+title: 🤯 把GFL论文画成柯南漫画？这脑洞我服了！
 date: 2025-12-09T22:48:01Z
 draft: false
 math: true
 authors:
   - Jingtang Chen
 ---
-
-author：Jingtang Chen
-
-
 
 家人们，谁懂啊！竟然看到柯南在VR世界里做射击训练，而且教官居然是灰原哀？！🤯
 

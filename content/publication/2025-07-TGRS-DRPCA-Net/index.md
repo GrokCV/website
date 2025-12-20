@@ -53,7 +53,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-ICCV-DISTA-Net-CN-Translation.pdf"
+url_cn_pdf: "https://gitee.com/YimianDai/filebed/blob/master/translation/2025-TGRS-DRPCA-Net-CN-Translation.pdf"
 url_cn_blog: "https://grokcv.ai/blog/drpca-net/drpca-net/"
 url_cn_video: "https://www.bilibili.com/video/BV1Sy4uztE2G"
 

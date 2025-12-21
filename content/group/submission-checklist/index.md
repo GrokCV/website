@@ -1,6 +1,6 @@
 ---
 title: GrokCV 学术生存手册（5）：投稿核对清单
-date: 2025-8-7
+date: 2025-8-8
 draft: false
 math: true
 authors: 
@@ -142,5 +142,6 @@ authors:
 
 
 愿我们每一份深思熟虑的投稿，都能抵达它应有的归宿。
+
 
 

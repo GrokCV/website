@@ -22,7 +22,7 @@ authors:
 📝 总结： 这波技术升级，让开源模型在复杂任务处理上又上了一个台阶。对于想要做复杂Agent开发的朋友，真的值得guan注一波！#深度学习 #计算机视觉 #大模型  #研究生 #人工智能 #哆啦A梦
 
 
-![](/comics/InternVL3.5/fig/1-total.png)
+![](/comics/INTERNVL/fig/1-total.png)
 
 
 
@@ -31,4 +31,4 @@ authors:
 
 您的关注是我画下去的动力！想看什么模型 评论区 / 私信 告诉我~
 
-![2-redbook](/comics/InternVL3.5/fig/2-redbook.jpg)
+![2-redbook](/comics/INTERNVL/fig/2-redbook.jpg)

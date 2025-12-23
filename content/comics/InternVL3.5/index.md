@@ -31,4 +31,4 @@ authors:
 
 您的关注是我画下去的动力！想看什么模型 评论区 / 私信 告诉我~
 
-![](/comics/InternVL3.5/fig/2-redbook.jpg)
+![readbook](/comics/InternVL3.5/fig/2-redbook.jpg)

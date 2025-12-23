@@ -69,28 +69,28 @@ SAM 3 的强大，是因为它会自己学习和成长！
 
 ​                                                               
 
-![1-background](/comics/JIT/fig/1-background.jpg)
+![1-background](/comics/SAM3/fig/1-background.jpg)
 
-![2-relatedwork](/comics/JIT/fig/2-relatedwork.jpg)
+![2-relatedwork](/comics/SAM3/fig/2-relatedwork.jpg)
 
-![3-exist](/comics/JIT/fig/3-exist.jpg)
+![3-exist](/comics/SAM3/fig/3-exist.jpg)
 
-![4-expert](/comics/JIT/fig/4-expert.jpg)
+![4-expert](/comics/SAM3/fig/4-expert.jpg)
 
-![5-mds](/comics/JIT/fig/5-mds.jpg)
+![5-mds](/comics/SAM3/fig/5-mds.jpg)
 
-![6-why-engine](/comics/JIT/fig/6-why-engine.jpg)
+![6-why-engine](/comics/SAM3/fig/6-why-engine.png)
 
-![7-process](/comics/JIT/fig/7-process.png)
-
-
-
-![8-stages](/comics/JIT/fig/8-stages.png)
-
-![9-syndata](/comics/JIT/fig/9-syndata.png)
-
-![10-end](/comics/JIT/fig/10-end.png)
+![7-process](/comics/SAM3/fig/7-process.png)
 
 
 
-![11-redbook](/comics/JIT/fig/6-redbook.jpg)
+![8-stages](/comics/SAM3/fig/8-stages.png)
+
+![9-syndata](/comics/SAM3/fig/9-syndata.png)
+
+![10-end](/comics/SAM3/fig/10-end.png)
+
+
+
+![11-redbook](/comics/SAM3/fig/11-redbook.jpg)

@@ -43,7 +43,7 @@ authors:
 
 - **我本人相关的项目**：
   - 国家自然科学基金青年基金 (National Natural Science Foundation of China, No. 62301261, 2024.01-2026.12)
-  - 天津市自然科学基金青年项目 (Natural Science Foundation of Tianjin, No. 25JCQNJC01370, 2025.04-2027.03)
+  - 天津市自然科学基金青年项目 (Tianjin Natural Science Foundation Project, No. 25JCQNJC01370, 2025.04-2027.03)
 - **程明明老师相关的项目**：
   - 国家自然科学基金杰出青年科学基金项目 (National Science Fund for Distinguished Young Scholars, No. 62225604, 2023.01-2027.12)
   - 深圳市面上 (Shenzhen Science and Technology Program, No. JCYJ20240813114237048, 2024.11-2027.11)
@@ -59,7 +59,7 @@ authors:
 
 **英文版标准格式示例（请根据实际情况组合）：**
 
-> This work was supported by the National Science Foundation of China (No. 62301261, No. 62225604, No. U24A20330), the Natural Science Foundation of Tianjin (No. 25JCQNJC01370), the Shenzhen Science and Technology Program (No. JCYJ20240813114237048), and the Supercomputing Center of Nankai University (NKSC).
+> This work was supported by the National Science Foundation of China (No. 62301261, No. 62225604, No. U24A20330), the Tianjin Natural Science Foundation Project (No. 25JCQNJC01370), the Shenzhen Science and Technology Program (No. JCYJ20240813114237048), and the Supercomputing Center of Nankai University (NKSC).
 
 **中文版标准格式示例（请根据实际情况组合）：**
 
@@ -140,6 +140,10 @@ authors:
 
 当所有这些项目都打上勾时，我们便可以怀着平静的信心，按下那个按钮。然后，坦然地将我们的工作，交给时间与同行。
 
-
-
 愿我们每一份深思熟虑的投稿，都能抵达它应有的归宿。
+
+## 日志
+
+- 2025.12.24：更新天津市自然科学基金资助项目的中英文表述；
+
+

@@ -13,9 +13,9 @@ math: true
 
 二维码：
 
-![](/contact/camp-visit/fig/camp_apply_code.png)
+![](/contact/campus-visit/fig/camp_apply_code.png)
 
 申请界面如下，**联系人请填我的名字**。如果预留时间不够，提交申请后可以告诉我，我去催相应的领导加紧审批：
 
-![](/contact/camp-visit/fig/camp_apply_form.png)
+![](/contact/campus-visit/fig/camp_apply_form.png)
 

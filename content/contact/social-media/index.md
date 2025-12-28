@@ -5,4 +5,4 @@ draft: false
 math: true
 ---
 
-![](https://gitee.com/grokcv/imgbed/raw/master/contact/social-media/grokcv-social-media.png)
+![](/contact/social-media/fig/grokcv-social-media.png)

@@ -1,14 +1,13 @@
+---
+title: 🤯大模型太难？这篇柯哀漫画把LoRA讲明白了
+date: 2025-12-31T22:48:01Z
+draft: false
+math: true
+authors:
+  - Jingtang Chen
+---
 
 
-🤯大模型太难？这篇柯哀漫画把LoRA讲明白了
-
-
-
-### 选项一：趣味剧情向（侧重柯南IP与故事性）
-
-**标题：🕵️‍♂️破案了！柯南训练AI显存爆炸？灰原哀：呵，天真！**
-
-**正文：**
 
 真相（和效率）只有一个！👆
 
@@ -28,14 +27,16 @@
 
 
 
-![](D:\科研\GrokCV\website\content\comics\LoRA\fig\1.png)
+![](/comics/LoRA/fig1.png)
 
-![Gemini_Generated_Image_6snhhq6snhhq6snh](D:\科研\GrokCV\website\content\comics\LoRA\fig\2.png)
+![2](/comics/LoRA/fig/2.png)
 
-![Gemini_Generated_Image_d1vfaid1vfaid1vf](D:\科研\GrokCV\website\content\comics\LoRA\fig\3.png)
+![3](/comics/LoRA/fig/3.png)
 
-![Gemini_Generated_Image_d1vfaid1vfaid1vf](D:\科研\GrokCV\website\content\comics\LoRA\fig\4.png)
+![4](/comics/LoRA/fig/4.png)
 
-![Gemini_Generated_Image_2gejbw2gejbw2gej](D:\科研\GrokCV\website\content\comics\LoRA\fig\5.png)
+![5](/comics/LoRA/fig/5.png)
 
-![Gemini_Generated_Image_sqhas1sqhas1sqha](D:\科研\GrokCV\website\content\comics\LoRA\fig\6.png)
+![6](/comics/LoRA/fig/6.png)
+
+![7-redbook](/comics/LoRA/fig/7-redbook.jpg)

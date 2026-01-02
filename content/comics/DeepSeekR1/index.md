@@ -1,5 +1,5 @@
 ---
-title: 🤯 柯哀带你学会 DeepSeek 核心技术原理
+title: 🤯 柯哀带你学会 DeepSeekR1 核心技术原理
 date: 2025-12-31T22:48:01Z
 draft: false
 math: true

@@ -28,7 +28,7 @@ authors:
 
 
 
-![](/comics/LoRA/fig1.png)
+![](/comics/LoRA/fig/1.png)
 
 ![2](/comics/LoRA/fig/2.png)
 

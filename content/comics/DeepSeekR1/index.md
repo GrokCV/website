@@ -12,7 +12,7 @@ authors:
 
 ![](/comics/DeepSeekR1/fig/1.png)
 
-![2](/comics/DeepSeekR1/fig/2.pdf)
+![2](/comics/DeepSeekR1/fig/2.png)
 
 
 ![3](/comics/DeepSeekR1/fig/3.png)

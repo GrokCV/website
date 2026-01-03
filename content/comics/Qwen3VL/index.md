@@ -30,6 +30,15 @@ authors:
 
 ![10](/comics/Qwen3VL/fig/10.jpg)
 
-![11](/comics/Qwen3VL/fig/11.jpg)
+**下面是 本工作核心算法 SAPO 的介绍**
 
+![11](/comics/Qwen3VL/fig/11.png)
+
+![12](/comics/Qwen3VL/fig/12.png)
+
+![13](/comics/Qwen3VL/fig/13.png)
+
+![14](/comics/Qwen3VL/fig/14.png)
+
+![15](/comics/Qwen3VL/fig/15.jpg)
 

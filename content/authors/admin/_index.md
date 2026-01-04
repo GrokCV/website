@@ -7,7 +7,7 @@ first_name: Yimian
 last_name: Dai
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Associate Professor

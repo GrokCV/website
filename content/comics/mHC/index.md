@@ -1,3 +1,14 @@
+---
+title: 🤯DeepSeek 2026 开年王炸 mHC
+date: 2025-01-05T22:48:01Z
+draft: false
+math: true
+authors:
+  - Jingtang Chen
+---
+
+
+
 ![](/comics/mHC/fig/1.png)
 
 ![2](/comics/mHC/fig/2.png)
@@ -12,6 +23,6 @@
 
 ![7](/comics/mHC/fig/7.png)
 
-![8](D:\科研\website\content\comics\mHC\fig\8.png)
+![8](/comics/mHC/fig/8.png)
 
-![9](D:\科研\website\content\comics\mHC\fig\9.png)
+![9](/comics/mHC/fig/9.png)

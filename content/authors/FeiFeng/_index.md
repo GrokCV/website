@@ -83,6 +83,6 @@ user_groups:
   - PhD Student
 ---
 
-Fei Feng (冯飞) received the B.Eng. degree from the South-Central Minzu University, Wuhan, China, in 2016, and the M.Eng. degree in the School of Information, GuiZhou University of Finance and Economics, Guizhou, China, in 2020. He is currently pursuing a Ph.D. degree in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology, supervised by [Prof. Xiangbo Shu](https://shuxb104.github.io/) and  [Prof. Yimian Dai](https://grokcv.ai/). His research interests include trajectory prediction, behavior recognition, and spatiotemporal action detection for aerial infrared small targets.
+Fei Feng (冯飞) received the B.Eng. degree from the South-Central Minzu University, Wuhan, China, in 2016, and the M.Eng. degree in the School of Information, GuiZhou University of Finance and Economics, Guizhou, China, in 2020. He is currently pursuing a Ph.D. degree in Computer Science and Technology at the School of Computer Science and Engineering, Nanjing University of Science and Technology, supervised by [Prof. Xiangbo Shu](https://shuxb104.github.io/) and  [Prof. Yimian Dai](https://grokcv.site/). His research interests include trajectory prediction, behavior recognition, and spatiotemporal action detection for aerial infrared small targets.
 {style="text-align: justify;"}
 

@@ -43,7 +43,7 @@ url_code: 'https://github.com/GrokCV/AuxDet'
 url_pdf: 'https://arxiv.org/pdf/2505.15184'
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Yangting/AuxDet_PPT_v3.pdf'
 url_video: 'https://www.bilibili.com/video/BV1vJKNziETM/?spm_id_from=333.1387.search.video_card.click&vd_source=5b66d51572684bf20b6c5cab3c032112'
-url_cn_blog: "https://grokcv.ai/blog/auxdet/"
+url_cn_blog: "https://grokcv.site/blog/auxdet/"
 url_cn_video: "https://www.bilibili.com/video/BV1vJKNziETM"
 
 # Markdown Slides (optional).

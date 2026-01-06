@@ -77,8 +77,8 @@ user_groups:
   - Undergraduate
 ---
 
-Siyu Chen (陈思予) is currently pursuing his Bachelor's degree in Information Security at Beijing University of Technology. He is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.ai/).
+Siyu Chen (陈思予) is currently pursuing his Bachelor's degree in Information Security at Beijing University of Technology. He is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/).
 
-Beginning in September 2026, he will pursue his Master's degree at the College of Computer Science, Nankai University, under the supervision of [Prof. Mingming Cheng](https://mmcheng.net/cmm/) and [Prof. Yimian Dai](https://grokcv.ai/). His research interests include infrared small target detection and object tracking under adverse conditions.
+Beginning in September 2026, he will pursue his Master's degree at the College of Computer Science, Nankai University, under the supervision of [Prof. Mingming Cheng](https://mmcheng.net/cmm/) and [Prof. Yimian Dai](https://grokcv.site/). His research interests include infrared small target detection and object tracking under adverse conditions.
 {style="text-align: justify;"}
 

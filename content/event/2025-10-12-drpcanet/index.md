@@ -54,7 +54,7 @@ url_pdf: "https://arxiv.org/pdf/2507.09541"
 url_video: 'https://www.bilibili.com/video/BV1Sy4uztE2G'
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Zihao/DRPCA-Net_%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D.pdf'
 url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-TGRS-DRPCA-Net-CN-Translation.pdf"
-url_cn_blog: "https://grokcv.ai/blog/drpca-net/drpca-net/"
+url_cn_blog: "https://grokcv.site/blog/drpca-net/drpca-net/"
 url_cn_video: "https://www.bilibili.com/video/BV1Sy4uztE2G"
 
 # Markdown Slides (optional).

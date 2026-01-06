@@ -71,6 +71,6 @@ user_groups:
   - Master Student
 ---
 
-Zimeng Li (李梓萌) received the B.Eng. degree from Nanjing University of Science and Technology, Nanjing, China, in 2024. She is currently pursuing a M.Eng. degree in Electronic and Information Engineering, Southeast University, supervised by [Prof. Wankou Yang](https://automation.seu.edu.cn/ywk/list.htm) and  [Prof. Yimian Dai](https://grokcv.ai/). She research interests underwater object detection.
+Zimeng Li (李梓萌) received the B.Eng. degree from Nanjing University of Science and Technology, Nanjing, China, in 2024. She is currently pursuing a M.Eng. degree in Electronic and Information Engineering, Southeast University, supervised by [Prof. Wankou Yang](https://automation.seu.edu.cn/ywk/list.htm) and  [Prof. Yimian Dai](https://grokcv.site/). She research interests underwater object detection.
 {style="text-align: justify;"}
 

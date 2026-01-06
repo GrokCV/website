@@ -80,6 +80,6 @@ user_groups:
   - Master Student
 ---
 
-Yangting Shi (史杨婷) is currently pursuing a Master’s degree in the School of Electronics and Information at Northwestern Polytechnical University, where she also completed her undergraduate studies. She is also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.ai/). Her research interests primarily focus on infrared small target detection.
+Yangting Shi (史杨婷) is currently pursuing a Master’s degree in the School of Electronics and Information at Northwestern Polytechnical University, where she also completed her undergraduate studies. She is also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/). Her research interests primarily focus on infrared small target detection.
 
 {style="text-align: justify;"}

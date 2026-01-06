@@ -79,5 +79,5 @@ user_groups:
 
 Zhe Chen (陈哲) is currently pursuing a Bachelor's degree in digital media technology at Shandong University of Finance and Economics.
 
-Beginning in September 2026, he will pursue an academic master's degree in the School of Computer Science, Nankai University, under the supervision of [Prof. Yimian Dai](https://grokcv.ai/). His research interests include infrared small target detection and detection-oriented image generation.
+Beginning in September 2026, he will pursue an academic master's degree in the School of Computer Science, Nankai University, under the supervision of [Prof. Yimian Dai](https://grokcv.site/). His research interests include infrared small target detection and detection-oriented image generation.
 {style="text-align: justify;"}

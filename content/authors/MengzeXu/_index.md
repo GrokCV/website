@@ -77,6 +77,6 @@ user_groups:
   - Master Student
 ---
 
-Mengze Xu (许孟泽) received the B.Eng. degree from Beijing Foreign Studies University, Beijing, China, in 2024. He is currently pursuing a M.Eng. degree in Computer Science and Technology at VCIP, Nankai University, supervised by [Prof. Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en) and  [Prof. Yimian Dai](https://grokcv.ai/). His research interests include event camera and infrared small target detection.
+Mengze Xu (许孟泽) received the B.Eng. degree from Beijing Foreign Studies University, Beijing, China, in 2024. He is currently pursuing a M.Eng. degree in Computer Science and Technology at VCIP, Nankai University, supervised by [Prof. Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en) and  [Prof. Yimian Dai](https://grokcv.site/). His research interests include event camera and infrared small target detection.
 {style="text-align: justify;"}
 

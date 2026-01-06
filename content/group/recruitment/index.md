@@ -12,7 +12,7 @@ authors:
 #   placement: 2
 #   caption: '[](https://github.com/GrokCV/imgbed/blob/master/blog/AuxDet/author.png?raw=true)'
 ---
-<!-- 更好的阅读体验，请访问 <https://grokcv.ai/grokcv/recruitment/>. -->
+<!-- 更好的阅读体验，请访问 <https://grokcv.site/grokcv/recruitment/>. -->
 
 ## 1 综合介绍
 
@@ -24,8 +24,8 @@ authors:
 
 目前，他（协助）指导的硕士毕业生已有 3 位，两位跟随国家杰青攻读博士学位，一位入职中电 14 所总体部，并有两位同学获得 2024 年度研究生国家奖学金，另有一位双非大三同学在他的指导下在遥感领域顶刊 TGRS 以独立一作发表论文一篇。
 
-- 小组主页：<https://grokcv.ai>
-- 小组成员：<https://grokcv.ai/people>
+- 小组主页：<https://grokcv.site>
+- 小组成员：<https://grokcv.site/people>
 - 开源代码：<https://github.com/GrokCV>
 - B 站主页：<https://space.bilibili.com/833564>
 - 谷歌学术：<https://scholar.google.com/citations?user=y5Ov6VAAAAAJ>
@@ -71,7 +71,7 @@ authors:
 
 ### 3.2 学生信息
 
-本小组成员页面为 <https://grokcv.ai/people/>，包含本小组成员的微信、邮箱。对本小组感兴趣的同学建议先咨询本组同学，了解本小组科研风格之后再决定是否报考。
+本小组成员页面为 <https://grokcv.site/people/>，包含本小组成员的微信、邮箱。对本小组感兴趣的同学建议先咨询本组同学，了解本小组科研风格之后再决定是否报考。
 
 目前，本人（协助）指导的**所有同学均高校深造或从事算法岗**，已毕业 3 名硕士研究生，升学/就业情况如下：
 

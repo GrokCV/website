@@ -54,7 +54,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 url_cn_pdf: ""
-url_cn_blog: "https://grokcv.ai/blog/rpcanet/rpcanet++/"
+url_cn_blog: "https://grokcv.site/blog/rpcanet/rpcanet++/"
 url_cn_video: ""
 
 image:

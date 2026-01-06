@@ -10,7 +10,7 @@ date: 2025-06-26
 为此，圣东提出首个专门针对该任务的深度学习模型 **DISTA-Net**，创新性地引入**动态卷积权重与自适应阈值机制**，使网络能根据输入内容实时调整重建过程，显著提升亚像素级目标的分离与检测精度。更难得的是，该工作同步构建了**首个面向密集红外小目标的开源生态**，包括 **CSIST-100K 数据集**、**CSO-mAP 评估指标** 与 **GrokCSO 工具包**，形成从数据、模型到评估的完整闭环。
 
 📄 [PDF](https://arxiv.org/pdf/2505.19148) ｜ 💻 [代码 & 数据集](https://github.com/GrokCV/GrokCSO) ｜ 📝 [幻灯片](https://github.com/YimianDai/public/blob/master/poster/2025-ICCV-DISTA-Net-Poster.pdf) ｜ 
-🎥 [视频讲解](https://www.bilibili.com/video/BV1d8tPzxESh/) ｜ 📚 [中文解读](https://grokcv.ai/blog/dista-net/) ｜ 📄 [论文翻译](https://github.com/YimianDai/public/blob/master/translation/2025-ICCV-DISTA-Net-CN-Translation.pdf)
+🎥 [视频讲解](https://www.bilibili.com/video/BV1d8tPzxESh/) ｜ 📚 [中文解读](https://grokcv.site/blog/dista-net/) ｜ 📄 [论文翻译](https://github.com/YimianDai/public/blob/master/translation/2025-ICCV-DISTA-Net-CN-Translation.pdf)
 
 看到圣东在学术道路上的坚持与成长，我由衷地为他感到骄傲。作为一名本硕均来自双非院校的学生，他始终保持着对科研的热忱与专注，最终以第一作者身份在计算机视觉顶会ICCV 2025上发表论文，这份成绩是对他长期努力最好的肯定。
 

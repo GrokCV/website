@@ -77,8 +77,8 @@ user_groups:
   - Undergraduate
 ---
 
-Dianfang Sun (孙殿芳) is currently pursuing her Bachelor's degree in Software Engineering at Xinjiang University. She is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.ai/).
+Dianfang Sun (孙殿芳) is currently pursuing her Bachelor's degree in Software Engineering at Xinjiang University. She is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/).
 
-Beginning in September 2026, she will pursue her Master's degree at the College of Computer Science, Nankai University, where she will be supervised by [Prof. Yimian Dai](https://grokcv.ai/). Her research interests include infrared small target detection, tracking, and unmixing.
+Beginning in September 2026, she will pursue her Master's degree at the College of Computer Science, Nankai University, where she will be supervised by [Prof. Yimian Dai](https://grokcv.site/). Her research interests include infrared small target detection, tracking, and unmixing.
 {style="text-align: justify;"}
 

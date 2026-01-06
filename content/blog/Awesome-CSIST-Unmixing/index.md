@@ -160,5 +160,5 @@ authors:
 
 ## 相关研究团队
 
--   **[GrokCV](https://yimian.grokcv.ai/)** - [南开大学](https://www.nankai.edu.cn/) - *由戴一冕副教授领导。长期致力于红外弱小目标检测和遥感多模态视觉感知。*
+-   **[GrokCV](https://yimian.grokcv.site/)** - [南开大学](https://www.nankai.edu.cn/) - *由戴一冕副教授领导。长期致力于红外弱小目标检测和遥感多模态视觉感知。*
 

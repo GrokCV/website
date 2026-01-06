@@ -77,8 +77,8 @@ user_groups:
   - Undergraduate
 ---
 
-Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at Henan University of Technology. He is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.ai/).
+Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at Henan University of Technology. He is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/).
 
-Beginning in September 2026, he will pursue his Ph.D. degree at the School of Computer Science and Engineering, Nanjing University of Science and Technology, where he will be co-supervised by [Prof. Xiangbo Shu](https://shuxb104.github.io/) and [Prof. Yimian Dai](https://grokcv.ai/). His research interests include infrared small target detection, tracking, and unmixing.
+Beginning in September 2026, he will pursue his Ph.D. degree at the School of Computer Science and Engineering, Nanjing University of Science and Technology, where he will be co-supervised by [Prof. Xiangbo Shu](https://shuxb104.github.io/) and [Prof. Yimian Dai](https://grokcv.site/). His research interests include infrared small target detection, tracking, and unmixing.
 {style="text-align: justify;"}
 

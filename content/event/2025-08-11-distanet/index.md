@@ -45,7 +45,7 @@ url_pdf: 'https://arxiv.org/abs/2505.19148'
 url_slides: 'https://github.com/GrokCV/Slides/blob/master/Shengdong/DISTA-Net%E6%8E%A8%E5%B9%BF.pdf'
 url_video: 'https://www.bilibili.com/video/BV1d8tPzxESh/?spm_id_from=333.337.search-card.all.click'
 url_cn_pdf: "https://github.com/YimianDai/public/blob/master/translation/2025-ICCV-DISTA-Net-CN-Translation.pdf"
-url_cn_blog: "https://grokcv.ai/blog/dista-net/"
+url_cn_blog: "https://grokcv.site/blog/dista-net/"
 url_cn_video: "https://www.bilibili.com/video/BV1d8tPzxESh/"
 
 # Markdown Slides (optional).

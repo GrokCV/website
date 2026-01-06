@@ -73,4 +73,4 @@ user_groups:
   - Undergraduate
 ---
 
-[Jingtang Chen (陈竟镗)](https://jtchen-ai.github.io/) is an undergraduate student majoring in software engineering at Fuzhou University (FZU), under the guidance of [Prof. Mingjian Fu](https://csip.fzu.edu.cn/?page_id=787) from FZU and [Prof. Yimian Dai](https://grokcv.ai/) from Nankai University. His research interests include dense object detection, large-scale image detection and inference, and clustered object detection.
+[Jingtang Chen (陈竟镗)](https://jtchen-ai.github.io/) is an undergraduate student majoring in software engineering at Fuzhou University (FZU), under the guidance of [Prof. Mingjian Fu](https://csip.fzu.edu.cn/?page_id=787) from FZU and [Prof. Yimian Dai](https://grokcv.site/) from Nankai University. His research interests include dense object detection, large-scale image detection and inference, and clustered object detection.

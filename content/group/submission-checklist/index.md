@@ -52,6 +52,7 @@ authors:
 - **程明明老师相关的项目**：
   - 国家自然科学基金杰出青年科学基金项目 (National Science Fund for Distinguished Young Scholars, No. 62225604, 2023.01-2027.12)
   - 深圳市面上 (Shenzhen Science and Technology Program, No. JCYJ20240813114237048, 2024.11-2027.11)
+  - 中央高校基本科研业务费项目 (Fundamental Research Funds for the Central Universities, No. 070-63253217)
 - **杨健老师相关的项目**：
   - 国家自然科学基金联合基金重点项目 (Key Program of the Joint Fund of the National Natural Science Foundation of China, No. U24A20330, 2025.01-2028.12)
   - 国家自然科学基金国际(地区)合作与交流项目 (International (Regional) Cooperation and Exchange Program of the National Natural Science Foundation of China, No. 62361166670, 2024.01-2026.12)
@@ -64,11 +65,11 @@ authors:
 
 **英文版标准格式示例（请根据实际情况组合）：**
 
-> This work was supported by the National Science Foundation of China (No. 62301261, No. 62225604, No. U24A20330), the Tianjin Natural Science Foundation Project (No. 25JCQNJC01370), the Shenzhen Science and Technology Program (No. JCYJ20240813114237048), and the Supercomputing Center of Nankai University (NKSC).
+> This work was supported by the National Science Foundation of China (No. 62301261, No. 62225604, No. U24A20330), the Tianjin Natural Science Foundation Project (No. 25JCQNJC01370), the Shenzhen Science and Technology Program (No. JCYJ20240813114237048), the Fundamental Research Funds for the Central Universities (No. 070-63253217), and the Supercomputing Center of Nankai University (NKSC).
 
 **中文版标准格式示例（请根据实际情况组合）：**
 
-> 本研究工作由国家自然科学基金杰出青年科学基金项目（62225604）、国家自然科学基金（62301261、U24A20330）、天津市自然科学基金资助项目（25JCQNJC01370）、深圳市科技计划（JCYJ20240813114237048）以及南开大学超算中心支持。
+> 本研究工作由国家自然科学基金杰出青年科学基金项目（62225604）、国家自然科学基金（62301261、U24A20330）、天津市自然科学基金资助项目（25JCQNJC01370）、深圳市科技计划（JCYJ20240813114237048）、中央高校基本科研业务费（070-63253217）以及南开大学超算中心支持。
 
 ## 二、内容与写作：专业主义的细节
 
@@ -150,5 +151,6 @@ authors:
 ## 日志
 
 - 2025.12.24：更新天津市自然科学基金资助项目的中英文表述；
+
 
 

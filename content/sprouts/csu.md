@@ -30,7 +30,7 @@ math: true
 
 伪装场景理解不仅是最具挑战的视觉任务之一，它更代表着**跨学科与跨时代的交汇点**：融合了计算机视觉、认知科学、模式识别与跨模态感知。破解这道“最隐秘的视觉谜题”，意味着人类正在让智能系统迈向更深层次的洞察。
 
-![](https://imgtu.com/zh/upload/wi336c52/pasted-2025-09-20t18-59-18-193z)
+![](https://pic1.imgdb.cn/item/6980567b44480b1676514d40.png)
 
 ▲伪装目标分割和其他分割任务的差别。
 
@@ -193,6 +193,8 @@ Edge Reconstruction（CVPR 2023）
 12. [PraNet-V2](https://arxiv.org/pdf/2504.10986)：PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation（ArXiv 2025）
 - 描述：通过双重监督来更有效地识别和分割难以区分的病灶区域。
 
+13. [CaMF](https://arxiv.org/abs/2410.16953): Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations (TPAMI 2025)
+- 描述：通过利用伪装物体的内在特征来实现零样本分割
 
 **基于视频的伪装场景理解**
 
@@ -209,6 +211,9 @@ Edge Reconstruction（CVPR 2023）
 
 2. [RUN++](https://arxiv.org/pdf/2508.15027?): Reversible Unfolding Network for Concealed Visual Perception with Generative Refinement (ArXiv 2025)
 - 描述：RUN的增强版，结合生成式细化，使分割结果更完整准确。
+
+3. [MMCSBench](https://openreview.net/pdf?id=dJnzFlPUuO): MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes (NeurIPS 2025)
+- 描述：一个针对多模态大模型的细粒度的伪装场景数据集
 
 ***
 

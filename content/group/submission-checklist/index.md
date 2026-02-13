@@ -65,11 +65,11 @@ authors:
 
 **英文版标准格式示例（请根据实际情况组合）：**
 
-> This work was supported by the National Science Foundation of China (No. 62301261, No. 62225604, No. U24A20330), the Tianjin Natural Science Foundation Project (No. 25JCQNJC01370), the Shenzhen Science and Technology Program (No. JCYJ20240813114237048), the Fundamental Research Funds for the Central Universities (No. 070-63253217), and the Supercomputing Center of Nankai University (NKSC).
+> This work was supported by the National Science Foundation of China (No. 62301261, No. 62225604, No. U24A20330, No. 62361166670), the Tianjin Natural Science Foundation Project (No. 25JCQNJC01370), the Shenzhen Science and Technology Program (No. JCYJ20240813114237048), the Fundamental Research Funds for the Central Universities (No. 070-63253217), and the Supercomputing Center of Nankai University (NKSC).
 
 **中文版标准格式示例（请根据实际情况组合）：**
 
-> 本研究工作由国家自然科学基金杰出青年科学基金项目（62225604）、国家自然科学基金（62301261、U24A20330）、天津市自然科学基金资助项目（25JCQNJC01370）、深圳市科技计划（JCYJ20240813114237048）、中央高校基本科研业务费（070-63253217）以及南开大学超算中心支持。
+> 本研究工作由国家自然科学基金杰出青年科学基金项目（62225604）、国家自然科学基金项目（62301261, U24A20330, 62361166670）、天津市自然科学基金资助项目（25JCQNJC01370）、深圳市科技计划（JCYJ20240813114237048）、中央高校基本科研业务费（070-63253217）以及南开大学超算中心支持。
 
 ## 二、内容与写作：专业主义的细节
 

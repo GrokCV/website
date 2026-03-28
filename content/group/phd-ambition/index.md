@@ -1,5 +1,5 @@
 ---
-title: GrokCV 学术生存手册（3）：博士的目标
+title: GrokCV 学术生存手册（4）：博士的目标
 date: 2025-08-08
 draft: false
 math: true

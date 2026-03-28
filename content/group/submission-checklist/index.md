@@ -1,5 +1,5 @@
 ---
-title: GrokCV 学术生存手册（5）：投稿核对清单
+title: GrokCV 学术生存手册（6）：投稿核对清单
 date: 2025-08-08
 draft: false
 math: true

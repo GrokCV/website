@@ -11,7 +11,7 @@ superuser: false
 
 
 # Role/position
-role: Object Detection
+role: Engineer @ Pinduoduo
 
 # Organizations/Affiliations
 organizations:
@@ -77,9 +77,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Student
+  - Alumni
 ---
 
-Yangting Shi (史杨婷) is currently pursuing a Master’s degree in the School of Electronics and Information at Northwestern Polytechnical University, where she also completed her undergraduate studies. She is also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/). Her research interests primarily focus on infrared small target detection.
+Yangting Shi (史杨婷) received the Master’s degree in the School of Electronics and Information at Northwestern Polytechnical University, where she also completed her undergraduate studies. She was also a research intern at VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/). Her research interests primarily focused on infrared small target detection.
+Now she is an algorithm enigneer at Pinduoduo.
 
 {style="text-align: justify;"}

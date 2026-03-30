@@ -25,7 +25,6 @@ bio: My research interests include infrared small target detection and computer 
 
 interests:
   - Infrared Small Target Detection
-
   - Computer Vision
 
 education:

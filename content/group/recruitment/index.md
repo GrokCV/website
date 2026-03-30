@@ -16,7 +16,7 @@ authors:
 
 ## 1 综合介绍
 
-戴一冕，南开大学计算机学院副教授，程明明教授团队，CCF 学生领航计划（SPP）工作组成员。主持国家自然科学青年基金、天基 XX 项目课题（200 万元）以及多项算法研究类的校企合作项目。曾获 2022 粤港澳大湾区（黄埔）国际算法算例大赛（遥感目标检测赛道）亚军（2/116队伍）、CVPR 2025 “反无人机”挑战赛（赛道一）冠军、第二届“吉林一号”杯卫星遥感应用青年创新创业大赛一等奖。
+戴一冕，南开大学计算机学院副教授，程明明教授团队，CCF 学生领航计划（SPP）工作组成员。主持国家自然科学青年基金、天津市青年基金以及多项算法研究类的校企合作项目。曾获 2022 粤港澳大湾区（黄埔）国际算法算例大赛（遥感目标检测赛道）亚军（2/116队伍）、CVPR 2025 “反无人机”挑战赛（赛道一）冠军、第二届“吉林一号”杯卫星遥感应用青年创新创业大赛一等奖。
 
 他本硕博就读于南京航空航天大学，2020 年 12 月获博士学位，后在南京理工大学跟随杨健教授从事博士后研究，2024 年 12 月入职南开大学。近十年来，他长期专注于遥感目标检测，特别是红外弱小目标检测的研究，主持发布 SIRST V1/ V2、HazyDet、Poseidon-300K、GrokLST等多个开源数据集，并与国防科大、中航工业光电所、中科院西安光机所等重点国防院所建立了良好的长期合作关系。博士和博士后期间，他以第一作者发表论文 10 篇，其中 ESI 高被引期刊论文 5 篇，3 篇引用超过 600 次，单篇最高引用超 1200 次。目前，他的 Google 学术总引用为 4100 余次，并于 2023、2024 连续入选斯坦福 2% 顶尖科学家榜单。
 
@@ -111,16 +111,6 @@ authors:
 
 本小组只承接遥感目标检测方向的算法研究类课题。事实上，南开这类学校很难作为总体直接承接，而我这种小青椒更不可能。所以，对本小组而言，无论是横向项目还是纵向项目，本质是完全相同的，只需要专注核心算法即可。
 
-本小组在研和结题的项目如下：
-
-1. 国家自然科学基金委员会（关键词：弱小目标检测），青年基金，2024.01 至 2025.12，30万元，主持，在研；
-2. 某装备项目课题（关键词：弱小目标检测），2025.09 至 2026.08，200 万元，主持，在研；
-3. 航空工业某所（关键词：弱小目标检测），2025.03 至 2025.09，28 万元，主持，在研；
-4. 国家自然科学基金委员会（关键词：弱小目标检测），面上项目课题，2025.01 至 2028.12，10万元，主持，在研；
-5. 航天科工某院某部（关键词：弱小目标检测），2022.10 至 2024.10，22 万元，共同主持，结题；
-6. 中国船舶某院某所（关键词：弱小目标检测），2022.07 至 2024.12，17 万元，主持，结题；
-7. 中国博士后科学基金会（关键词：弱小目标检测），面上资助，2022.01 至 2023.12，8 万，主持，结题。
-
 ## 5 获奖信息
 
 ### 5.1 比赛获奖
@@ -161,16 +151,6 @@ authors:
 - [9] **Yimian Dai***, Peiwen Pan*, Yulei Qian, Yuxuan Li, Xiang Li, Jian Yang, Huan Wang. Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention[J]. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024: 62: 1-15.
 - [10] **Yimian Dai**, Xiang Li#, Fei Zhou, Yulei Qian, Yaohong Chen, Jian Yang#. One-Stage Cascade Refinement Networks for Infrared Small Target Detection[J]. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2023, 61: 1-17.
 - [11] **Yimian Dai**, Yiquan Wu, Fei Zhou, Kobus Barnard. Attentional Local Contrast Networks for Small Infrared Target Detection[J]. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2021, 59(11): 9813-9824.
-
-### 6.3 其他
-
-- [12] Fengyi Wu, **Yimian Dai**, Tianfang Zhang, Yixuan Ding, Jian Yang, Ming-Ming Cheng, Zhenming Peng. RPCANet++: Deep Interpretable Robust PCA for Sparse Object Segmentation[J]. arXiv preprint arXiv:2508.04190.
-- [13] Yuxuan Li, Xiang Li, Yunheng Li, Yicheng Zhang, **Yimian Dai**, Qibin Hou, Ming-Ming Cheng, Jian Yang. SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection[C]. arXiv preprint arXiv:2412.20665.
-- [14] Ruojing Li, Wei An, Xinyi Ying, Yingqian Wang, **Yimian Dai**, Longguang Wang, Miao Li, Yulan Guo, Li Liu. Probing Deep into Temporal Profile Makes the Infrared Small Target Detector Much Better[J]. arXiv preprint arXiv:2506.12766.
-- [15] Nuo Chen, Chao Xiao, **Yimian Dai**, Shiman He, Miao Li, Wei An. Event-based Tiny Object Detection: A Benchmark Dataset and Baseline[C]. *International Conference on Computer Vision (ICCV)*, 2025.
-- [16] Chuang Yu, Jinmiao Zhao, Yunpeng Liu, Sicheng Zhao, **Yimian Dai**, Xiangyu Yue. From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection With Single Point Supervision[C]. *International Conference on Computer Vision (ICCV)*, 2025.
-- [17] Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, **Yimian Dai**, Ming-Ming Cheng, Xiang Li. A Simple Detector with Frame Dynamics is a Strong Tracker[C]. *IEEE Computer Vision and Pattern Recognition Conference (CVPR) Workshop*, 2025.
-- [18] Yuxuan Li, Xiang Li, **Yimian Dai**, Qibin Hou, Li Liu, Yongxiang Liu, Ming-Ming Cheng, Jian Yang. LSKNet: A Foundation Lightweight Backbone for Remote Sensing[J]. *International Journal of Computer Vision (IJCV)*, 2025, 133: 1410-1431.
 
 最后更新日期：2025 年 8 月 9 日
 

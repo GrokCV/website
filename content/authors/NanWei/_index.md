@@ -10,7 +10,7 @@ last_name: Wei
 superuser: false
 
 # Role/position
-role: Engineer @ CETC 14
+role: Algorithm Engineer @ CETC 14
 
 
 # Organizations/Affiliations

@@ -11,7 +11,7 @@ superuser: false
 
 
 # Role/position
-role: Engineer @ Pinduoduo
+role: Algorithm Engineer @ Pinduoduo
 
 # Organizations/Affiliations
 organizations:

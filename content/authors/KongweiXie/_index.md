@@ -10,7 +10,7 @@ last_name: Xie
 superuser: false
 
 # Role/position
-role: Image Fusion
+role: IT Administrator
 
 
 # Organizations/Affiliations
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - - Technical Support
 ---
 
-Kongwei Xie (谢孔伟) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China, and an intern under the supervision of [Prof. Yimian Dai](https://grokcv.site/). His main research direction is image fusion.
+Kongwei Xie (谢孔伟) is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China, and an intern under the supervision of [Prof. Yimian Dai](https://grokcv.site/). His main research direction is image fusion. He is also a specalist in LaTeX.

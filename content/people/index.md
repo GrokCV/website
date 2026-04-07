@@ -22,6 +22,7 @@ sections:
           # - Grad Students
           - Undergraduate
           - Teaching Assistant
+          - Technical Support
           - Administration
           # - Visitors
           - Alumni

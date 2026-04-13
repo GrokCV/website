@@ -5,4 +5,4 @@ draft: false
 math: true
 ---
 
-页面装修中，未完工
+数据集的中文博客还没来得及写，下载数据集可以访问 <https://github.com/YimianDai/open-sirst-v2>

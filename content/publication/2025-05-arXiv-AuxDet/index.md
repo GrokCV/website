@@ -23,7 +23,7 @@ date: "2025-05-21"
 
 publication_types: ["preprint"]
 
-publication: "arXiv preprint arXiv:2505.15184, 2025"
+publication: "IEEE Transactions on Geoscience and Remote Sensing*, pp. 1–16, 2026"
 # publication_short: "arXiv"
 doi: "10.48550/arXiv.2505.15184"
 

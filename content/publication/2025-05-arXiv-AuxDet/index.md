@@ -49,7 +49,7 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_cn_pdf: ""
+url_cn_pdf: "https://gitee.com/YimianDai/filebed/blob/master/translation/2026-TGRS-AuxDet-CN-Translation.pdf"
 url_cn_blog: "https://grokcv.site/blog/auxdet/"
 url_cn_video: "https://www.bilibili.com/video/BV1vJKNziETM"
 

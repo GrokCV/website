@@ -14,8 +14,8 @@ role: Object Detection
 
 # Organizations/Affiliations
 organizations:
-  - name:  Xinjiang University
-    url: https://www.xju.edu.cn/
+  - name: Nankai University
+    url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include infrared small target detection and tracking.
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
+    - course: MEng in Computer Science
+      institution: Nankai University
+      year: 2029
     - course: BEng in Software Engineering
       institution: Xinjiang University
       year: 2026
@@ -49,10 +49,10 @@ social:
   #   link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Hareplace
+    link: https://github.com/dianfangSun
   - icon: weixin
     icon_pack: fab
-    link: https://github.com/Hareplace/Wechat/blob/main/sundianfang_wechat.png
+    link: https://github.com/dianfangSun/Wechat/blob/main/sundianfang_wechat.png
   # - icon: youtube
   #   icon_pack: fab
   #   link: https://space.bilibili.com/833564
@@ -77,8 +77,5 @@ user_groups:
   - Master Student
 ---
 
-Dianfang Sun (孙殿芳) is currently pursuing her Bachelor's degree in Software Engineering at Xinjiang University. She is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/).
-
-Beginning in September 2026, she will pursue her Master's degree at the College of Computer Science, Nankai University, where she will be supervised by [Prof. Yimian Dai](https://grokcv.site/). Her research interests include infrared small target detection, tracking, and unmixing.
+Dianfang Sun (孙殿芳) is currently pursuing her Master's degree at the College of Computer Science, Nankai University, under the supervision of [Prof. Yimian Dai](https://grokcv.site/). Her research interests include infrared small target detection, tracking, and unmixing.
 {style="text-align: justify;"}
-

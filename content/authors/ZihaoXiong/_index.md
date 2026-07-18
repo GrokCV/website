@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - PhD Student
 ---
 
 Zihao Xiong (熊子豪) is currently pursuing his Bachelor's degree in Electronic Information Engineering at Henan University of Technology. He is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/).

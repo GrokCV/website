@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - Master Student
 ---
 
 Siyu Chen (陈思予) is currently pursuing his Bachelor's degree in Information Security at Beijing University of Technology. He is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/).

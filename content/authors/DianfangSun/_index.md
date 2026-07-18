@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - Master Student
 ---
 
 Dianfang Sun (孙殿芳) is currently pursuing her Bachelor's degree in Software Engineering at Xinjiang University. She is also a research intern at the VCIP, Nankai University, supervised by [Prof. Yimian Dai](https://grokcv.site/).

@@ -17,6 +17,7 @@ sections:
           - Staff
           - Close Collaborator
           - PhD Student
+          - Research Assistant          
           - Engineer
           - Master Student
           # - Grad Students

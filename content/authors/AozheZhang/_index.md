@@ -77,5 +77,6 @@ user_groups:
 ---
 
 Aozhe Zhang (张奥喆) is an undergraduate student majoring in Computer Science and Technology at Nankai University. His research interests include infrared small target detection, model lightweighting for object detection, and sim-to-real.
+He will begin his direct-entry Ph.D. program in September 2027 under the supervision of [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm/) and  [Prof. Yimian Dai](https://grokcv.site/).
 {style="text-align: justify;"}
 

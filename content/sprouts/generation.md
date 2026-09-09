@@ -1,6 +1,6 @@
 ---
 title: 新芽专题介绍（X）：面向下游任务的生成模型
-date: 2025-08-02T12:25:00Z
+date: 2025-09-18T01:00:01Z
 draft: false
 math: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍（X）：多模态基础模型
+title: 新芽专题介绍（1）：多模态基础模型
 date: 2025-09-18T01:00:00Z
 draft: false
 math: true

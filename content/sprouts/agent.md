@@ -1,5 +1,5 @@
 ---
-title: 新芽专题介绍：主动视觉感知智能体
+title: 新芽专题介绍（4）：主动视觉感知智能体
 date: 2025-09-18T01:00:03Z
 draft: false
 math: true

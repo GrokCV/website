@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：红外弱小目标检测
 date: 2025-09-17T01:50:00Z
-draft: false
+draft: true
 math: true
 ---
 

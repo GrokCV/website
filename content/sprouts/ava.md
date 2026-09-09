@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：视听场景下的情感数字人
 date: 2025-09-17T01:12:00Z
-draft: false
+draft: true
 math: true
 ---
 

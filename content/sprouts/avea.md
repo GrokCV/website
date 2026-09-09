@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：自动剪辑算法及场景应用
 date: 2025-09-17T01:38:00Z
-draft: false
+draft: true
 math: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：三维点云目标检测
 date: 2025-09-17T01:30:00Z
-draft: false
+draft: true
 math: true
 ---
 

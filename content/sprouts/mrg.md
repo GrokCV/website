@@ -1,7 +1,7 @@
 ---
 title: 研究生专题介绍：医学报告生成
 date: 2025-09-16T01:47:01Z
-draft: false
+draft: true
 math: true
 authors: 
 - admin

@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：基于提示的视频描述优化
 date: 2025-09-17T01:15:00Z
-draft: false
+draft: true
 math: true
 ---
 

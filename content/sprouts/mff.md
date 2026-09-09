@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：多模态医学信息处理——眼底相关多模态融合
 date: 2025-09-17T01:06:00Z
-draft: false
+draft: true
 math: true
 ---
 

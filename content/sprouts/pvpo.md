@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：全景视频感知优化
 date: 2025-09-17T01:14:00Z
-draft: false
+draft: true
 math: true
 ---
 

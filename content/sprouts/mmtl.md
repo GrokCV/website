@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：多模态多任务统一模型
 date: 2025-09-17T01:31:00Z
-draft: false
+draft: true
 math: true
 ---
 

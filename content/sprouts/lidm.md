@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：红外检测大模型
 date: 2025-09-17T01:28:00Z
-draft: false
+draft: true
 math: true
 ---
 

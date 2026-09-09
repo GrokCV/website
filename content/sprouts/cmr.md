@@ -1,7 +1,7 @@
 ---
 title: 新芽专题介绍：心脏磁共振重建
 date: 2025-09-16T01:48:00Z
-draft: false
+draft: true
 math: true
 authors:
 - lichengkang

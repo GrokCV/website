@@ -1,7 +1,7 @@
 ---
 title: 新芽训练营简介
-date: 2025-09-17T01:51:00Z
-draft: false
+date: 2025-09-19T01:59:00Z
+draft: true
 math: true
 ---
 

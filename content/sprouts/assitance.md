@@ -1,6 +1,6 @@
 ---
-title: 新芽专题介绍（15）：基于VLA的实体化拍摄辅助
-date: 2025-09-18T01:45:00Z
+title: 新芽专题介绍（16）：基于 VLA 的实体化拍摄辅助
+date: 2025-09-18T01:44:00Z
 draft: false
 math: true
 ---

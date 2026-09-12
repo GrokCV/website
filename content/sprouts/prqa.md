@@ -1,7 +1,7 @@
 ---
-title: 新芽专题介绍：审稿质量评估
-date: 2025-09-17T01:33:00Z
-draft: true
+title: 新芽专题介绍（15）：科学论文审稿意见质量评估
+date: 2025-09-18T01:45:00Z
+draft: false
 math: true
 ---
 
